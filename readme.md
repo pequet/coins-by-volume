@@ -55,14 +55,14 @@
 | 53. | SHIFT | Shift | 9,762 | Upbit (9,758)<br />Livecoin (8,447)<br />Idax (0)<br />| 18,204 | 60.55 | 36.26 | 
 | 54. | TKS | Tokes | 30,099 | Waves Platform (150)<br />| 150 | 48.40 | 23.62 | 
 | 55. | FLO | FLO | 17,029 | TOKOK (13,683)<br />Nova Exchange (9)<br />Coinexchange (0)<br />BitRabbit (0)<br />Freiexchange (0)<br />| 13,692 | 62.50 | 35.37 | 
-| 56. | MUE | MonetaryUnit | 16,420 | Upbit (15,505)<br />CryptoBridge (2)<br />Nova Exchange (1)<br />BitOnBay (0)<br />YoBit (0)<br />NLexch (0)<br />Coinexchange (0)<br />| 15,508 | 56.95 | 23.60 | 
-| 57. | CRW | Crown | 15,971 | Upbit (15,973)<br />LiteBit (477)<br />CryptoBridge (24)<br />YoBit (0)<br />Braziliex (0)<br />Coinexchange (0)<br />| 16,474 | 71.20 | 40.99 | 
-| 58. | PART | Particl | 8,788 | ChainEX (10,123)<br />Upbit (8,789)<br />Probit (3,155)<br />LiteBit (2,782)<br />Bit-Z (52)<br />Chainrift (0)<br />| 24,902 | 74.35 | 49.16 | 
-| 59. | VEE | BLOCKv | 13,337 | Upbit (12,843)<br />Ethfinex (9,008)<br />Bancor Network (474)<br />Radar Relay (58)<br />AirSwap (3)<br />OKEx (0)<br />TokenJar (0)<br />FCoin (0)<br />ForkDelta (0)<br />Idex (0)<br />Tidex (0)<br />| 22,386 | 65.70 | 33.45 | 
-| 60. | VRC | VeriCoin | 16,916 | Upbit (16,914)<br />Livecoin (2,743)<br />Bitsane (1,046)<br />bleutrade (5)<br />CryptoBridge (0)<br />Trade Satoshi (0)<br />Cryptopia (0)<br />| 20,708 | 61.25 | 42.03 | 
-| 61. | SYNX | Syndicate | 20,398 | Upbit (20,407)<br />YoBit (0)<br />Cryptopia (0)<br />BitOnBay (0)<br />CryptoBridge (0)<br />Coinexchange (0)<br />| 20,407 | 59.75 | 27.75 | 
-| 62. | COVAL | Circuits of Value | 43,678 | | 0 | 50.90 | 20.67 | 
-| 63. | BLK | BlackCoin | 3,995 | CoinEgg (34,627)<br />Upbit (3,995)<br />Livecoin (1,740)<br />Cryptopia (201)<br />LiteBit (104)<br />Coinexchange (24)<br />Trade Satoshi (0)<br />Nova Exchange (0)<br />Tux Exchange (0)<br />| 40,690 | 55.25 | 38.51 | 
+| 56. | CRW | Crown | 15,971 | Upbit (15,973)<br />LiteBit (477)<br />CryptoBridge (24)<br />YoBit (0)<br />Braziliex (0)<br />Coinexchange (0)<br />| 16,474 | 71.20 | 40.99 | 
+| 57. | PART | Particl | 8,788 | ChainEX (10,123)<br />Upbit (8,789)<br />Probit (3,155)<br />LiteBit (2,782)<br />Bit-Z (52)<br />Chainrift (0)<br />| 24,902 | 74.35 | 49.16 | 
+| 58. | VEE | BLOCKv | 13,337 | Upbit (12,843)<br />Ethfinex (9,008)<br />Bancor Network (474)<br />Radar Relay (58)<br />AirSwap (3)<br />OKEx (0)<br />TokenJar (0)<br />FCoin (0)<br />ForkDelta (0)<br />Idex (0)<br />Tidex (0)<br />| 22,386 | 65.70 | 33.45 | 
+| 59. | VRC | VeriCoin | 16,916 | Upbit (16,914)<br />Livecoin (2,743)<br />Bitsane (1,046)<br />bleutrade (5)<br />CryptoBridge (0)<br />Trade Satoshi (0)<br />Cryptopia (0)<br />| 20,708 | 61.25 | 42.03 | 
+| 60. | SYNX | Syndicate | 20,398 | Upbit (20,407)<br />YoBit (0)<br />Cryptopia (0)<br />BitOnBay (0)<br />CryptoBridge (0)<br />Coinexchange (0)<br />| 20,407 | 59.75 | 27.75 | 
+| 61. | COVAL | Circuits of Value | 43,678 | | 0 | 50.90 | 20.67 | 
+| 62. | BLK | BlackCoin | 3,995 | CoinEgg (34,627)<br />Upbit (3,995)<br />Livecoin (1,740)<br />Cryptopia (201)<br />LiteBit (104)<br />Coinexchange (24)<br />Trade Satoshi (0)<br />Nova Exchange (0)<br />Tux Exchange (0)<br />| 40,690 | 55.25 | 38.51 | 
+| 63. | MUE | MonetaryUnit | 23,342 | Upbit (23,337)<br />CryptoBridge (2)<br />Nova Exchange (1)<br />BitOnBay (0)<br />YoBit (0)<br />NLexch (0)<br />Coinexchange (0)<br />| 23,340 | 56.95 | 23.60 | 
 | 64. | BFT | BnkToTheFuture | 10,504 | Huobi Global (23,645)<br />Upbit (10,504)<br />Gate.io (2,835)<br />Ethfinex (339)<br />DragonEx (137)<br />FCoin (0)<br />CryptalDash (0)<br />| 37,459 | 71.30 | 28.82 | 
 | 65. | NMR | Numeraire | 26,575 | Upbit (25,641)<br />HitBTC (1,537)<br />Uniswap (1,184)<br />AirSwap (860)<br />Poloniex (807)<br />DDEX (182)<br />TokenJar (0)<br />Paro Exchange (0)<br />Radar Relay (0)<br />ForkDelta (0)<br />YoBit (0)<br />Idex (0)<br />| 30,210 | 55.35 | 28.32 | 
 | 66. | UP | UpToken | 27,331 | Upbit (27,331)<br />Bancor Network (3,165)<br />ForkDelta (0)<br />| 30,496 | 59.70 | 22.91 | 
