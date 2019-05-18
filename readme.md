@@ -39,7 +39,7 @@
 | 37. | INCNT | Incent | 86 | Livecoin (15,498)<br />OpenLedger DEX (0)<br />| 15,498 | 51.15 | 6.68 | 
 | 38. | KORE | Kore | 8,050 | Upbit (8,050)<br />Trade Satoshi (0)<br />| 8,050 | 42.60 | 22.09 | 
 | 39. | EXCL | ExclusiveCoin | 9,079 | Upbit (9,067)<br />OpenLedger DEX (31)<br />Coinexchange (0)<br />CryptoBridge (0)<br />BiteBTC (0)<br />| 9,098 | 51.95 | 30.10 | 
-| 40. | RADS | Radium | 9,201 | Upbit (9,201)<br />LiteBit (653)<br />Livecoin (68)<br />CREX24 (1)<br />Coinexchange (0)<br />Bisq (0)<br />| 9,924 | 51.55 | 29.46 | 
+| 40. | RADS | Radium | 9,146 | Upbit (9,149)<br />LiteBit (450)<br />Livecoin (68)<br />CREX24 (1)<br />Coinexchange (0)<br />Bisq (0)<br />| 9,669 | 51.55 | 29.46 | 
 | 41. | AID | AidCoin | 9,330 | Upbit (9,337)<br />Ethfinex (459)<br />Bancor Network (119)<br />TokenJar (0)<br />Idex (0)<br />| 9,915 | 56.70 | 26.43 | 
 | 42. | LBC | LBRY Credits | 7,136 | Upbit (7,136)<br />Poloniex (4,919)<br />Cryptopia (75)<br />Instant Bitex (0)<br />Coindeal (0)<br />| 12,130 | 64.60 | 48.08 | 
 | 43. | TX | TransferCoin | 9,196 | Upbit (9,202)<br />Livecoin (1,935)<br />Cryptopia (424)<br />YoBit (21)<br />| 11,582 | 41.75 | 31.63 | 
@@ -53,7 +53,7 @@
 | 51. | NGC | Naga | 9,712 | Upbit (10,460)<br />Sistemkoin (6,678)<br />HitBTC (778)<br />OKEx (0)<br />TokenJar (0)<br />FCoin (0)<br />Cryptology (0)<br />Idex (0)<br />| 17,916 | 55.05 | 26.70 | 
 | 52. | SHIFT | Shift | 9,810 | Upbit (9,811)<br />Livecoin (8,277)<br />Idax (0)<br />| 18,088 | 60.55 | 36.26 | 
 | 53. | BSD | BitSend | 11,058 | Upbit (11,000)<br />BitOnBay (4,154)<br />Livecoin (2,400)<br />LiteBit (267)<br />SouthXchange (78)<br />Cryptopia (66)<br />CREX24 (35)<br />Coinexchange (9)<br />Trade Satoshi (3)<br />Bitsten (0)<br />Nova Exchange (0)<br />Altilly (0)<br />| 18,013 | 59.50 | 33.91 | 
-| 54. | TKS | Tokes | 31,499 | Waves Platform (150)<br />| 150 | 48.40 | 23.62 | 
+| 54. | TKS | Tokes | 30,099 | Waves Platform (150)<br />| 150 | 48.40 | 23.62 | 
 | 55. | MUE | MonetaryUnit | 16,420 | Upbit (15,505)<br />CryptoBridge (2)<br />Nova Exchange (1)<br />BitOnBay (0)<br />YoBit (0)<br />NLexch (0)<br />Coinexchange (0)<br />| 15,508 | 56.95 | 23.60 | 
 | 56. | CRW | Crown | 16,316 | Upbit (16,321)<br />LiteBit (557)<br />CryptoBridge (30)<br />YoBit (0)<br />Braziliex (0)<br />Coinexchange (0)<br />| 16,909 | 71.20 | 40.99 | 
 | 57. | SPC | SpaceChain | 2,547 | CoinEgg (28,633)<br />Upbit (2,606)<br />EXX (599)<br />CoinNest (0)<br />| 31,838 |  | 31.91 | 
