@@ -38,7 +38,7 @@
 | 36. | XEL | XEL | 6,761 | Upbit (6,761)<br />| 6,761 | 60.20 | 29.52 | 
 | 37. | SPHR | Sphere | 6,918 | Upbit (6,922)<br />| 6,922 | 41.80 | 25.76 | 
 | 38. | NLC2 | NoLimitCoin | 12,887 | HitBTC (753)<br />Cryptopia (254)<br />YoBit (114)<br />Coinexchange (31)<br />Nova Exchange (0)<br />| 1,152 | 54.95 | 20.94 | 
-| 39. | RADS | Radium | 7,170 | Upbit (7,167)<br />LiteBit (535)<br />Livecoin (80)<br />CREX24 (30)<br />Bisq (0)<br />Coinexchange (0)<br />| 7,813 | 51.55 | 30.35 | 
+| 39. | RADS | Radium | 7,861 | Upbit (7,870)<br />LiteBit (556)<br />Livecoin (80)<br />CREX24 (59)<br />Bisq (0)<br />Coinexchange (0)<br />| 8,566 | 51.55 | 30.35 | 
 | 40. | CBC | CashBet | 1,676 | KuCoin (15,278)<br />HitBTC (0)<br />TokenJar (0)<br />Idex (0)<br />| 15,278 | 56.45 | 16.21 | 
 | 41. | BSD | BitSend | 5,016 | Upbit (5,016)<br />BitOnBay (4,200)<br />Livecoin (2,874)<br />LiteBit (130)<br />SouthXchange (71)<br />Cryptopia (66)<br />Trade Satoshi (10)<br />Nova Exchange (8)<br />CREX24 (1)<br />Bitsten (0)<br />Altilly (0)<br />Coinexchange (0)<br />| 12,376 | 59.50 | 33.37 | 
 | 42. | SIB | Sibcoin | 7,805 | Upbit (7,805)<br />Livecoin (2,309)<br />YoBit (44)<br />BTC Trade UA (2)<br />Trade Satoshi (0)<br />C-CEX (0)<br />Cryptopia (0)<br />BTC-Alpha (0)<br />| 10,161 | 54.50 | 34.52 | 
