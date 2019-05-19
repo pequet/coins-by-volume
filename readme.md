@@ -54,11 +54,11 @@
 | 52. | TX | TransferCoin | 12,234 | Upbit (12,221)<br />Livecoin (1,644)<br />Cryptopia (424)<br />YoBit (0)<br />| 14,289 | 41.75 | 31.12 | 
 | 53. | NGC | Naga | 10,442 | Upbit (11,190)<br />Sistemkoin (5,971)<br />HitBTC (1,101)<br />OKEx (0)<br />FCoin (0)<br />Cryptology (0)<br />TokenJar (0)<br />Idex (0)<br />| 18,262 | 55.05 | 28.92 | 
 | 54. | HMQ | Humaniq | 5,820 | Mercatox (16,579)<br />Upbit (5,816)<br />HitBTC (489)<br />YoBit (0)<br />Simex (0)<br />ForkDelta (0)<br />Hotbit (0)<br />Idex (0)<br />| 22,884 | 60.40 | 36.81 | 
-| 55. | GUP | Guppy | 15,356 | Upbit (15,357)<br />Livecoin (188)<br />HitBTC (169)<br />ForkDelta (2)<br />YoBit (0)<br />Radar Relay (0)<br />TokenJar (0)<br />| 15,716 |  | 33.24 | 
-| 56. | COVAL | Circuits of Value | 31,095 | | 0 | 50.90 | 20.34 | 
-| 57. | SYNX | Syndicate | 15,621 | Upbit (15,621)<br />YoBit (0)<br />Cryptopia (0)<br />BitOnBay (0)<br />CryptoBridge (0)<br />Coinexchange (0)<br />| 15,622 | 59.75 | 28.78 | 
-| 58. | AMP | AMP | 16,092 | Upbit (16,092)<br />HitBTC (79)<br />FUBT (0)<br />Cryptopia (0)<br />LATOKEN (0)<br />| 16,171 | 49.25 | 34.85 | 
-| 59. | TKS | Tokes | 32,855 | Waves Platform (150)<br />| 150 | 48.40 | 25.78 | 
+| 55. | TKS | Tokes | 30,579 | Waves Platform (150)<br />| 150 | 48.40 | 25.78 | 
+| 56. | GUP | Guppy | 15,356 | Upbit (15,357)<br />Livecoin (188)<br />HitBTC (169)<br />ForkDelta (2)<br />YoBit (0)<br />Radar Relay (0)<br />TokenJar (0)<br />| 15,716 |  | 33.24 | 
+| 57. | COVAL | Circuits of Value | 31,095 | | 0 | 50.90 | 20.34 | 
+| 58. | SYNX | Syndicate | 15,621 | Upbit (15,621)<br />YoBit (0)<br />Cryptopia (0)<br />BitOnBay (0)<br />CryptoBridge (0)<br />Coinexchange (0)<br />| 15,622 | 59.75 | 28.78 | 
+| 59. | AMP | AMP | 16,092 | Upbit (16,092)<br />HitBTC (79)<br />FUBT (0)<br />Cryptopia (0)<br />LATOKEN (0)<br />| 16,171 | 49.25 | 34.85 | 
 | 60. | PTOY | Patientory | 17,644 | Upbit (15,641)<br />HitBTC (49)<br />ForkDelta (0)<br />LATOKEN (0)<br />TokenJar (0)<br />Radar Relay (0)<br />Idex (0)<br />| 15,690 | 47.85 | 24.57 | 
 | 61. | FLO | FLO | 23,314 | TOKOK (14,387)<br />Freiexchange (42)<br />Nova Exchange (16)<br />BitRabbit (0)<br />Coinexchange (0)<br />| 14,445 | 62.50 | 36.37 | 
 | 62. | QRL | Quantum Resistant Ledger | 21,605 | Upbit (21,589)<br />Paro Exchange (0)<br />Coinexchange (0)<br />Tidex (0)<br />| 21,589 | 70.30 | 47.01 | 
