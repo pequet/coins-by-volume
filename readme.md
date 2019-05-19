@@ -57,7 +57,7 @@
 | 55. | NGC | Naga | 11,176 | Upbit (11,925)<br />Sistemkoin (6,677)<br />HitBTC (1,022)<br />OKEx (0)<br />Cryptology (0)<br />TokenJar (0)<br />FCoin (0)<br />Idex (0)<br />| 19,624 | 55.05 | 28.92 | 
 | 56. | QRL | Quantum Resistant Ledger | 15,688 | Upbit (15,667)<br />Paro Exchange (0)<br />Coinexchange (0)<br />Tidex (0)<br />| 15,667 | 70.30 | 47.01 | 
 | 57. | SWT | Swarm City Token | 15,184 | Upbit (16,075)<br />HitBTC (125)<br />YoBit (1)<br />ForkDelta (0)<br />Coinbe (0)<br />Uniswap (0)<br />| 16,201 | 63.70 | 41.70 | 
-| 58. | TKS | Tokes | 32,700 | Waves Platform (150)<br />| 150 | 48.40 | 23.62 | 
+| 58. | TKS | Tokes | 32,855 | Waves Platform (150)<br />| 150 | 48.40 | 25.78 | 
 | 59. | GUP | Guppy | 16,896 | Upbit (16,892)<br />HitBTC (175)<br />Livecoin (169)<br />ForkDelta (2)<br />YoBit (0)<br />TokenJar (0)<br />Radar Relay (0)<br />| 17,238 |  | 33.24 | 
 | 60. | PTOY | Patientory | 16,964 | Upbit (17,452)<br />HitBTC (494)<br />ForkDelta (0)<br />Idex (0)<br />TokenJar (0)<br />Radar Relay (0)<br />LATOKEN (0)<br />| 17,945 | 47.85 | 24.57 | 
 | 61. | COVAL | Circuits of Value | 35,318 | | 0 | 50.90 | 20.34 | 
