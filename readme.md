@@ -38,7 +38,7 @@
 | 36. | UBQ | Ubiq | 6,108 | Upbit (6,011)<br />Cryptopia (120)<br />LiteBit (35)<br />| 6,166 | 64.10 | 31.00 | 
 | 37. | NLC2 | NoLimitCoin | 11,121 | HitBTC (1,286)<br />Cryptopia (254)<br />YoBit (114)<br />Coinexchange (2)<br />Nova Exchange (0)<br />| 1,657 | 54.95 | 20.94 | 
 | 38. | TIX | Blocktix | 6,147 | Upbit (7,507)<br />HitBTC (159)<br />ForkDelta (0)<br />Cryptopia (0)<br />Radar Relay (0)<br />TokenJar (0)<br />ChainEX (0)<br />| 7,666 | 58.30 | 26.95 | 
-| 39. | RADS | Radium | 6,618 | Upbit (6,613)<br />LiteBit (555)<br />Livecoin (86)<br />CREX24 (2)<br />Bisq (0)<br />Coinexchange (0)<br />| 7,256 | 51.55 | 30.35 | 
+| 39. | RADS | Radium | 7,170 | Upbit (7,167)<br />LiteBit (535)<br />Livecoin (80)<br />CREX24 (30)<br />Bisq (0)<br />Coinexchange (0)<br />| 7,813 | 51.55 | 30.35 | 
 | 40. | BSD | BitSend | 3,752 | BitOnBay (4,175)<br />Upbit (3,751)<br />Livecoin (3,041)<br />LiteBit (138)<br />SouthXchange (92)<br />Cryptopia (66)<br />Trade Satoshi (2)<br />CREX24 (1)<br />Bitsten (0)<br />Nova Exchange (0)<br />Altilly (0)<br />Coinexchange (0)<br />| 11,265 | 59.50 | 33.37 | 
 | 41. | INCNT | Incent | 141 | Livecoin (16,075)<br />OpenLedger DEX (0)<br />| 16,075 | 51.15 | 8.35 | 
 | 42. | GLC | GoldCoin | 16,760 | Trade Satoshi (63)<br />Altilly (0)<br />| 63 | 54.70 | 23.52 | 
