@@ -38,10 +38,10 @@
 | 36. | CRW | Crown | 6,082 | Upbit (6,083)<br />LiteBit (203)<br />CryptoBridge (38)<br />YoBit (0)<br />Braziliex (0)<br />Coinexchange (0)<br />| 6,325 | 71.20 | 40.99 | 
 | 37. | CBC | CashBet | 1,556 | KuCoin (11,634)<br />HitBTC (0)<br />TokenJar (0)<br />Idex (0)<br />| 11,634 | 56.45 | 16.44 | 
 | 38. | TIX | Blocktix | 6,128 | Upbit (7,521)<br />HitBTC (152)<br />ForkDelta (0)<br />Cryptopia (0)<br />Radar Relay (0)<br />TokenJar (0)<br />ChainEX (0)<br />| 7,672 | 58.30 | 25.46 | 
-| 39. | RADS | Radium | 7,667 | Upbit (7,667)<br />LiteBit (166)<br />Livecoin (68)<br />CREX24 (0)<br />Bisq (0)<br />Coinexchange (0)<br />| 7,901 | 51.55 | 29.46 | 
-| 40. | SYNX | Syndicate | 7,885 | Upbit (7,872)<br />YoBit (0)<br />Cryptopia (0)<br />BitOnBay (0)<br />CryptoBridge (0)<br />Coinexchange (0)<br />| 7,872 | 59.75 | 27.75 | 
-| 41. | BSD | BitSend | 4,280 | Upbit (4,282)<br />BitOnBay (4,149)<br />Livecoin (3,053)<br />LiteBit (104)<br />SouthXchange (78)<br />Cryptopia (66)<br />CREX24 (13)<br />Bitsten (0)<br />Coinexchange (0)<br />Trade Satoshi (0)<br />Nova Exchange (0)<br />Altilly (0)<br />| 11,745 | 59.50 | 33.91 | 
-| 42. | BAY | BitBay | 8,354 | Upbit (8,354)<br />LiteBit (72)<br />Cryptopia (26)<br />CryptoBridge (0)<br />| 8,452 | 57.00 | 39.62 | 
+| 39. | SYNX | Syndicate | 7,885 | Upbit (7,872)<br />YoBit (0)<br />Cryptopia (0)<br />BitOnBay (0)<br />CryptoBridge (0)<br />Coinexchange (0)<br />| 7,872 | 59.75 | 27.75 | 
+| 40. | BSD | BitSend | 4,280 | Upbit (4,282)<br />BitOnBay (4,149)<br />Livecoin (3,053)<br />LiteBit (104)<br />SouthXchange (78)<br />Cryptopia (66)<br />CREX24 (13)<br />Bitsten (0)<br />Coinexchange (0)<br />Trade Satoshi (0)<br />Nova Exchange (0)<br />Altilly (0)<br />| 11,745 | 59.50 | 33.91 | 
+| 41. | BAY | BitBay | 8,354 | Upbit (8,354)<br />LiteBit (72)<br />Cryptopia (26)<br />CryptoBridge (0)<br />| 8,452 | 57.00 | 39.62 | 
+| 42. | RADS | Radium | 8,560 | Upbit (8,555)<br />LiteBit (108)<br />Livecoin (72)<br />CREX24 (2)<br />Bisq (0)<br />Coinexchange (0)<br />| 8,738 | 51.55 | 29.46 | 
 | 43. | LBC | LBRY Credits | 5,992 | Poloniex (6,112)<br />Upbit (5,992)<br />Cryptopia (75)<br />Instant Bitex (0)<br />Coindeal (0)<br />| 12,178 | 64.60 | 48.08 | 
 | 44. | INCNT | Incent | 151 | Livecoin (18,820)<br />OpenLedger DEX (0)<br />| 18,820 | 51.15 | 6.68 | 
 | 45. | UKG | UnikoinGold | 9,006 | Upbit (8,455)<br />KuCoin (1,224)<br />DDEX (211)<br />Liquid (120)<br />YoBit (46)<br />Ethex (36)<br />TokenJar (0)<br />ForkDelta (0)<br />Orderbook.io (0)<br />Radar Relay (0)<br />OKEx (0)<br />Joyso (0)<br />Saturn Network (0)<br />Idex (0)<br />| 10,092 | 62.65 | 31.46 | 
