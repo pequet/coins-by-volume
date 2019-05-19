@@ -55,8 +55,8 @@
 | 53. | HMQ | Humaniq | 4,947 | Mercatox (18,197)<br />Upbit (4,947)<br />HitBTC (362)<br />YoBit (0)<br />Simex (0)<br />ForkDelta (0)<br />Hotbit (0)<br />Idex (0)<br />| 23,506 | 60.40 | 34.96 | 
 | 54. | GUP | Guppy | 15,334 | Upbit (15,334)<br />Livecoin (166)<br />HitBTC (130)<br />ForkDelta (2)<br />YoBit (0)<br />TokenJar (0)<br />Radar Relay (0)<br />| 15,633 |  | 31.62 | 
 | 55. | NGC | Naga | 11,663 | Upbit (12,446)<br />Sistemkoin (6,406)<br />HitBTC (889)<br />OKEx (0)<br />FCoin (0)<br />TokenJar (0)<br />Cryptology (0)<br />Idex (0)<br />| 19,741 | 55.05 | 26.70 | 
-| 56. | TKS | Tokes | 31,967 | Waves Platform (150)<br />| 150 | 48.40 | 23.62 | 
-| 57. | COVAL | Circuits of Value | 32,769 | | 0 | 50.90 | 20.67 | 
+| 56. | COVAL | Circuits of Value | 32,769 | | 0 | 50.90 | 20.67 | 
+| 57. | TKS | Tokes | 32,700 | Waves Platform (150)<br />| 150 | 48.40 | 23.62 | 
 | 58. | PART | Particl | 9,644 | ChainEX (12,367)<br />Upbit (9,650)<br />Probit (3,155)<br />LiteBit (320)<br />Bit-Z (52)<br />Chainrift (0)<br />| 25,544 | 74.35 | 49.16 | 
 | 59. | PTOY | Patientory | 17,193 | Upbit (17,193)<br />HitBTC (1,380)<br />ForkDelta (0)<br />Idex (0)<br />TokenJar (0)<br />Radar Relay (0)<br />LATOKEN (0)<br />| 18,573 | 47.85 | 22.95 | 
 | 60. | QRL | Quantum Resistant Ledger | 18,356 | Upbit (18,356)<br />Coinexchange (0)<br />Paro Exchange (0)<br />Tidex (0)<br />| 18,356 | 70.30 | 47.66 | 
