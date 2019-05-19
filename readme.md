@@ -40,7 +40,7 @@
 | 38. | XEL | XEL | 7,366 | Upbit (7,438)<br />| 7,438 | 60.20 | 29.52 | 
 | 39. | BSD | BitSend | 3,619 | BitOnBay (4,329)<br />Upbit (3,595)<br />Livecoin (3,024)<br />LiteBit (244)<br />SouthXchange (78)<br />Cryptopia (66)<br />CREX24 (8)<br />Bitsten (0)<br />Altilly (0)<br />Coinexchange (0)<br />Nova Exchange (0)<br />Trade Satoshi (0)<br />| 11,344 | 59.50 | 33.37 | 
 | 40. | CBC | CashBet | 2,744 | KuCoin (12,447)<br />HitBTC (0)<br />TokenJar (0)<br />Idex (0)<br />| 12,447 | 56.45 | 16.21 | 
-| 41. | RADS | Radium | 8,560 | Upbit (8,555)<br />LiteBit (108)<br />Livecoin (72)<br />CREX24 (2)<br />Bisq (0)<br />Coinexchange (0)<br />| 8,738 | 51.55 | 29.46 | 
+| 41. | RADS | Radium | 8,020 | Upbit (8,204)<br />LiteBit (334)<br />Livecoin (72)<br />CREX24 (2)<br />Coinexchange (0)<br />Bisq (0)<br />| 8,612 | 51.55 | 30.35 | 
 | 42. | VEE | BLOCKv | 5,696 | Ethfinex (6,281)<br />Upbit (5,205)<br />Bancor Network (511)<br />Radar Relay (58)<br />AirSwap (3)<br />OKEx (0)<br />TokenJar (0)<br />FCoin (0)<br />ForkDelta (0)<br />Tidex (0)<br />Idex (0)<br />| 12,059 | 65.70 | 34.66 | 
 | 43. | BAY | BitBay | 8,964 | Upbit (8,964)<br />LiteBit (91)<br />Cryptopia (26)<br />CryptoBridge (0)<br />| 9,081 | 57.00 | 41.05 | 
 | 44. | INCNT | Incent | 135 | Livecoin (18,122)<br />OpenLedger DEX (0)<br />| 18,122 | 51.15 | 8.35 | 
