@@ -41,9 +41,9 @@
 | 39. | SPHR | Sphere | 6,796 | Upbit (6,798)<br />| 6,798 | 41.80 | 25.76 | 
 | 40. | NLC2 | NoLimitCoin | 13,574 | HitBTC (1,256)<br />Cryptopia (254)<br />YoBit (114)<br />Coinexchange (31)<br />Nova Exchange (0)<br />| 1,656 | 54.95 | 20.94 | 
 | 41. | CBC | CashBet | 1,676 | KuCoin (13,822)<br />TokenJar (0)<br />HitBTC (0)<br />Idex (0)<br />| 13,822 | 56.45 | 16.21 | 
-| 42. | RADS | Radium | 7,861 | Upbit (7,870)<br />LiteBit (556)<br />Livecoin (80)<br />CREX24 (59)<br />Bisq (0)<br />Coinexchange (0)<br />| 8,566 | 51.55 | 30.35 | 
-| 43. | BSD | BitSend | 4,945 | Upbit (4,940)<br />BitOnBay (3,805)<br />Livecoin (2,860)<br />LiteBit (128)<br />SouthXchange (71)<br />Cryptopia (66)<br />Trade Satoshi (10)<br />Nova Exchange (8)<br />CREX24 (1)<br />Bitsten (0)<br />Altilly (0)<br />Coinexchange (0)<br />| 11,889 | 59.50 | 33.37 | 
-| 44. | SWT | Swarm City Token | 8,617 | Upbit (8,618)<br />HitBTC (3)<br />YoBit (1)<br />ForkDelta (0)<br />Uniswap (0)<br />Coinbe (0)<br />| 8,621 | 63.70 | 41.70 | 
+| 42. | BSD | BitSend | 4,945 | Upbit (4,940)<br />BitOnBay (3,805)<br />Livecoin (2,860)<br />LiteBit (128)<br />SouthXchange (71)<br />Cryptopia (66)<br />Trade Satoshi (10)<br />Nova Exchange (8)<br />CREX24 (1)<br />Bitsten (0)<br />Altilly (0)<br />Coinexchange (0)<br />| 11,889 | 59.50 | 33.37 | 
+| 43. | SWT | Swarm City Token | 8,617 | Upbit (8,618)<br />HitBTC (3)<br />YoBit (1)<br />ForkDelta (0)<br />Uniswap (0)<br />Coinbe (0)<br />| 8,621 | 63.70 | 41.70 | 
+| 44. | RADS | Radium | 8,503 | Upbit (8,503)<br />LiteBit (571)<br />Livecoin (80)<br />CREX24 (59)<br />Coinexchange (0)<br />Bisq (0)<br />| 9,213 | 51.55 | 30.35 | 
 | 45. | SIB | Sibcoin | 7,949 | Upbit (7,948)<br />Livecoin (2,202)<br />YoBit (44)<br />BTC Trade UA (2)<br />Trade Satoshi (0)<br />C-CEX (0)<br />Cryptopia (0)<br />BTC-Alpha (0)<br />| 10,197 | 54.50 | 34.52 | 
 | 46. | KORE | Kore | 9,304 | Upbit (9,304)<br />Trade Satoshi (0)<br />| 9,304 | 42.60 | 21.98 | 
 | 47. | UKG | UnikoinGold | 8,571 | Upbit (8,576)<br />KuCoin (1,224)<br />DDEX (211)<br />YoBit (46)<br />Ethex (36)<br />Liquid (5)<br />Orderbook.io (0)<br />OKEx (0)<br />Radar Relay (0)<br />ForkDelta (0)<br />Saturn Network (0)<br />Joyso (0)<br />TokenJar (0)<br />Idex (0)<br />| 10,098 | 62.65 | 32.61 | 
