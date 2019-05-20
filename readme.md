@@ -83,7 +83,7 @@
 | 81. | BURST | BURSTCoin | 51,704 | Upbit (51,717)<br />Coinroom (4,665)<br />Livecoin (241)<br />CryptalDash (0)<br />C-CEX (0)<br />Poloniex (0)<br />| 56,623 | 79.10 | 46.89 | 
 | 82. | FTC | Feathercoin | 7,487 | FinexBox (65,212)<br />QBTC (20,763)<br />Upbit (7,487)<br />Hubi (3,716)<br />LiteBit (2,798)<br />Cryptopia (890)<br />BX Thailand (10)<br />NLexch (0)<br />OKEx (0)<br />Altilly (0)<br />Coinexchange (0)<br />| 100,877 | 49.80 | 43.00 | 
 | 83. | GBYTE | Bytes | 55,670 | Upbit (55,938)<br />Cryptopia (0)<br />Bisq (0)<br />Bit-Z (0)<br />| 55,938 | 67.25 | 47.34 | 
-| 84. | EMC | EmerCoin | 12,630 | HitBTC (48,092)<br />Livecoin (25,371)<br />Upbit (12,630)<br />FEX (11,987)<br />LiteBit (1,148)<br />YoBit (3)<br />NLexch (0)<br />Tux Exchange (0)<br />Cryptopia (0)<br />Coinexchange (0)<br />CREX24 (0)<br />| 99,231 | 71.10 | 46.18 | 
+| 84. | EMC | EmerCoin | 12,630 | HitBTC (48,092)<br />Livecoin (25,371)<br />Upbit (12,630)<br />FEX (11,987)<br />LiteBit (1,148)<br />YoBit (3)<br />Tux Exchange (0)<br />Cryptopia (0)<br />NLexch (0)<br />Coinexchange (0)<br />CREX24 (0)<br />| 99,231 | 71.10 | 46.18 | 
 | 85. | ION | Ion | 61,360 | Upbit (61,048)<br />Escodex (0)<br />Bkex (0)<br />| 61,048 | 58.90 | 39.67 | 
 | 86. | ADT | adToken | 20,871 | Upbit (110,482)<br />TokenJar (29)<br />YoBit (8)<br />AirSwap (1)<br />Idex (0)<br />ForkDelta (0)<br />| 110,520 | 63.25 | 35.73 | 
 | 87. | PMA | PumaPay | 65,976 | Upbit (56,537)<br />HitBTC (16,118)<br />Idex (127)<br />CoinAll (62)<br />CoinBene (0)<br />TokenJar (0)<br />Uniswap (0)<br />Coinexchange (0)<br />OKEx (0)<br />| 72,844 | 65.90 | 35.32 | 
