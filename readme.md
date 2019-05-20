@@ -30,19 +30,19 @@
 | 28. | AEON | Aeon | 2,253 | TradeOgre (7,026)<br />HitBTC (278)<br />Letsdocoinz (0)<br />Bisq (0)<br />| 7,304 | 46.25 | 27.19 | 
 | 29. | PTOY | Patientory | 4,898 | Upbit (4,898)<br />HitBTC (407)<br />ForkDelta (0)<br />Radar Relay (0)<br />Idex (0)<br />TokenJar (0)<br />LATOKEN (0)<br />| 5,305 | 47.85 | 24.57 | 
 | 30. | SPHR | Sphere | 5,226 | Upbit (5,224)<br />| 5,224 | 41.80 | 25.76 | 
-| 31. | DYN | Dynamic | 5,800 | Upbit (5,800)<br />CryptoBridge (0)<br />| 5,800 | 61.90 | 22.44 | 
-| 32. | SIB | Sibcoin | 4,743 | Upbit (4,754)<br />Livecoin (2,175)<br />YoBit (44)<br />BTC Trade UA (2)<br />Trade Satoshi (0)<br />C-CEX (0)<br />Cryptopia (0)<br />BTC-Alpha (0)<br />| 6,975 | 54.50 | 34.52 | 
-| 33. | UP | UpToken | 5,596 | Upbit (5,590)<br />Bancor Network (881)<br />ForkDelta (0)<br />| 6,470 | 59.70 | 24.45 | 
-| 34. | CRW | Crown | 5,712 | Upbit (5,804)<br />LiteBit (643)<br />CryptoBridge (122)<br />YoBit (0)<br />Braziliex (0)<br />Coinexchange (0)<br />| 6,569 | 71.20 | 42.14 | 
-| 35. | NLG | Gulden | 11,586 | LiteBit (1,171)<br />Coinexchange (43)<br />YoBit (0)<br />Txbit (0)<br />NLexch (0)<br />CryptoBridge (0)<br />| 1,214 | 68.35 | 41.15 | 
-| 36. | NLC2 | NoLimitCoin | 11,890 | HitBTC (1,253)<br />Cryptopia (254)<br />YoBit (114)<br />Coinexchange (31)<br />Nova Exchange (0)<br />| 1,653 | 54.95 | 20.94 | 
-| 37. | CANN | CannabisCoin | 13,810 | Cryptopia (158)<br />YoBit (1)<br />Coinexchange (0)<br />| 160 | 55.70 | 31.52 | 
-| 38. | SWT | Swarm City Token | 7,424 | Upbit (7,416)<br />HitBTC (28)<br />YoBit (1)<br />ForkDelta (0)<br />Coinbe (0)<br />Uniswap (0)<br />| 7,445 | 63.70 | 41.70 | 
-| 39. | KORE | Kore | 7,868 | Upbit (7,868)<br />Trade Satoshi (0)<br />| 7,868 | 42.60 | 21.98 | 
-| 40. | MUE | MonetaryUnit | 8,137 | Upbit (7,966)<br />CryptoBridge (2)<br />Nova Exchange (1)<br />YoBit (0)<br />NLexch (0)<br />BitOnBay (0)<br />Coinexchange (0)<br />| 7,968 | 56.95 | 23.70 | 
-| 41. | BSD | BitSend | 4,839 | Upbit (4,839)<br />BitOnBay (3,705)<br />Livecoin (2,636)<br />SouthXchange (122)<br />LiteBit (122)<br />Cryptopia (66)<br />Trade Satoshi (10)<br />Nova Exchange (8)<br />CREX24 (1)<br />Bitsten (0)<br />Altilly (0)<br />Coinexchange (0)<br />| 11,511 | 59.50 | 33.37 | 
-| 42. | CBC | CashBet | 2,467 | KuCoin (14,195)<br />HitBTC (0)<br />TokenJar (0)<br />Idex (0)<br />| 14,195 | 56.45 | 16.21 | 
-| 43. | RADS | Radium | 8,503 | Upbit (8,503)<br />LiteBit (571)<br />Livecoin (80)<br />CREX24 (59)<br />Coinexchange (0)<br />Bisq (0)<br />| 9,213 | 51.55 | 30.35 | 
+| 31. | RADS | Radium | 5,269 | Upbit (5,275)<br />LiteBit (568)<br />Livecoin (69)<br />CREX24 (57)<br />Coinexchange (0)<br />Bisq (0)<br />| 5,968 | 51.55 | 30.35 | 
+| 32. | DYN | Dynamic | 5,800 | Upbit (5,800)<br />CryptoBridge (0)<br />| 5,800 | 61.90 | 22.44 | 
+| 33. | SIB | Sibcoin | 4,743 | Upbit (4,754)<br />Livecoin (2,175)<br />YoBit (44)<br />BTC Trade UA (2)<br />Trade Satoshi (0)<br />C-CEX (0)<br />Cryptopia (0)<br />BTC-Alpha (0)<br />| 6,975 | 54.50 | 34.52 | 
+| 34. | UP | UpToken | 5,596 | Upbit (5,590)<br />Bancor Network (881)<br />ForkDelta (0)<br />| 6,470 | 59.70 | 24.45 | 
+| 35. | CRW | Crown | 5,712 | Upbit (5,804)<br />LiteBit (643)<br />CryptoBridge (122)<br />YoBit (0)<br />Braziliex (0)<br />Coinexchange (0)<br />| 6,569 | 71.20 | 42.14 | 
+| 36. | NLG | Gulden | 11,586 | LiteBit (1,171)<br />Coinexchange (43)<br />YoBit (0)<br />Txbit (0)<br />NLexch (0)<br />CryptoBridge (0)<br />| 1,214 | 68.35 | 41.15 | 
+| 37. | NLC2 | NoLimitCoin | 11,890 | HitBTC (1,253)<br />Cryptopia (254)<br />YoBit (114)<br />Coinexchange (31)<br />Nova Exchange (0)<br />| 1,653 | 54.95 | 20.94 | 
+| 38. | CANN | CannabisCoin | 13,810 | Cryptopia (158)<br />YoBit (1)<br />Coinexchange (0)<br />| 160 | 55.70 | 31.52 | 
+| 39. | SWT | Swarm City Token | 7,424 | Upbit (7,416)<br />HitBTC (28)<br />YoBit (1)<br />ForkDelta (0)<br />Coinbe (0)<br />Uniswap (0)<br />| 7,445 | 63.70 | 41.70 | 
+| 40. | KORE | Kore | 7,868 | Upbit (7,868)<br />Trade Satoshi (0)<br />| 7,868 | 42.60 | 21.98 | 
+| 41. | MUE | MonetaryUnit | 8,137 | Upbit (7,966)<br />CryptoBridge (2)<br />Nova Exchange (1)<br />YoBit (0)<br />NLexch (0)<br />BitOnBay (0)<br />Coinexchange (0)<br />| 7,968 | 56.95 | 23.70 | 
+| 42. | BSD | BitSend | 4,839 | Upbit (4,839)<br />BitOnBay (3,705)<br />Livecoin (2,636)<br />SouthXchange (122)<br />LiteBit (122)<br />Cryptopia (66)<br />Trade Satoshi (10)<br />Nova Exchange (8)<br />CREX24 (1)<br />Bitsten (0)<br />Altilly (0)<br />Coinexchange (0)<br />| 11,511 | 59.50 | 33.37 | 
+| 43. | CBC | CashBet | 2,467 | KuCoin (14,195)<br />HitBTC (0)<br />TokenJar (0)<br />Idex (0)<br />| 14,195 | 56.45 | 16.21 | 
 | 44. | TX | TransferCoin | 8,155 | Upbit (8,152)<br />Livecoin (1,475)<br />Cryptopia (424)<br />YoBit (0)<br />| 10,051 | 41.75 | 31.12 | 
 | 45. | EXCL | ExclusiveCoin | 9,096 | Upbit (9,086)<br />OpenLedger DEX (31)<br />Coinexchange (0)<br />CryptoBridge (0)<br />BiteBTC (0)<br />| 9,117 | 51.95 | 29.65 | 
 | 46. | UKG | UnikoinGold | 8,461 | Upbit (8,462)<br />KuCoin (1,224)<br />DDEX (211)<br />YoBit (46)<br />Ethex (36)<br />Liquid (5)<br />Joyso (0)<br />Orderbook.io (0)<br />TokenJar (0)<br />ForkDelta (0)<br />Radar Relay (0)<br />OKEx (0)<br />Saturn Network (0)<br />Idex (0)<br />| 9,984 | 62.65 | 32.61 | 
