@@ -17,16 +17,16 @@
 | 15. | MUE | MonetaryUnit | 2,068 | Upbit (2,068)<br />CryptoBridge (42)<br />Nova Exchange (1)<br />YoBit (0)<br />NLexch (0)<br />BitOnBay (0)<br />Coinexchange (0)<br />| 2,111 | 56.95 | 22.55 | 
 | 16. | XST | Stealth | 4,117 | Cryptopia (397)<br />Vinex (0)<br />| 397 | 58.25 | 32.93 | 
 | 17. | THC | HempCoin | 4,664 | CryptoBridge (0)<br />qTrade (0)<br />P2PB2B (0)<br />Nova Exchange (0)<br />| 0 | 60.20 | 35.66 | 
-| 18. | CURE | CureCoin | 436 | Livecoin (4,470)<br />Trade Satoshi (0)<br />| 4,470 | 50.65 | 37.76 | 
-| 19. | MEME | Memetic | 2,572 | Upbit (2,575)<br />Coinexchange (0)<br />| 2,575 | 47.40 | 34.40 | 
-| 20. | UP | UpToken | 2,777 | Upbit (2,776)<br />Bancor Network (0)<br />ForkDelta (0)<br />| 2,776 | 59.70 | 23.03 | 
-| 21. | MUSIC | Musicoin | 5,572 | Cryptopia (0)<br />| 0 | 60.50 | 40.06 | 
-| 22. | DOPE | DopeCoin | 2,066 | Mercatox (3,673)<br />Cryptopia (0)<br />| 3,673 | 52.75 | 28.78 | 
-| 23. | CRW | Crown | 2,989 | Upbit (2,989)<br />LiteBit (119)<br />CryptoBridge (1)<br />Braziliex (0)<br />YoBit (0)<br />Coinexchange (0)<br />| 3,109 | 71.20 | 41.83 | 
-| 24. | ABY | ArtByte | 5,209 | LiteBit (1,062)<br />YoBit (1)<br />Cryptopia (0)<br />Nova Exchange (0)<br />| 1,062 | 40.95 | 21.73 | 
-| 25. | PTOY | Patientory | 2,307 | Upbit (2,307)<br />HitBTC (2,185)<br />ForkDelta (0)<br />Idex (0)<br />Radar Relay (0)<br />TokenJar (0)<br />LATOKEN (0)<br />| 4,492 | 47.85 | 24.13 | 
-| 26. | SLS | SaluS | 3,578 | Upbit (3,578)<br />YoBit (0)<br />Nova Exchange (0)<br />Vinex (0)<br />CryptoBridge (0)<br />| 3,578 | 29.20 | 15.61 | 
-| 27. | SLR | SolarCoin | 3,441 | Lykke (3,282)<br />Livecoin (848)<br />Graviex (0)<br />Coinexchange (0)<br />| 4,129 | 58.00 | 33.30 | 
+| 18. | SLR | SolarCoin | 2,244 | Lykke (1,652)<br />Livecoin (952)<br />Graviex (0)<br />Coinexchange (0)<br />| 2,605 | 58.00 | 33.30 | 
+| 19. | CURE | CureCoin | 436 | Livecoin (4,470)<br />Trade Satoshi (0)<br />| 4,470 | 50.65 | 37.76 | 
+| 20. | MEME | Memetic | 2,572 | Upbit (2,575)<br />Coinexchange (0)<br />| 2,575 | 47.40 | 34.40 | 
+| 21. | UP | UpToken | 2,777 | Upbit (2,776)<br />Bancor Network (0)<br />ForkDelta (0)<br />| 2,776 | 59.70 | 23.03 | 
+| 22. | MUSIC | Musicoin | 5,572 | Cryptopia (0)<br />| 0 | 60.50 | 40.06 | 
+| 23. | DOPE | DopeCoin | 2,066 | Mercatox (3,673)<br />Cryptopia (0)<br />| 3,673 | 52.75 | 28.78 | 
+| 24. | CRW | Crown | 2,989 | Upbit (2,989)<br />LiteBit (119)<br />CryptoBridge (1)<br />Braziliex (0)<br />YoBit (0)<br />Coinexchange (0)<br />| 3,109 | 71.20 | 41.83 | 
+| 25. | ABY | ArtByte | 5,209 | LiteBit (1,062)<br />YoBit (1)<br />Cryptopia (0)<br />Nova Exchange (0)<br />| 1,062 | 40.95 | 21.73 | 
+| 26. | PTOY | Patientory | 2,307 | Upbit (2,307)<br />HitBTC (2,185)<br />ForkDelta (0)<br />Idex (0)<br />Radar Relay (0)<br />TokenJar (0)<br />LATOKEN (0)<br />| 4,492 | 47.85 | 24.13 | 
+| 27. | SLS | SaluS | 3,578 | Upbit (3,578)<br />YoBit (0)<br />Nova Exchange (0)<br />Vinex (0)<br />CryptoBridge (0)<br />| 3,578 | 29.20 | 15.61 | 
 | 28. | NLG | Gulden | 7,995 | LiteBit (124)<br />YoBit (0)<br />Txbit (0)<br />NLexch (0)<br />CryptoBridge (0)<br />Coinexchange (0)<br />| 124 | 68.35 | 40.86 | 
 | 29. | EBST | eBoost | 9,594 | Trade Satoshi (0)<br />| 0 | 43.65 | 6.04 | 
 | 30. | BSD | BitSend | 2,161 | BitOnBay (3,422)<br />Upbit (2,161)<br />Livecoin (1,466)<br />LiteBit (219)<br />SouthXchange (122)<br />Coinexchange (83)<br />Cryptopia (66)<br />CREX24 (5)<br />Bitsten (0)<br />Trade Satoshi (0)<br />Altilly (0)<br />Nova Exchange (0)<br />| 7,544 | 59.50 | 32.46 | 
