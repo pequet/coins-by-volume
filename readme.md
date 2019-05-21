@@ -38,7 +38,7 @@
 | 36. | SLS | SaluS | 7,527 | Upbit (7,268)<br />YoBit (0)<br />Vinex (0)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />| 7,268 | 29.20 | 15.61 | 
 | 37. | MOBI | Mobius | 3,042 | Gate.io (7,438)<br />Upbit (3,041)<br />BitMart (2,008)<br />GoPax (478)<br />KuCoin (473)<br />OTCBTC (0)<br />| 13,439 | 65.05 | 29.46 | 
 | 38. | BSD | BitSend | 5,410 | Upbit (5,430)<br />BitOnBay (3,467)<br />Livecoin (1,826)<br />LiteBit (217)<br />SouthXchange (84)<br />Coinexchange (83)<br />Cryptopia (66)<br />CREX24 (5)<br />Bitsten (0)<br />Altilly (0)<br />Nova Exchange (0)<br />Trade Satoshi (0)<br />| 11,177 | 59.50 | 32.46 | 
-| 39. | AID | AidCoin | 8,033 | Upbit (8,034)<br />Bancor Network (377)<br />Ethfinex (322)<br />TokenJar (0)<br />Idex (0)<br />| 8,733 | 56.70 | 27.97 | 
+| 39. | AID | AidCoin | 8,033 | Upbit (8,034)<br />Bancor Network (376)<br />Ethfinex (322)<br />TokenJar (0)<br />Idex (0)<br />| 8,732 | 56.70 | 27.97 | 
 | 40. | PTOY | Patientory | 7,672 | Upbit (7,672)<br />HitBTC (1,960)<br />TokenJar (0)<br />Radar Relay (0)<br />LATOKEN (0)<br />Idex (0)<br />ForkDelta (0)<br />| 9,632 | 47.85 | 24.13 | 
 | 41. | GLC | GoldCoin | 19,055 | Trade Satoshi (1)<br />Altilly (0)<br />| 1 | 54.70 | 23.80 | 
 | 42. | TX | TransferCoin | 9,498 | Upbit (9,502)<br />Cryptopia (424)<br />Livecoin (336)<br />YoBit (0)<br />| 10,262 | 41.75 | 30.98 | 
