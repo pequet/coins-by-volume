@@ -52,7 +52,7 @@
 | 50. | LBC | LBRY Credits | 8,987 | Upbit (8,987)<br />Poloniex (4,895)<br />Cryptopia (75)<br />Instant Bitex (0)<br />Coindeal (0)<br />| 13,957 | 64.60 | 48.85 | 
 | 51. | PTOY | Patientory | 12,537 | Upbit (12,538)<br />HitBTC (1,348)<br />TokenJar (0)<br />Radar Relay (0)<br />LATOKEN (0)<br />Idex (0)<br />ForkDelta (0)<br />| 13,886 | 47.85 | 24.03 | 
 | 52. | MEME | Memetic | 13,246 | Upbit (13,255)<br />Coinexchange (0)<br />| 13,255 | 47.40 | 33.93 | 
-| 53. | VEE | BLOCKv | 11,504 | Upbit (11,014)<br />Ethfinex (4,297)<br />Bancor Network (548)<br />Idex (203)<br />Radar Relay (58)<br />AirSwap (3)<br />TokenJar (0)<br />OKEx (0)<br />FCoin (0)<br />Tidex (0)<br />ForkDelta (0)<br />| 16,122 | 65.70 | 34.26 | 
+| 53. | VEE | BLOCKv | 11,504 | Upbit (11,014)<br />Ethfinex (4,297)<br />Bancor Network (549)<br />Idex (203)<br />Radar Relay (58)<br />AirSwap (3)<br />TokenJar (0)<br />OKEx (0)<br />FCoin (0)<br />Tidex (0)<br />ForkDelta (0)<br />| 16,123 | 65.70 | 34.26 | 
 | 54. | BITB | BitBean | 13,794 | Upbit (13,794)<br />bleutrade (47)<br />YoBit (16)<br />Coinexchange (2)<br />BitOnBay (0)<br />| 13,859 | 53.70 | 23.78 | 
 | 55. | TX | TransferCoin | 12,880 | Upbit (13,014)<br />Livecoin (1,348)<br />Cryptopia (424)<br />YoBit (0)<br />| 14,786 | 41.75 | 31.12 | 
 | 56. | SHIFT | Shift | 10,874 | Upbit (10,874)<br />Livecoin (6,740)<br />Altilly (0)<br />Idax (0)<br />| 17,614 | 60.55 | 37.18 | 
