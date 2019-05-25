@@ -73,7 +73,7 @@
 | 71. | BURST | BURSTCoin | 26,800 | Upbit (27,530)<br />Coinroom (4,665)<br />Livecoin (687)<br />CryptalDash (0)<br />C-CEX (0)<br />Poloniex (0)<br />| 32,882 | 79.10 | 45.66 | 
 | 72. | PRO | Propy | 7,882 | Bitforex (24,004)<br />Bitrue (20,688)<br />Upbit (7,883)<br />HitBTC (356)<br />ForkDelta (266)<br />Livecoin (198)<br />FCoin (0)<br />TokenJar (0)<br />Kyber Network (0)<br />| 53,394 | 66.70 | 25.61 | 
 | 73. | NGC | Naga | 27,259 | Upbit (28,009)<br />Sistemkoin (5,629)<br />HitBTC (1,179)<br />OKEx (0)<br />FCoin (0)<br />TokenJar (0)<br />Cryptology (0)<br />Idex (0)<br />| 34,817 | 55.05 | 28.41 | 
-| 74. | EMC | EmerCoin | 2,426 | HitBTC (30,467)<br />Livecoin (26,783)<br />Upbit (2,426)<br />LiteBit (106)<br />YoBit (3)<br />Cryptopia (0)<br />Tux Exchange (0)<br />FEX (0)<br />CREX24 (0)<br />NLexch (0)<br />Coinexchange (0)<br />| 59,785 | 71.10 | 46.50 | 
+| 74. | EMC | EmerCoin | 2,426 | HitBTC (30,467)<br />Livecoin (26,783)<br />Upbit (2,426)<br />LiteBit (106)<br />YoBit (3)<br />NLexch (0)<br />Cryptopia (0)<br />Tux Exchange (0)<br />FEX (0)<br />CREX24 (0)<br />Coinexchange (0)<br />| 59,785 | 71.10 | 46.50 | 
 | 75. | SYNX | Syndicate | 34,655 | Upbit (34,364)<br />Coinexchange (33)<br />YoBit (0)<br />Cryptopia (0)<br />BitOnBay (0)<br />CryptoBridge (0)<br />| 34,397 | 59.75 | 29.23 | 
 | 76. | BLK | BlackCoin | 3,284 | CoinEgg (61,012)<br />Upbit (3,284)<br />LiteBit (1,548)<br />Livecoin (1,001)<br />Cryptopia (201)<br />Coinexchange (16)<br />Nova Exchange (14)<br />Tux Exchange (0)<br />Trade Satoshi (0)<br />Vinex (0)<br />| 67,076 | 55.25 | 39.51 | 
 | 77. | XMY | Myriad | 6,518 | FinexBox (77,163)<br />LiteBit (1,237)<br />Cryptopia (65)<br />Trade Satoshi (20)<br />NLexch (0)<br />| 78,485 | 61.85 | 43.10 | 
