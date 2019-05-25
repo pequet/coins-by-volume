@@ -73,7 +73,7 @@
 | 71. | SYNX | Syndicate | 32,285 | Upbit (32,285)<br />Coinexchange (33)<br />YoBit (0)<br />Cryptopia (0)<br />BitOnBay (0)<br />CryptoBridge (0)<br />| 32,318 | 59.75 | 29.23 | 
 | 72. | PRO | Propy | 8,299 | Bitforex (37,359)<br />Bitrue (14,323)<br />Upbit (8,295)<br />HitBTC (422)<br />ForkDelta (266)<br />Livecoin (199)<br />Kyber Network (0)<br />TokenJar (0)<br />FCoin (0)<br />| 60,864 | 66.70 | 25.61 | 
 | 73. | MOBI | Mobius | 29,910 | Upbit (29,517)<br />Gate.io (5,470)<br />BitMart (2,034)<br />GoPax (1,923)<br />KuCoin (473)<br />OTCBTC (0)<br />| 39,416 | 65.05 | 30.15 | 
-| 74. | EMC | EmerCoin | 3,615 | HitBTC (36,094)<br />Livecoin (27,727)<br />Upbit (3,614)<br />LiteBit (322)<br />YoBit (3)<br />NLexch (0)<br />Cryptopia (0)<br />Tux Exchange (0)<br />FEX (0)<br />CREX24 (0)<br />Coinexchange (0)<br />| 67,760 | 71.10 | 46.50 | 
+| 74. | EMC | EmerCoin | 3,615 | HitBTC (36,094)<br />Livecoin (27,727)<br />Upbit (3,614)<br />LiteBit (322)<br />YoBit (3)<br />Cryptopia (0)<br />Tux Exchange (0)<br />FEX (0)<br />CREX24 (0)<br />NLexch (0)<br />Coinexchange (0)<br />| 67,760 | 71.10 | 46.50 | 
 | 75. | XMY | Myriad | 11,123 | FinexBox (61,198)<br />LiteBit (877)<br />Cryptopia (65)<br />Trade Satoshi (37)<br />NLexch (0)<br />| 62,177 | 61.85 | 43.10 | 
 | 76. | SPC | SpaceChain | 5,080 | CoinEgg (66,135)<br />Upbit (5,079)<br />EXX (547)<br />CoinNest (0)<br />| 71,761 |  | 32.91 | 
 | 77. | FTC | Feathercoin | 3,702 | FinexBox (55,160)<br />QBTC (16,605)<br />Hubi (5,230)<br />Upbit (3,701)<br />Cryptopia (890)<br />LiteBit (405)<br />BX Thailand (7)<br />Altilly (0)<br />OKEx (0)<br />Coinexchange (0)<br />NLexch (0)<br />| 81,998 | 49.80 | 42.76 | 
