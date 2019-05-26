@@ -14,7 +14,7 @@
 | 12. | MUSIC | Musicoin | 2,430 | Cryptopia (0)<br />| 0 | 60.50 | 41.16 | 
 | 13. | AMP | AMP | 1,183 | Upbit (1,184)<br />HitBTC (128)<br />FUBT (0)<br />Cryptopia (0)<br />LATOKEN (0)<br />| 1,312 | 49.25 | 32.12 | 
 | 14. | NLG | Gulden | 1,786 | LiteBit (961)<br />YoBit (0)<br />Txbit (0)<br />NLexch (0)<br />CryptoBridge (0)<br />Coinexchange (0)<br />| 961 | 68.35 | 41.24 | 
-| 15. | MUE | MonetaryUnit | 1,698 | Upbit (1,698)<br />CryptoBridge (2)<br />Nova Exchange (1)<br />YoBit (0)<br />NLexch (0)<br />BitOnBay (0)<br />Coinexchange (0)<br />| 1,701 | 56.95 | 21.52 | 
+| 15. | MUE | MonetaryUnit | 1,698 | Upbit (1,698)<br />CryptoBridge (2)<br />Nova Exchange (1)<br />YoBit (0)<br />BitOnBay (0)<br />NLexch (0)<br />Coinexchange (0)<br />| 1,701 | 56.95 | 21.52 | 
 | 16. | ABY | ArtByte | 2,943 | LiteBit (622)<br />YoBit (1)<br />Nova Exchange (0)<br />Cryptopia (0)<br />| 623 | 40.95 | 21.63 | 
 | 17. | COVAL | Circuits of Value | 3,763 | | 0 | 50.90 | 20.17 | 
 | 18. | GEO | GeoCoin | 3,479 | Cryptopia (294)<br />| 294 | 36.55 | 11.07 | 
