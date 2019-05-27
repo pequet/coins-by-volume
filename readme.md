@@ -76,7 +76,7 @@
 | 74. | SYNX | Syndicate | 47,196 | Upbit (45,792)<br />Coinexchange (91)<br />YoBit (0)<br />Cryptopia (0)<br />CryptoBridge (0)<br />BitOnBay (0)<br />| 45,883 | 59.75 | 29.17 | 
 | 75. | EDG | Edgeless | 31,723 | HitBTC (35,493)<br />Upbit (32,347)<br />Bancor Network (815)<br />Livecoin (323)<br />AirSwap (174)<br />ABCC (65)<br />TokenJar (0)<br />ForkDelta (0)<br />Radar Relay (0)<br />BigONE (0)<br />Tidex (0)<br />| 69,217 | 72.30 | 36.80 | 
 | 76. | BITB | BitBean | 50,432 | Upbit (50,980)<br />YoBit (16)<br />Coinexchange (2)<br />bleutrade (2)<br />BitOnBay (0)<br />| 51,000 | 53.70 | 22.96 | 
-| 77. | FTC | Feathercoin | 8,481 | FinexBox (62,385)<br />QBTC (19,271)<br />Upbit (8,742)<br />Hubi (4,665)<br />LiteBit (1,281)<br />Cryptopia (890)<br />BX Thailand (137)<br />NLexch (0)<br />OKEx (0)<br />Altilly (0)<br />Coinexchange (0)<br />| 97,370 | 49.80 | 43.26 | 
+| 77. | FTC | Feathercoin | 8,481 | FinexBox (62,385)<br />QBTC (19,271)<br />Upbit (8,742)<br />Hubi (4,665)<br />LiteBit (1,281)<br />Cryptopia (890)<br />BX Thailand (137)<br />OKEx (0)<br />Altilly (0)<br />NLexch (0)<br />Coinexchange (0)<br />| 97,370 | 49.80 | 43.26 | 
 | 78. | XST | Stealth | 1,239 | Vinex (106,659)<br />Cryptopia (397)<br />| 107,056 | 58.25 | 34.00 | 
 | 79. | BLK | BlackCoin | 6,619 | CoinEgg (96,732)<br />Upbit (6,611)<br />Livecoin (1,947)<br />LiteBit (211)<br />Cryptopia (201)<br />Nova Exchange (1)<br />Tux Exchange (2)<br />Trade Satoshi (0)<br />Vinex (0)<br />Coinexchange (0)<br />| 105,703 | 55.25 | 40.23 | 
 | 80. | RVR | RevolutionVR | 61,399 | Upbit (63,018)<br />LiteBit (724)<br />Coinexchange (148)<br />CryptoBridge (0)<br />| 63,890 | 53.30 | 20.18 | 
