@@ -70,7 +70,7 @@
 | 68. | UP | UpToken | 34,951 | Upbit (34,375)<br />Bancor Network (4,865)<br />ForkDelta (0)<br />| 39,240 | 59.70 | 23.52 | 
 | 69. | NGC | Naga | 33,546 | Upbit (34,301)<br />Sistemkoin (5,985)<br />HitBTC (3,143)<br />Idex (116)<br />OKEx (0)<br />FCoin (0)<br />TokenJar (0)<br />Cryptology (0)<br />| 43,544 | 55.05 | 28.67 | 
 | 70. | INCNT | Incent | 63,539 | Livecoin (17,784)<br />OpenLedger DEX (0)<br />| 17,784 | 51.15 | 8.45 | 
-| 71. | EMC | EmerCoin | 9,651 | HitBTC (33,578)<br />Livecoin (28,566)<br />Upbit (9,651)<br />LiteBit (684)<br />YoBit (3)<br />Coinexchange (0)<br />Cryptopia (0)<br />NLexch (0)<br />Tux Exchange (0)<br />FEX (0)<br />CREX24 (0)<br />| 72,481 | 71.10 | 46.35 | 
+| 71. | EMC | EmerCoin | 9,651 | HitBTC (33,578)<br />Livecoin (28,566)<br />Upbit (9,651)<br />LiteBit (684)<br />YoBit (3)<br />NLexch (0)<br />Coinexchange (0)<br />Cryptopia (0)<br />Tux Exchange (0)<br />FEX (0)<br />CREX24 (0)<br />| 72,481 | 71.10 | 46.35 | 
 | 72. | PART | Particl | 35,512 | Upbit (35,429)<br />ChainEX (6,813)<br />LiteBit (6,353)<br />Probit (755)<br />Bit-Z (339)<br />Chainrift (0)<br />| 49,689 | 74.35 | 47.00 | 
 | 73. | XNK | Ink Protocol | 1,256 | Bibox (85,243)<br />Upbit (1,256)<br />Bancor Network (130)<br />Liquid (37)<br />Dobitrade (0)<br />ForkDelta (0)<br />Radar Relay (0)<br />TokenJar (0)<br />COSS (0)<br />CoinBene (0)<br />Idex (0)<br />| 86,666 | 69.75 | 34.31 | 
 | 74. | FTC | Feathercoin | 11,225 | FinexBox (63,089)<br />QBTC (19,603)<br />Upbit (11,225)<br />Hubi (3,482)<br />LiteBit (1,310)<br />Cryptopia (890)<br />BX Thailand (137)<br />OKEx (0)<br />Altilly (0)<br />NLexch (0)<br />Coinexchange (0)<br />| 99,735 | 49.80 | 43.26 | 
