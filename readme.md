@@ -75,7 +75,7 @@
 | 73. | INCNT | Incent | 63,204 | Livecoin (18,863)<br />OpenLedger DEX (0)<br />| 18,863 | 51.15 | 8.16 | 
 | 74. | BITB | BitBean | 46,219 | Upbit (46,219)<br />YoBit (16)<br />Coinexchange (2)<br />bleutrade (2)<br />BitOnBay (0)<br />| 46,239 | 53.70 | 22.84 | 
 | 75. | BLK | BlackCoin | 6,643 | CoinEgg (86,817)<br />Upbit (6,646)<br />Livecoin (2,470)<br />LiteBit (505)<br />Cryptopia (201)<br />Nova Exchange (1)<br />Coinexchange (0)<br />Trade Satoshi (0)<br />Vinex (0)<br />Tux Exchange (0)<br />| 96,640 | 55.25 | 40.22 | 
-| 76. | FTC | Feathercoin | 8,738 | FinexBox (64,742)<br />QBTC (18,268)<br />Upbit (8,735)<br />Hubi (4,697)<br />Cryptopia (890)<br />BX Thailand (137)<br />LiteBit (124)<br />NLexch (0)<br />OKEx (0)<br />Altilly (0)<br />Coinexchange (0)<br />| 97,593 | 49.80 | 43.24 | 
+| 76. | FTC | Feathercoin | 8,738 | FinexBox (64,742)<br />QBTC (18,268)<br />Upbit (8,735)<br />Hubi (4,697)<br />Cryptopia (890)<br />BX Thailand (137)<br />LiteBit (124)<br />OKEx (0)<br />Altilly (0)<br />NLexch (0)<br />Coinexchange (0)<br />| 97,593 | 49.80 | 43.24 | 
 | 77. | EDG | Edgeless | 34,865 | HitBTC (36,027)<br />Upbit (35,098)<br />Bancor Network (812)<br />Livecoin (344)<br />AirSwap (174)<br />ABCC (65)<br />Radar Relay (0)<br />BigONE (0)<br />TokenJar (0)<br />ForkDelta (0)<br />Tidex (0)<br />| 72,521 | 72.30 | 36.90 | 
 | 78. | XST | Stealth | 4,489 | Vinex (106,659)<br />Cryptopia (397)<br />| 107,056 | 58.25 | 33.33 | 
 | 79. | MET | Metronome | 2,269 | Hotbit (83,836)<br />Bilaxy (10,584)<br />Bitforex (9,956)<br />Idex (9,404)<br />Upbit (2,269)<br />Gate.io (790)<br />DDEX (475)<br />YoBit (47)<br />Exrates (0)<br />TokenJar (0)<br />Dcoin (0)<br />| 117,361 | 56.30 | 40.24 | 
