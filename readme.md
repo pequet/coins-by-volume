@@ -70,7 +70,7 @@
 | 68. | BURST | BURSTCoin | 30,379 | Upbit (30,382)<br />Coinroom (4,665)<br />Livecoin (1,149)<br />C-CEX (0)<br />CryptalDash (0)<br />Poloniex (0)<br />| 36,196 | 79.10 | 46.04 | 
 | 69. | SPHR | Sphere | 33,639 | Upbit (33,605)<br />| 33,605 | 41.80 | 24.40 | 
 | 70. | NGC | Naga | 30,350 | Upbit (31,096)<br />Sistemkoin (6,223)<br />HitBTC (2,330)<br />Idex (13)<br />OKEx (0)<br />FCoin (0)<br />TokenJar (0)<br />Cryptology (0)<br />| 39,662 | 55.05 | 28.66 | 
-| 71. | EMC | EmerCoin | 4,217 | HitBTC (32,082)<br />Livecoin (29,005)<br />Upbit (4,218)<br />LiteBit (642)<br />YoBit (3)<br />NLexch (0)<br />Tux Exchange (0)<br />FEX (0)<br />Cryptopia (0)<br />CREX24 (0)<br />Coinexchange (0)<br />| 65,950 | 71.10 | 46.96 | 
+| 71. | EMC | EmerCoin | 4,217 | HitBTC (32,082)<br />Livecoin (29,005)<br />Upbit (4,218)<br />LiteBit (642)<br />YoBit (3)<br />Tux Exchange (0)<br />FEX (0)<br />Cryptopia (0)<br />CREX24 (0)<br />NLexch (0)<br />Coinexchange (0)<br />| 65,950 | 71.10 | 46.96 | 
 | 72. | XMY | Myriad | 4,507 | FinexBox (73,999)<br />LiteBit (1,076)<br />Cryptopia (65)<br />NLexch (0)<br />Trade Satoshi (0)<br />| 75,140 | 61.85 | 42.95 | 
 | 73. | INCNT | Incent | 63,204 | Livecoin (18,863)<br />OpenLedger DEX (0)<br />| 18,863 | 51.15 | 8.16 | 
 | 74. | BITB | BitBean | 46,219 | Upbit (46,219)<br />YoBit (16)<br />Coinexchange (2)<br />bleutrade (2)<br />BitOnBay (0)<br />| 46,239 | 53.70 | 22.84 | 
