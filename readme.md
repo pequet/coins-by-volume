@@ -77,7 +77,7 @@
 | 75. | XNK | Ink Protocol | 1,900 | Bibox (95,232)<br />Upbit (1,904)<br />Bancor Network (129)<br />Liquid (48)<br />Dobitrade (0)<br />Radar Relay (0)<br />TokenJar (0)<br />ForkDelta (0)<br />COSS (0)<br />Idex (0)<br />CoinBene (0)<br />| 97,313 | 69.75 | 34.31 | 
 | 76. | GBYTE | Bytes | 51,786 | Upbit (51,786)<br />Cryptopia (0)<br />Bisq (0)<br />Bit-Z (0)<br />| 51,786 | 67.25 | 48.56 | 
 | 77. | BITB | BitBean | 55,402 | Upbit (55,413)<br />YoBit (16)<br />Coinexchange (2)<br />bleutrade (2)<br />BitOnBay (0)<br />| 55,433 | 53.70 | 22.96 | 
-| 78. | FTC | Feathercoin | 10,839 | FinexBox (65,390)<br />QBTC (18,190)<br />Upbit (10,833)<br />Hubi (4,225)<br />LiteBit (1,321)<br />Cryptopia (890)<br />BX Thailand (137)<br />Coinexchange (1)<br />NLexch (0)<br />OKEx (0)<br />Altilly (0)<br />| 100,986 | 49.80 | 43.26 | 
+| 78. | FTC | Feathercoin | 10,839 | FinexBox (65,390)<br />QBTC (18,190)<br />Upbit (10,833)<br />Hubi (4,225)<br />LiteBit (1,321)<br />Cryptopia (890)<br />BX Thailand (137)<br />Coinexchange (1)<br />OKEx (0)<br />Altilly (0)<br />NLexch (0)<br />| 100,986 | 49.80 | 43.26 | 
 | 79. | HMQ | Humaniq | 13,161 | Hotbit (76,526)<br />Upbit (13,149)<br />Mercatox (9,500)<br />HitBTC (347)<br />Simex (0)<br />YoBit (0)<br />ForkDelta (0)<br />Idex (0)<br />| 99,522 | 60.40 | 36.95 | 
 | 80. | XST | Stealth | 8,800 | Vinex (106,659)<br />Cryptopia (397)<br />| 107,056 | 58.25 | 34.00 | 
 | 81. | RVR | RevolutionVR | 67,862 | Upbit (67,862)<br />LiteBit (811)<br />Coinexchange (148)<br />CryptoBridge (0)<br />| 68,822 | 53.30 | 20.18 | 
