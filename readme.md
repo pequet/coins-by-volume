@@ -16,7 +16,7 @@
 | 14. | SEQ | Sequence | 5,731 | CryptoBridge (0)<br />| 0 | 49.30 | 33.65 | 
 | 15. | XEL | XEL | 2,960 | Upbit (2,960)<br />| 2,960 | 60.20 | 27.74 | 
 | 16. | POT | PotCoin | 6,134 | Coinexchange (307)<br />Cryptopia (90)<br />Tux Exchange (2)<br />Nanu Exchange (0)<br />Trade Satoshi (0)<br />Nova Exchange (0)<br />| 397 | 54.95 | 33.86 | 
-| 17. | GRC | GridCoin | 2,832 | SouthXchange (4,046)<br />C-CEX (28)<br />BITKER (0)<br />OpenLedger DEX (0)<br />| 4,074 | 61.30 | 44.24 | 
+| 17. | GRC | GridCoin | 2,832 | SouthXchange (4,046)<br />C-CEX (28)<br />OpenLedger DEX (0)<br />BITKER (0)<br />| 4,074 | 61.30 | 44.24 | 
 | 18. | MEME | Memetic | 3,889 | Upbit (3,889)<br />Coinexchange (0)<br />| 3,889 | 47.40 | 33.48 | 
 | 19. | CURE | CureCoin | 2,622 | Livecoin (5,289)<br />Trade Satoshi (8)<br />| 5,297 | 50.65 | 38.68 | 
 | 20. | BOXX | Blockparty | 3,753 | Upbit (3,753)<br />Bancor Network (426)<br />BiteBTC (0)<br />TokenJar (0)<br />Coinexchange (0)<br />Cryptopia (0)<br />| 4,179 |  | 21.76 | 
