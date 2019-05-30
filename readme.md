@@ -41,7 +41,7 @@
 | 39. | UBQ | Ubiq | 7,398 | Upbit (7,397)<br />LiteBit (1,353)<br />Cryptopia (120)<br />| 8,870 | 64.10 | 33.82 | 
 | 40. | UP | UpToken | 8,537 | Upbit (8,585)<br />Bancor Network (1,170)<br />ForkDelta (0)<br />| 9,755 | 59.70 | 22.55 | 
 | 41. | BSD | BitSend | 9,276 | Upbit (9,277)<br />Livecoin (2,632)<br />SouthXchange (108)<br />Cryptopia (66)<br />LiteBit (52)<br />CREX24 (27)<br />Nova Exchange (17)<br />Bitsten (0)<br />Trade Satoshi (0)<br />Altilly (0)<br />BitOnBay (0)<br />Coinexchange (0)<br />| 12,180 | 59.50 | 32.03 | 
-| 42. | MUE | MonetaryUnit | 11,040 | Upbit (11,041)<br />CryptoBridge (10)<br />YoBit (0)<br />NLexch (0)<br />Nova Exchange (0)<br />BitOnBay (0)<br />Coinexchange (0)<br />| 11,050 | 56.95 | 20.97 | 
+| 42. | MUE | MonetaryUnit | 11,040 | Upbit (11,041)<br />CryptoBridge (10)<br />YoBit (0)<br />Nova Exchange (0)<br />BitOnBay (0)<br />Coinexchange (0)<br />NLexch (0)<br />| 11,050 | 56.95 | 20.97 | 
 | 43. | TX | TransferCoin | 10,143 | Upbit (10,143)<br />Livecoin (1,682)<br />Cryptopia (424)<br />YoBit (0)<br />| 12,249 | 41.75 | 29.86 | 
 | 44. | XCP | Counterparty | 19,746 | Zaif (2,713)<br />Tux Exchange (0)<br />Bisq (0)<br />Poloniex (0)<br />| 2,713 | 61.05 | 41.51 | 
 | 45. | INCNT | Incent | 6,578 | Livecoin (16,859)<br />OpenLedger DEX (0)<br />| 16,859 | 51.15 | 8.28 | 
