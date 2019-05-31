@@ -40,7 +40,7 @@
 | 38. | AMP | AMP | 8,012 | Upbit (8,013)<br />HitBTC (37)<br />FUBT (0)<br />Cryptopia (0)<br />LATOKEN (0)<br />| 8,050 | 49.25 | 31.56 | 
 | 39. | UKG | UnikoinGold | 8,685 | Upbit (8,674)<br />KuCoin (1,224)<br />DDEX (211)<br />Idex (85)<br />YoBit (46)<br />Ethex (36)<br />ForkDelta (0)<br />TokenJar (0)<br />OKEx (0)<br />Radar Relay (0)<br />Joyso (0)<br />Saturn Network (0)<br />Orderbook.io (0)<br />Liquid (0)<br />| 10,276 | 62.65 | 27.67 | 
 | 40. | NLG | Gulden | 17,423 | LiteBit (2,410)<br />YoBit (0)<br />Txbit (0)<br />NLexch (0)<br />CryptoBridge (0)<br />Coinexchange (0)<br />| 2,410 | 68.35 | 41.39 | 
-| 41. | UP | UpToken | 9,757 | Upbit (9,756)<br />Bancor Network (1,122)<br />ForkDelta (0)<br />| 10,878 | 59.70 | 22.55 | 
+| 41. | UP | UpToken | 9,757 | Upbit (9,756)<br />Bancor Network (1,131)<br />ForkDelta (0)<br />| 10,887 | 59.70 | 22.55 | 
 | 42. | GUP | Guppy | 9,820 | Upbit (9,819)<br />HitBTC (1,049)<br />Livecoin (209)<br />ForkDelta (2)<br />YoBit (0)<br />TokenJar (0)<br />Radar Relay (0)<br />| 11,079 |  | 32.60 | 
 | 43. | BSD | BitSend | 10,044 | Upbit (10,044)<br />Livecoin (1,432)<br />LiteBit (205)<br />SouthXchange (108)<br />Cryptopia (66)<br />Nova Exchange (17)<br />CREX24 (4)<br />Coinexchange (1)<br />Bitsten (0)<br />BitOnBay (0)<br />Trade Satoshi (0)<br />Altilly (0)<br />| 11,876 | 59.50 | 32.03 | 
 | 44. | SHIFT | Shift | 8,585 | Upbit (8,584)<br />Livecoin (4,988)<br />Altilly (0)<br />Idax (0)<br />| 13,572 | 60.55 | 36.88 | 
