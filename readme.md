@@ -51,7 +51,7 @@
 | 49. | COVAL | Circuits of Value | 28,222 | | 0 | 50.90 | 20.20 | 
 | 50. | BLT | Bloom | 10,436 | Upbit (14,862)<br />Bibox (2,504)<br />Uniswap (465)<br />AirSwap (16)<br />ForkDelta (0)<br />TokenJar (0)<br />Radar Relay (0)<br />Idex (0)<br />TopBTC (0)<br />| 17,847 | 70.05 | 38.96 | 
 | 51. | THC | HempCoin | 30,023 | CryptoBridge (201)<br />P2PB2B (0)<br />qTrade (0)<br />Nova Exchange (0)<br />| 201 | 60.20 | 36.87 | 
-| 52. | VEE | BLOCKv | 13,378 | Upbit (12,886)<br />Ethfinex (3,667)<br />Bancor Network (1,233)<br />Radar Relay (58)<br />AirSwap (3)<br />TokenJar (0)<br />OKEx (0)<br />FCoin (0)<br />Tidex (0)<br />Idex (0)<br />ForkDelta (0)<br />| 17,846 | 65.70 | 34.34 | 
+| 52. | VEE | BLOCKv | 13,378 | Upbit (12,886)<br />Ethfinex (3,667)<br />Bancor Network (1,223)<br />Radar Relay (58)<br />AirSwap (3)<br />TokenJar (0)<br />OKEx (0)<br />FCoin (0)<br />Tidex (0)<br />Idex (0)<br />ForkDelta (0)<br />| 17,837 | 65.70 | 34.34 | 
 | 53. | ION | Ion | 16,128 | Upbit (16,128)<br />Escodex (0)<br />Bkex (0)<br />| 16,128 | 58.90 | 37.91 | 
 | 54. | PAL | PAL Network | 14,082 | Upbit (14,082)<br />KuCoin (8,331)<br />Max Maicoin (703)<br />KKCoin (682)<br />CoinBene (168)<br />Idex (43)<br />DDEX (8)<br />Cryptology (0)<br />Dobitrade (0)<br />TokenJar (0)<br />Kyber Network (0)<br />DEx.top (0)<br />Bilaxy (0)<br />Switcheo (0)<br />CPDAX (0)<br />| 24,017 | 65.25 | 29.22 | 
 | 55. | FLO | FLO | 24,160 | TOKOK (14,432)<br />Nova Exchange (37)<br />Coinexchange (13)<br />BitRabbit (0)<br />Freiexchange (0)<br />| 14,482 | 62.50 | 35.36 | 
