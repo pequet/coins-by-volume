@@ -23,7 +23,7 @@
 | 21. | GRC | GridCoin | 3,191 | SouthXchange (3,595)<br />C-CEX (2)<br />OpenLedger DEX (0)<br />BITKER (0)<br />| 3,595 | 61.30 | 43.78 | 
 | 22. | KORE | Kore | 4,042 | Upbit (4,042)<br />Trade Satoshi (0)<br />| 4,042 | 42.60 | 19.56 | 
 | 23. | XST | Stealth | 8,073 | Cryptopia (397)<br />Vinex (0)<br />| 397 | 58.25 | 36.29 | 
-| 24. | UP | UpToken | 4,727 | Upbit (4,888)<br />Bancor Network (380)<br />ForkDelta (0)<br />| 5,269 | 59.70 | 22.55 | 
+| 24. | UP | UpToken | 4,727 | Upbit (4,888)<br />Bancor Network (817)<br />ForkDelta (0)<br />| 5,705 | 59.70 | 22.55 | 
 | 25. | BSD | BitSend | 4,737 | Upbit (4,737)<br />Livecoin (1,084)<br />LiteBit (298)<br />SouthXchange (108)<br />Cryptopia (66)<br />CREX24 (10)<br />Coinexchange (1)<br />Bitsten (0)<br />Nova Exchange (0)<br />Altilly (0)<br />BitOnBay (0)<br />Trade Satoshi (0)<br />| 6,303 | 59.50 | 32.03 | 
 | 26. | XEL | XEL | 5,750 | Upbit (5,750)<br />| 5,750 | 60.20 | 26.76 | 
 | 27. | AID | AidCoin | 5,182 | Upbit (5,183)<br />Ethfinex (1,080)<br />Bancor Network (254)<br />TokenJar (0)<br />Idex (0)<br />| 6,517 | 56.70 | 25.74 | 
