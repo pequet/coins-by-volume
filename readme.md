@@ -32,7 +32,7 @@
 | 30. | UBQ | Ubiq | 19,994 | Upbit (19,994)<br />LiteBit (192)<br />| 20,186 | 64.10 | 33.41 | 
 | 31. | GBYTE | Bytes | 20,251 | Upbit (20,354)<br />Bit-Z (19)<br />Bisq (0)<br />| 20,373 | 67.25 | 46.90 | 
 | 32. | XEL | XEL | 23,848 | Upbit (23,852)<br />| 23,852 | 60.20 | 29.31 | 
-| 33. | ANT | Aragon | 12,615 | Upbit (12,615)<br />CryptalDash (7,317)<br />Bancor Network (6,045)<br />Uniswap (4,265)<br />HitBTC (3,515)<br />GoPax (606)<br />Idex (238)<br />Livecoin (228)<br />Ethfinex (192)<br />AirSwap (65)<br />TokenJar (1)<br />CredoEx (0)<br />Blockonix (0)<br />Radar Relay (0)<br />Everbloom (0)<br />ForkDelta (0)<br />Orderbook.io (0)<br />| 35,088 | 74.85 | 44.08 | 
+| 33. | ANT | Aragon | 12,615 | Upbit (12,615)<br />CryptalDash (7,317)<br />Bancor Network (6,301)<br />Uniswap (4,265)<br />HitBTC (3,515)<br />GoPax (606)<br />Idex (238)<br />Livecoin (228)<br />Ethfinex (192)<br />AirSwap (65)<br />TokenJar (1)<br />CredoEx (0)<br />Blockonix (0)<br />Radar Relay (0)<br />Everbloom (0)<br />ForkDelta (0)<br />Orderbook.io (0)<br />| 35,343 | 74.85 | 44.08 | 
 | 34. | SWT | Swarm City Token | 33,466 | Upbit (33,467)<br />HitBTC (563)<br />YoBit (1)<br />ForkDelta (0)<br />Uniswap (0)<br />Coinbe (0)<br />| 34,031 | 63.70 | 41.63 | 
 | 35. | VEE | BLOCKv | 34,145 | Upbit (33,656)<br />Ethfinex (5,355)<br />Bancor Network (2,490)<br />Radar Relay (58)<br />AirSwap (3)<br />TokenJar (0)<br />OKEx (0)<br />FCoin (0)<br />ForkDelta (0)<br />Tidex (0)<br />Idex (0)<br />| 41,561 | 65.70 | 34.64 | 
 | 36. | SHIFT | Shift | 36,317 | Upbit (36,252)<br />Livecoin (5,079)<br />Altilly (0)<br />Idax (0)<br />| 41,331 | 60.55 | 37.33 | 
