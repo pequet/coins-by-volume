@@ -1,9 +1,9 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | GEO | GeoCoin | 370 | | 0 | 36.55 | 11.36 | 
-| 2. | NEOS | NeosCoin | 430 | Bisq (0)<br />| 0 | 42.70 | 18.03 | 
-| 3. | TKS | Tokes | 601 | Waves Platform (123)<br />| 123 | 48.40 | 23.68 | 
-| 4. | SEQ | Sequence | 816 | CryptoBridge (0)<br />| 0 | 49.30 | 30.61 | 
+| 1. | NEOS | NeosCoin | 164 | Bisq (0)<br />| 0 | 42.70 | 17.91 | 
+| 2. | GEO | GeoCoin | 370 | | 0 | 36.55 | 11.36 | 
+| 3. | SEQ | Sequence | 816 | CryptoBridge (0)<br />| 0 | 49.30 | 30.61 | 
+| 4. | TKS | Tokes | 799 | Waves Platform (123)<br />| 123 | 48.40 | 23.52 | 
 | 5. | IOC | I/OCoin | 1,197 | FEX (0)<br />| 0 | 68.00 | 31.43 | 
 | 6. | QWARK | Qwark | 1,501 | | 0 | 31.00 | 5.03 | 
 | 7. | MORE | More | 1,940 | | 0 |  | 4.45 | 
