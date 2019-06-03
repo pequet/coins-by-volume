@@ -5,7 +5,7 @@
 | 3. | SEQ | Sequence | 407 | CryptoBridge (0)<br />| 0 | 49.30 | 30.61 | 
 | 4. | TKS | Tokes | 662 | Waves Platform (123)<br />| 123 | 48.40 | 23.52 | 
 | 5. | IOC | I/OCoin | 1,183 | FEX (0)<br />| 0 | 68.00 | 31.43 | 
-| 6. | GEO | GeoCoin | 1,473 | | 0 | 36.55 | 11.15 | 
+| 6. | GEO | GeoCoin | 2,203 | | 0 | 36.55 | 11.15 | 
 | 7. | SLR | SolarCoin | 1,530 | Livecoin (704)<br />Lykke (61)<br />Graviex (4)<br />Coinexchange (0)<br />| 768 | 58.00 | 34.23 | 
 | 8. | QWARK | Qwark | 2,580 | | 0 | 31.00 | 5.03 | 
 | 9. | PINK | PinkCoin | 1,742 | LiteBit (907)<br />SouthXchange (89)<br />Trade Satoshi (0)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />| 996 | 51.75 | 34.46 | 
