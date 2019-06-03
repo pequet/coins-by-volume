@@ -5,10 +5,10 @@
 | 3. | MORE | More | 435 | | 0 |  | 4.45 | 
 | 4. | TKS | Tokes | 696 | Waves Platform (123)<br />| 123 | 48.40 | 23.52 | 
 | 5. | IOC | I/OCoin | 968 | FEX (0)<br />| 0 | 68.00 | 31.43 | 
-| 6. | GEO | GeoCoin | 2,203 | | 0 | 36.55 | 11.15 | 
-| 7. | SLR | SolarCoin | 1,710 | Livecoin (672)<br />Lykke (89)<br />Graviex (0)<br />Coinexchange (0)<br />| 761 | 58.00 | 34.23 | 
-| 8. | DMD | Diamond | 2,252 | Livecoin (431)<br />CREX24 (11)<br />CryptoBridge (4)<br />| 447 | 51.80 | 36.03 | 
-| 9. | QWARK | Qwark | 2,768 | | 0 | 31.00 | 5.03 | 
+| 6. | SLR | SolarCoin | 1,710 | Livecoin (672)<br />Lykke (89)<br />Graviex (0)<br />Coinexchange (0)<br />| 761 | 58.00 | 34.23 | 
+| 7. | DMD | Diamond | 2,252 | Livecoin (431)<br />CREX24 (11)<br />CryptoBridge (4)<br />| 447 | 51.80 | 36.03 | 
+| 8. | QWARK | Qwark | 2,768 | | 0 | 31.00 | 5.03 | 
+| 9. | GEO | GeoCoin | 2,896 | | 0 | 36.55 | 11.15 | 
 | 10. | TIX | Blocktix | 967 | Upbit (2,343)<br />ChainEX (44)<br />HitBTC (12)<br />ForkDelta (0)<br />Radar Relay (0)<br />TokenJar (0)<br />| 2,399 | 58.30 | 26.58 | 
 | 11. | GLC | GoldCoin | 1,516 | Trade Satoshi (1,933)<br />Altilly (783)<br />| 2,716 | 54.70 | 22.91 | 
 | 12. | PINK | PinkCoin | 2,786 | LiteBit (1,576)<br />SouthXchange (89)<br />Trade Satoshi (0)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />| 1,665 | 51.75 | 34.46 | 
