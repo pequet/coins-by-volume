@@ -11,8 +11,8 @@
 | 9. | MUE | MonetaryUnit | 1,388 | Upbit (1,410)<br />CryptoBridge (2)<br />Nova Exchange (0)<br />YoBit (0)<br />NLexch (0)<br />CoinExchange.io (0)<br />BitOnBay (0)<br />| 1,413 | 56.95 | 23.24 | 
 | 10. | DMD | Diamond | 3,058 | Livecoin (298)<br />CREX24 (231)<br />CryptoBridge (1)<br />| 530 | 51.80 | 36.03 | 
 | 11. | POT | PotCoin | 3,572 | CoinExchange.io (28)<br />Trade Satoshi (0)<br />Nova Exchange (0)<br />Tux Exchange (0)<br />Nanu Exchange (0)<br />| 28 | 54.95 | 33.51 | 
-| 12. | TIX | Blocktix | 837 | Upbit (2,953)<br />ChainEX (35)<br />HitBTC (25)<br />ForkDelta (0)<br />Radar Relay (0)<br />TokenJar (0)<br />| 3,013 | 58.30 | 26.22 | 
-| 13. | SLR | SolarCoin | 1,730 | Lykke (1,390)<br />Livecoin (811)<br />Graviex (6)<br />CoinExchange.io (0)<br />| 2,201 | 58.00 | 33.75 | 
+| 12. | SLR | SolarCoin | 1,899 | Livecoin (1,056)<br />Lykke (752)<br />Graviex (0)<br />CoinExchange.io (0)<br />| 1,808 | 58.00 | 33.75 | 
+| 13. | TIX | Blocktix | 837 | Upbit (2,953)<br />ChainEX (35)<br />HitBTC (25)<br />ForkDelta (0)<br />Radar Relay (0)<br />TokenJar (0)<br />| 3,013 | 58.30 | 26.22 | 
 | 14. | MUSIC | Musicoin | 4,137 | | 0 | 60.50 | 39.15 | 
 | 15. | TX | TransferCoin | 1,632 | Upbit (1,629)<br />Livecoin (1,279)<br />YoBit (0)<br />| 2,908 | 41.75 | 32.52 | 
 | 16. | GUP | Guppy | 2,170 | Upbit (2,169)<br />Livecoin (154)<br />HitBTC (52)<br />ForkDelta (2)<br />YoBit (0)<br />Radar Relay (0)<br />TokenJar (0)<br />| 2,377 |  | 36.42 | 
