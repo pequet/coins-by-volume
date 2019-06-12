@@ -45,7 +45,7 @@
 | 43. | INCNT | Incent | 5,305 | Livecoin (21,343)<br />OpenLedger DEX (0)<br />| 21,343 | 51.15 | 7.90 | 
 | 44. | SPHR | Sphere | 13,625 | Upbit (13,694)<br />| 13,694 | 41.80 | 27.52 | 
 | 45. | MOBI | Mobius | 9,228 | Upbit (9,228)<br />Gate.io (6,474)<br />GoPax (1,848)<br />BitMart (706)<br />KuCoin (473)<br />OTCBTC (0)<br />| 18,728 | 65.05 | 31.59 | 
-| 46. | UP | UpToken | 15,155 | Upbit (15,220)<br />Bancor Network (1,148)<br />ForkDelta (0)<br />| 16,368 | 59.70 | 26.70 | 
+| 46. | UP | UpToken | 15,155 | Upbit (15,220)<br />Bancor Network (363)<br />ForkDelta (0)<br />| 15,584 | 59.70 | 26.70 | 
 | 47. | CRW | Crown | 16,087 | Upbit (16,072)<br />LiteBit (2,383)<br />CryptoBridge (323)<br />CoinExchange.io (5)<br />YoBit (0)<br />Braziliex (0)<br />| 18,783 | 71.20 | 41.90 | 
 | 48. | SWT | Swarm City Token | 18,223 | Upbit (17,934)<br />HitBTC (5)<br />YoBit (1)<br />ForkDelta (0)<br />Coinbe (0)<br />Uniswap (0)<br />| 17,939 | 63.70 | 40.75 | 
 | 49. | BITB | BitBean | 19,236 | Upbit (19,161)<br />YoBit (16)<br />BitOnBay (7)<br />bleutrade (6)<br />CoinExchange.io (2)<br />| 19,192 | 53.70 | 23.57 | 
