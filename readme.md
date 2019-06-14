@@ -62,7 +62,7 @@
 | 60. | BLT | Bloom | 26,847 | Upbit (26,847)<br />Uniswap (5,947)<br />Idex (0)<br />TokenJar (0)<br />| 32,794 | 70.05 | 41.75 | 
 | 61. | RVR | RevolutionVR | 32,197 | Upbit (32,196)<br />SatowalletEx (210)<br />LiteBit (0)<br />CoinExchange.io (0)<br />CryptoBridge (0)<br />| 32,406 | 53.30 | 22.30 | 
 | 62. | PAL | PAL Network | 28,918 | Upbit (28,934)<br />KuCoin (6,767)<br />CoinBene (117)<br />TokenJar (0)<br />| 35,819 | 65.25 | 30.42 | 
-| 63. | GNO | Gnosis | 18,774 | Upbit (18,785)<br />Kraken (17,093)<br />Uniswap (3,397)<br />Mercatox (3,372)<br />Bancor Network (2,774)<br />BX Thailand (721)<br />HitBTC (380)<br />Livecoin (230)<br />Ethfinex (109)<br />YoBit (0)<br />CredoEx (0)<br />Bitsane (0)<br />Orderbook.io (0)<br />LATOKEN (0)<br />| 46,862 | 63.30 | 44.10 | 
+| 63. | GNO | Gnosis | 18,774 | Upbit (18,785)<br />Kraken (17,093)<br />Uniswap (3,397)<br />Mercatox (3,372)<br />Bancor Network (2,632)<br />BX Thailand (721)<br />HitBTC (380)<br />Livecoin (230)<br />Ethfinex (109)<br />YoBit (0)<br />CredoEx (0)<br />Bitsane (0)<br />Orderbook.io (0)<br />LATOKEN (0)<br />| 46,720 | 63.30 | 44.10 | 
 | 64. | OK | OkCash | 35,183 | Upbit (35,173)<br />bleutrade (217)<br />LiteBit (182)<br />YoBit (23)<br />Trade Satoshi (3)<br />Nova Exchange (0)<br />| 35,597 | 60.65 | 45.48 | 
 | 65. | EXP | Expanse | 15,326 | FinexBox (45,936)<br />Upbit (15,327)<br />Graviex (5)<br />SatowalletEx (0)<br />| 61,268 | 56.20 | 43.01 | 
 | 66. | SHIFT | Shift | 42,519 | Upbit (42,953)<br />Livecoin (5,459)<br />Idax (1,125)<br />| 49,537 | 60.55 | 37.15 | 
