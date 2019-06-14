@@ -66,7 +66,7 @@
 | 64. | PAL | PAL Network | 30,456 | Upbit (30,149)<br />KuCoin (7,934)<br />CoinBene (126)<br />TokenJar (0)<br />| 38,208 | 65.25 | 30.42 | 
 | 65. | BLT | Bloom | 35,554 | Upbit (35,581)<br />Uniswap (1,108)<br />Idex (107)<br />TokenJar (0)<br />| 36,797 | 70.05 | 41.75 | 
 | 66. | EDG | Edgeless | 46,854 | Upbit (31,783)<br />HitBTC (7,122)<br />Livecoin (226)<br />Tidex (32)<br />Bancor Network (0)<br />| 39,162 | 72.30 | 35.64 | 
-| 67. | GNO | Gnosis | 10,223 | Kraken (63,499)<br />Upbit (10,222)<br />Mercatox (5,893)<br />Bancor Network (4,207)<br />Uniswap (2,134)<br />HitBTC (661)<br />Livecoin (198)<br />BX Thailand (164)<br />Ethfinex (114)<br />YoBit (0)<br />CredoEx (0)<br />Bitsane (0)<br />LATOKEN (0)<br />Orderbook.io (0)<br />| 87,091 | 63.30 | 44.10 | 
+| 67. | GNO | Gnosis | 10,223 | Kraken (63,499)<br />Upbit (10,222)<br />Mercatox (5,893)<br />Bancor Network (4,201)<br />Uniswap (2,134)<br />HitBTC (661)<br />Livecoin (198)<br />BX Thailand (164)<br />Ethfinex (114)<br />YoBit (0)<br />CredoEx (0)<br />Bitsane (0)<br />LATOKEN (0)<br />Orderbook.io (0)<br />| 87,085 | 63.30 | 44.10 | 
 | 68. | FTC | Feathercoin | 4,658 | FinexBox (67,842)<br />QBTC (25,239)<br />Upbit (4,641)<br />BX Thailand (451)<br />LiteBit (128)<br />OKEx (0)<br />Altilly (0)<br />CoinExchange.io (0)<br />| 98,301 | 49.80 | 45.62 | 
 | 69. | BKX | Bankex | 2,254 | Hotbit (45,608)<br />Dcoin (34,467)<br />OKEx (28,612)<br />Upbit (3,071)<br />HitBTC (4)<br />Idex (0)<br />TokenJar (0)<br />| 111,761 | 72.95 | 38.16 | 
 | 70. | HMQ | Humaniq | 9,863 | Hotbit (79,759)<br />Mercatox (16,467)<br />Upbit (9,799)<br />HitBTC (1)<br />Simex (0)<br />YoBit (0)<br />| 106,026 | 60.40 | 38.72 | 
