@@ -104,7 +104,7 @@
 | 102. | PART | Particl | 391,820 | Upbit (403,526)<br />LiteBit (9,889)<br />ChainEX (7,077)<br />Probit (43)<br />Bit-Z (0)<br />| 420,535 | 74.35 | 47.96 | 
 | 103. | VIB | Viberate | 58,000 | Binance (649,081)<br />OKEx (92,183)<br />Upbit (58,000)<br />Bancor Network (2,773)<br />HitBTC (1,698)<br />Livecoin (232)<br />Purcow (0)<br />TokenJar (0)<br />Coinbe (0)<br />| 803,968 | 63.30 | 35.66 | 
 | 104. | PRO | Propy | 13,690 | Bitrue (817,692)<br />Bitforex (74,869)<br />Upbit (15,027)<br />Kyber Network (1,365)<br />HitBTC (258)<br />Livecoin (233)<br />| 909,445 | 66.70 | 26.82 | 
-| 105. | USDS | Stable USD | 24,474 | Vindax (641,501)<br />Binance (282,753)<br />| 924,254 | 51.65 | 25.39 | 
+| 105. | USDS | Stable USD | 24,474 | Vindax (641,501)<br />Binance (282,766)<br />| 924,267 | 51.65 | 25.39 | 
 | 106. | RDD | ReddCoin | 198,197 | BiteBTC (577,037)<br />Upbit (199,491)<br />LiteBit (4,270)<br />bleutrade (110)<br />CoinExchange.io (88)<br />CREX24 (45)<br />Trade Satoshi (29)<br />C-Patex (0)<br />Altilly (0)<br />Nova Exchange (0)<br />BitOnBay (0)<br />Freiexchange (0)<br />| 781,071 | 66.95 | 51.12 | 
 | 107. | NXS | Nexus | 80,534 | Binance (855,165)<br />Upbit (80,814)<br />| 935,979 | 66.35 | 49.11 | 
 | 108. | BFT | BnkToTheFuture | 14,206 | Huobi Global (962,890)<br />Coinbit (24,865)<br />Upbit (14,312)<br />Gate.io (676)<br />DragonEx (356)<br />Ethfinex (353)<br />| 1,003,453 | 71.30 | 31.33 | 
