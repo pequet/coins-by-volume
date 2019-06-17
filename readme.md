@@ -93,7 +93,7 @@
 | 91. | PPC | Peercoin | 38,361 | CoinEgg (204,070)<br />FinexBox (44,280)<br />SouthXchange (28,851)<br />HitBTC (24,005)<br />Bitsane (13,072)<br />Livecoin (8,961)<br />Altilly (5,383)<br />BTCSquare (5,093)<br />TheRockTrading (4,386)<br />LiteBit (827)<br />YoBit (193)<br />Trade Satoshi (40)<br />BX Thailand (8)<br />Tux Exchange (0)<br />Freiexchange (0)<br />SatowalletEx (0)<br />| 339,170 | 74.35 | 46.83 | 
 | 92. | MER | Mercury | 10,628 | Upbit (476,010)<br />Waves Platform (200)<br />Tidex (0)<br />| 476,210 | 52.15 | 29.17 | 
 | 93. | FCT | Factom | 200,296 | Upbit (200,152)<br />Poloniex (115,252)<br />Digifinex (7,227)<br />Bit-Z (3,615)<br />Liquid (0)<br />Livecoin (0)<br />| 326,246 | 67.75 | 53.24 | 
-| 94. | VIB | Viberate | 25,985 | Binance (432,811)<br />OKEx (51,321)<br />Upbit (26,137)<br />Bancor Network (2,417)<br />HitBTC (1,766)<br />Livecoin (240)<br />Purcow (0)<br />Coinbe (0)<br />TokenJar (0)<br />| 514,691 | 63.30 | 36.23 | 
+| 94. | VIB | Viberate | 25,985 | Binance (432,811)<br />OKEx (51,321)<br />Upbit (26,137)<br />Bancor Network (2,148)<br />HitBTC (1,766)<br />Livecoin (240)<br />Purcow (0)<br />Coinbe (0)<br />TokenJar (0)<br />| 514,422 | 63.30 | 36.23 | 
 | 95. | MUE | MonetaryUnit | 285,662 | Upbit (285,506)<br />CoinExchange.io (4)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />SatowalletEx (0)<br />| 285,510 | 56.95 | 23.65 | 
 | 96. | BLOCK | Blocknet | 31,774 | FEX (514,295)<br />Upbit (31,774)<br />Digifinex (5,528)<br />CryptoBridge (274)<br />Nova Exchange (0)<br />| 551,871 | 71.75 | 46.03 | 
 | 97. | RFR | Refereum | 87,025 | Upbit (474,810)<br />OKEx (23,724)<br />Gate.io (3,425)<br />Bibox (658)<br />BitMart (83)<br />Idex (83)<br />| 502,784 | 69.10 | 26.52 | 
