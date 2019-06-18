@@ -99,7 +99,7 @@
 | 97. | BLOCK | Blocknet | 68,549 | FEX (521,092)<br />Upbit (68,665)<br />Digifinex (5,168)<br />CryptoBridge (21)<br />| 594,946 | 71.75 | 45.92 | 
 | 98. | RLC | iEx.ec | 64,856 | Binance (549,010)<br />Upbit (64,942)<br />Gate.io (16,391)<br />HitBTC (2,698)<br />Bancor Network (1,579)<br />Kyber Network (1,465)<br />Ethfinex (1,337)<br />Uniswap (450)<br />Livecoin (243)<br />Idex (25)<br />CoinExchange.io (0)<br />| 638,141 | 76.75 | 50.63 | 
 | 99. | SPC | SpaceChain | 71,002 | EXX (282,388)<br />CoinEgg (281,648)<br />Upbit (74,293)<br />CoinNest (0)<br />| 638,329 |  | 36.00 | 
-| 100. | VIB | Viberate | 32,424 | Binance (575,156)<br />OKEx (73,151)<br />Upbit (32,480)<br />Bitsdaq (32,437)<br />Bancor Network (4,631)<br />HitBTC (906)<br />Livecoin (213)<br />| 718,973 | 63.30 | 36.25 | 
+| 100. | VIB | Viberate | 32,424 | Binance (575,156)<br />OKEx (73,151)<br />Upbit (32,480)<br />Bitsdaq (32,437)<br />Bancor Network (4,674)<br />HitBTC (906)<br />Livecoin (213)<br />| 719,016 | 63.30 | 36.25 | 
 | 101. | XHV | Haven Protocol | 235,453 | Upbit (235,336)<br />TOKOK (184,308)<br />Bitalong (150,360)<br />TradeOgre (7,327)<br />| 577,331 |  | 40.74 | 
 | 102. | NXS | Nexus | 87,476 | Binance (745,737)<br />Upbit (83,894)<br />| 829,631 | 66.35 | 49.63 | 
 | 103. | VIA | ViaCoin  | 56,916 | Binance (710,231)<br />FEX (89,541)<br />Upbit (57,784)<br />Poloniex (20,167)<br />LiteBit (10)<br />Nova Exchange (1)<br />| 877,735 | 66.55 | 44.22 | 
