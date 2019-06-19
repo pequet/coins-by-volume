@@ -55,7 +55,7 @@
 | 53. | SYNX | Syndicate | 25,762 | Upbit (24,692)<br />StakeCube (0)<br />CryptoBridge (0)<br />CoinExchange.io (0)<br />| 24,692 | 59.75 | 32.68 | 
 | 54. | BAY | BitBay | 27,773 | Upbit (27,774)<br />LiteBit (580)<br />| 28,354 | 57.00 | 39.59 | 
 | 55. | QRL | Quantum Resistant Ledger | 29,812 | Upbit (32,548)<br />| 32,548 | 70.30 | 46.17 | 
-| 56. | VEE | BLOCKv | 16,980 | Ethfinex (30,725)<br />Upbit (17,009)<br />Bancor Network (925)<br />| 48,659 | 65.70 | 35.73 | 
+| 56. | VEE | BLOCKv | 16,980 | Ethfinex (30,725)<br />Upbit (17,009)<br />Bancor Network (923)<br />| 48,656 | 65.70 | 35.73 | 
 | 57. | MUE | MonetaryUnit | 37,410 | Upbit (29,478)<br />CoinExchange.io (0)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />SatowalletEx (0)<br />| 29,478 | 56.95 | 24.19 | 
 | 58. | EXP | Expanse | 9,240 | FinexBox (50,971)<br />Upbit (9,495)<br />Graviex (10)<br />SatowalletEx (0)<br />| 60,476 | 56.20 | 41.37 | 
 | 59. | BITB | BitBean | 35,510 | Upbit (35,514)<br />bleutrade (59)<br />StakeCube (5)<br />| 35,578 | 53.70 | 24.04 | 
@@ -111,7 +111,7 @@
 | 109. | DNT | district0x | 32,317 | Binance (240,023)<br />ABCC (214,454)<br />Bitrue (142,017)<br />Mercatox (66,875)<br />Upbit (32,317)<br />Coinbase Pro (10,952)<br />AirSwap (1,846)<br />Gate.io (191)<br />CoinExchange.io (18)<br />HitBTC (0)<br />Idex (0)<br />Uniswap (0)<br />ForkDelta (0)<br />| 708,693 | 70.05 | 46.22 | 
 | 110. | STORM | Storm | 10,983 | Binance (396,047)<br />Upbit (330,604)<br />Bitrue (16,995)<br />Coinplace (6,122)<br />Coineal (6,102)<br />HitBTC (764)<br />WazirX (51)<br />AirSwap (16)<br />DDEX (5)<br />Kyber Network (3)<br />YoBit (2)<br />ChainEX (0)<br />| 756,710 | 73.30 | 44.12 | 
 | 111. | PRO | Propy | 13,891 | Bitrue (752,468)<br />Bitforex (29,510)<br />Upbit (14,852)<br />Kyber Network (926)<br />Livecoin (316)<br />HitBTC (91)<br />| 798,163 | 66.70 | 26.69 | 
-| 112. | AID | AidCoin | 453,732 | Upbit (454,269)<br />Bancor Network (10,856)<br />Ethfinex (2,430)<br />| 467,554 | 56.70 | 28.39 | 
+| 112. | AID | AidCoin | 453,732 | Upbit (454,269)<br />Bancor Network (11,412)<br />Ethfinex (2,430)<br />| 468,111 | 56.70 | 28.39 | 
 | 113. | VTC | Vertcoin | 116,577 | Upbit (288,178)<br />CoinEgg (270,479)<br />QBTC (159,817)<br />FinexBox (76,834)<br />Poloniex (48,523)<br />SouthXchange (5,952)<br />bleutrade (812)<br />CryptoBridge (14)<br />Coingi (3)<br />Nova Exchange (2)<br />Altilly (0)<br />Bitsane (0)<br />LiteBit (0)<br />SatowalletEx (0)<br />| 850,615 | 70.55 | 51.41 | 
 | 114. | USDS | Stable USD | 2,138 | Vindax (649,062)<br />Binance (380,436)<br />| 1,029,498 | 51.65 | 25.86 | 
 | 115. | NAV | NAVCoin | 64,596 | Binance (933,418)<br />Upbit (64,551)<br />Poloniex (26,536)<br />LiteBit (3,000)<br />Bitexlive (1,126)<br />CREX24 (29)<br />StakeCube (13)<br />Nova Exchange (0)<br />SatowalletEx (0)<br />| 1,028,673 | 79.30 | 53.26 | 
@@ -124,7 +124,7 @@
 | 122. | ENG | Enigma | 18,744 | ABCC (963,213)<br />Binance (260,419)<br />Coineal (130,052)<br />Idex (67,972)<br />Hotbit (45,008)<br />Mercatox (25,253)<br />Upbit (18,796)<br />Coinplace (13,140)<br />Huobi Global (7,431)<br />HitBTC (2,018)<br />Bitrue (1,187)<br />GoPax (1,030)<br />AirSwap (66)<br />CREX24 (21)<br />Kyber Network (12)<br />Livecoin (2)<br />Huobi Korea (0)<br />| 1,535,618 | 80.80 | 34.80 | 
 | 123. | OCN | Odyssey | 43,496 | Lbank (449,554)<br />Gate.io (437,854)<br />Dcoin (373,352)<br />Huobi Global (331,988)<br />Bithumb (123,719)<br />Upbit (43,514)<br />Bitsdaq (42,723)<br />KuCoin (14,383)<br />CoinTiger (4,727)<br />ABCC (88)<br />ZG.TOP (55)<br />WazirX (23)<br />HitBTC (17)<br />BITEXBOOK (14)<br />Huobi Korea (10)<br />Bit-Z (0)<br />CoinExchange.io (0)<br />| 1,822,019 | 69.40 | 28.02 | 
 | 124. | EMC2 | Einsteinium | 96,797 | Upbit (1,996,635)<br />Trade Satoshi (12)<br />BCEX (0)<br />| 1,996,647 | 66.20 | 42.03 | 
-| 125. | MFT | Mainframe | 28,055 | Binance (1,082,965)<br />Upbit (825,786)<br />MXC (135,600)<br />Hotbit (54,992)<br />Bitsdaq (28,064)<br />Coinplace (9,648)<br />Bancor Network (6,099)<br />Bilaxy (5,275)<br />Coinbe (772)<br />OmniTrade (237)<br />CoinExchange.io (4)<br />Idex (0)<br />Uniswap (0)<br />| 2,149,442 | 63.05 | 46.87 | 
+| 125. | MFT | Mainframe | 28,055 | Binance (1,082,965)<br />Upbit (825,786)<br />MXC (135,600)<br />Hotbit (54,992)<br />Bitsdaq (28,064)<br />Coinplace (9,648)<br />Bilaxy (5,275)<br />Bancor Network (4,366)<br />Coinbe (772)<br />OmniTrade (237)<br />CoinExchange.io (4)<br />Idex (0)<br />Uniswap (0)<br />| 2,147,709 | 63.05 | 46.87 | 
 | 126. | SOLVE | Solve.Care | 315,310 | Upbit (1,544,423)<br />Bitsdaq (299,158)<br />Trade.io (27,779)<br />KuCoin (16,219)<br />LiteBit (2,345)<br />| 1,889,924 |  | 29.68 | 
 | 127. | STRAT | Stratis | 87,950 | HitBTC (1,012,157)<br />Upbit (517,296)<br />Binance (364,705)<br />Bithumb (218,237)<br />Poloniex (22,235)<br />Livecoin (20,408)<br />SouthXchange (5,932)<br />BuyUcoin (3,681)<br />LiteBit (667)<br />CREX24 (27)<br />Trade Satoshi (4)<br />SatowalletEx (0)<br />| 2,165,350 | 74.35 | 55.62 | 
 | 128. | SPND | Spendcoin | 761,206 | Bitsdaq (755,831)<br />Upbit (747,568)<br />KuCoin (1,453)<br />Bilaxy (348)<br />ZG.TOP (4)<br />| 1,505,204 | 66.65 | 35.29 | 
