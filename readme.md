@@ -111,7 +111,7 @@
 | 109. | GO | GoChain | 27,163 | Binance (576,466)<br />Bilaxy (84,742)<br />KuCoin (45,128)<br />Upbit (27,908)<br />DragonEx (107)<br />CoinAll (5)<br />| 734,356 | 83.75 | 46.33 | 
 | 110. | STORM | Storm | 10,983 | Binance (396,047)<br />Upbit (330,604)<br />Bitrue (16,995)<br />Coinplace (6,122)<br />Coineal (6,102)<br />HitBTC (764)<br />WazirX (51)<br />AirSwap (16)<br />DDEX (5)<br />Kyber Network (3)<br />YoBit (2)<br />ChainEX (0)<br />| 756,710 | 73.30 | 44.12 | 
 | 111. | PRO | Propy | 13,891 | Bitrue (752,468)<br />Bitforex (29,510)<br />Upbit (14,852)<br />Kyber Network (926)<br />Livecoin (316)<br />HitBTC (91)<br />| 798,163 | 66.70 | 26.69 | 
-| 112. | AID | AidCoin | 453,732 | Upbit (454,269)<br />Bancor Network (11,412)<br />Ethfinex (2,430)<br />| 468,111 | 56.70 | 28.39 | 
+| 112. | AID | AidCoin | 453,732 | Upbit (454,269)<br />Bancor Network (10,856)<br />Ethfinex (2,430)<br />| 467,554 | 56.70 | 28.39 | 
 | 113. | VTC | Vertcoin | 116,577 | Upbit (288,178)<br />CoinEgg (270,479)<br />QBTC (159,817)<br />FinexBox (76,834)<br />Poloniex (48,523)<br />SouthXchange (5,952)<br />bleutrade (812)<br />CryptoBridge (14)<br />Coingi (3)<br />Nova Exchange (2)<br />Altilly (0)<br />Bitsane (0)<br />LiteBit (0)<br />SatowalletEx (0)<br />| 850,615 | 70.55 | 51.41 | 
 | 114. | USDS | Stable USD | 2,138 | Vindax (649,062)<br />Binance (380,436)<br />| 1,029,498 | 51.65 | 25.86 | 
 | 115. | NAV | NAVCoin | 64,542 | Binance (910,636)<br />Upbit (64,392)<br />Poloniex (27,657)<br />LiteBit (2,917)<br />Bitexlive (1,126)<br />CREX24 (31)<br />StakeCube (1)<br />Nova Exchange (0)<br />SatowalletEx (0)<br />| 1,006,759 | 79.30 | 53.26 | 
