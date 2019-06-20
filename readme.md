@@ -108,7 +108,7 @@
 | 106. | MOC | Mossland | 17,845 | Upbit (650,268)<br />GoPax (16,278)<br />BCEX (0)<br />CoinExchange.io (0)<br />Kyber Network (0)<br />| 666,546 |  | 36.42 | 
 | 107. | ARK | Ark | 41,731 | Binance (395,018)<br />Upbit (247,108)<br />OKEx (30,847)<br />Exrates (6,232)<br />BuyUcoin (3,144)<br />Bit-Z (1,915)<br />Livecoin (1,193)<br />LiteBit (0)<br />Altilly (0)<br />COSS (0)<br />| 685,457 | 71.90 | 57.25 | 
 | 108. | MET | Metronome | 283,547 | Upbit (274,615)<br />Hotbit (142,140)<br />Gate.io (40,604)<br />Bilaxy (26,964)<br />Idex (5,317)<br />| 489,640 | 56.30 | 44.34 | 
-| 109. | VIB | Viberate | 20,712 | Binance (647,242)<br />OKEx (59,727)<br />Bitsdaq (20,712)<br />Upbit (20,641)<br />Bancor Network (4,463)<br />Livecoin (1,003)<br />HitBTC (543)<br />| 754,331 | 63.30 | 30.62 | 
+| 109. | VIB | Viberate | 20,712 | Binance (647,242)<br />OKEx (59,727)<br />Bitsdaq (20,712)<br />Upbit (20,641)<br />Bancor Network (4,448)<br />Livecoin (1,003)<br />HitBTC (543)<br />| 754,316 | 63.30 | 30.62 | 
 | 110. | GO | GoChain | 47,920 | Binance (562,257)<br />Bilaxy (88,699)<br />Upbit (47,941)<br />KuCoin (41,682)<br />DragonEx (65)<br />CoinAll (5)<br />| 740,648 | 83.75 | 42.37 | 
 | 111. | PRO | Propy | 9,627 | Bitrue (800,630)<br />Bitforex (20,833)<br />Upbit (9,622)<br />Kyber Network (625)<br />Livecoin (233)<br />HitBTC (47)<br />| 831,988 | 66.70 | 26.69 | 
 | 112. | USDS | Stable USD | 2,723 | Vindax (681,910)<br />Binance (176,922)<br />| 858,832 | 51.65 | 25.86 | 
