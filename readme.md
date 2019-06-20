@@ -95,7 +95,7 @@
 | 93. | DTA | Data | 33,721 | Huobi Global (180,677)<br />Dcoin (132,253)<br />Upbit (33,723)<br />Bitsdaq (32,380)<br />FUBT (10,294)<br />Kyber Network (1,560)<br />Huobi Korea (875)<br />Ethfinex (750)<br />Huobi US (HBUS) (60)<br />Idex (0)<br />EtherFlyer (0)<br />| 392,572 | 72.15 | 36.51 | 
 | 94. | SYS | SysCoin | 74,900 | Binance (298,459)<br />Upbit (75,288)<br />Sistemkoin (14,219)<br />Livecoin (9,178)<br />LiteBit (674)<br />Nova Exchange (0)<br />Tux Exchange (0)<br />CryTrEx (0)<br />| 397,819 | 78.55 | 54.16 | 
 | 95. | ADX | AdEx | 15,840 | Binance (266,122)<br />Upbit (116,475)<br />Huobi Global (59,250)<br />Bitsdaq (15,871)<br />HitBTC (676)<br />Kyber Network (27)<br />Huobi Korea (0)<br />ForkDelta (0)<br />| 458,420 | 73.55 | 44.90 | 
-| 96. | AID | AidCoin | 242,477 | Upbit (244,713)<br />Bancor Network (5,677)<br />Ethfinex (704)<br />| 251,094 | 56.70 | 28.39 | 
+| 96. | AID | AidCoin | 242,477 | Upbit (244,713)<br />Bancor Network (5,651)<br />Ethfinex (704)<br />| 251,069 | 56.70 | 28.39 | 
 | 97. | RLC | iEx.ec | 43,981 | Binance (418,696)<br />Upbit (42,828)<br />Gate.io (1,768)<br />Kyber Network (696)<br />Uniswap (463)<br />Bancor Network (389)<br />Livecoin (297)<br />Ethfinex (202)<br />HitBTC (9)<br />Idex (0)<br />CoinExchange.io (0)<br />| 465,348 | 76.75 | 49.78 | 
 | 98. | VIA | ViaCoin  | 43,250 | Binance (376,546)<br />FEX (43,893)<br />Upbit (39,504)<br />Poloniex (16,692)<br />LiteBit (502)<br />Nova Exchange (0)<br />| 477,136 | 66.55 | 43.59 | 
 | 99. | FCT | Factom | 218,440 | Upbit (217,794)<br />Poloniex (73,631)<br />BuyUcoin (12,202)<br />Digifinex (1,799)<br />Livecoin (29)<br />Bit-Z (0)<br />| 305,455 | 67.75 | 52.72 | 
