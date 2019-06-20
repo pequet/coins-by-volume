@@ -90,7 +90,7 @@
 | 88. | XWC | WhiteCoin | 1,200 | Lbank (150,415)<br />XT (101,344)<br />ZB (45,649)<br />ZBG (0)<br />| 297,408 | 56.35 | 25.08 | 
 | 89. | PPC | Peercoin | 6,852 | CoinEgg (210,827)<br />FinexBox (50,703)<br />SouthXchange (26,465)<br />Bitsane (13,072)<br />BTCSquare (7,870)<br />HitBTC (5,759)<br />Livecoin (2,585)<br />Altilly (2,124)<br />TheRockTrading (1,444)<br />Coingi (126)<br />LiteBit (25)<br />Freiexchange (18)<br />YoBit (14)<br />Trade Satoshi (0)<br />BX Thailand (0)<br />Tux Exchange (0)<br />SatowalletEx (0)<br />| 321,032 | 74.35 | 42.18 | 
 | 90. | BLOCK | Blocknet | 35,590 | FEX (357,900)<br />Upbit (35,429)<br />Digifinex (4,698)<br />CryptoBridge (0)<br />Nova Exchange (0)<br />| 398,027 | 71.75 | 45.24 | 
-| 91. | AID | AidCoin | 217,843 | Upbit (217,483)<br />Bancor Network (6,165)<br />Ethfinex (976)<br />| 224,624 | 56.70 | 28.39 | 
+| 91. | AID | AidCoin | 217,843 | Upbit (217,483)<br />Bancor Network (5,840)<br />Ethfinex (976)<br />| 224,299 | 56.70 | 28.39 | 
 | 92. | DMT | DMarket | 51,627 | Upbit (366,869)<br />Bitsdaq (51,465)<br />Idex (0)<br />ForkDelta (0)<br />| 418,334 | 75.65 | 39.67 | 
 | 93. | DTA | Data | 43,111 | Huobi Global (203,520)<br />Dcoin (129,314)<br />Upbit (45,985)<br />Bitsdaq (44,035)<br />FUBT (9,695)<br />Kyber Network (1,560)<br />Huobi Korea (1,478)<br />Ethfinex (111)<br />Huobi US (HBUS) (61)<br />Idex (0)<br />EtherFlyer (0)<br />| 435,759 | 72.15 | 36.51 | 
 | 94. | XHV | Haven Protocol | 98,887 | TOKOK (182,783)<br />Bitalong (143,392)<br />Upbit (98,887)<br />TradeOgre (4,578)<br />SouthXchange (0)<br />| 429,640 |  | 38.61 | 
