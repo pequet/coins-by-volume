@@ -69,7 +69,7 @@
 | 67. | BFT | BnkToTheFuture | 22,993 | Huobi Global (54,243)<br />Upbit (22,993)<br />Huobi Korea (9,476)<br />Coinbit (7,913)<br />Ethfinex (7,537)<br />Gate.io (1,277)<br />DragonEx (367)<br />| 103,807 | 71.30 | 31.76 | 
 | 68. | FTC | Feathercoin | 7,907 | FinexBox (81,632)<br />QBTC (28,375)<br />Upbit (7,907)<br />BX Thailand (848)<br />LiteBit (776)<br />OKEx (0)<br />Altilly (0)<br />NLexch (0)<br />CoinExchange.io (0)<br />| 119,537 | 49.80 | 44.28 | 
 | 69. | XNK | Ink Protocol | 29,265 | Bibox (71,529)<br />Upbit (29,897)<br />Bancor Network (1,899)<br />Liquid (261)<br />Idex (174)<br />COSS (12)<br />CoinBene (0)<br />| 103,772 | 69.75 | 35.69 | 
-| 70. | EDG | Edgeless | 72,713 | Upbit (72,400)<br />HitBTC (4,478)<br />Bancor Network (755)<br />Livecoin (233)<br />Tidex (19)<br />| 77,885 | 72.30 | 35.48 | 
+| 70. | EDG | Edgeless | 72,713 | Upbit (72,400)<br />HitBTC (4,478)<br />Bancor Network (752)<br />Livecoin (233)<br />Tidex (19)<br />| 77,882 | 72.30 | 35.48 | 
 | 71. | CMCT | Crowd Machine | 51,372 | Upbit (54,804)<br />Bitsdaq (54,730)<br />Bancor Network (586)<br />HitBTC (476)<br />CoinExchange.io (63)<br />Idex (0)<br />| 110,660 | 67.40 | 28.21 | 
 | 72. | ANT | Aragon | 55,421 | Upbit (55,424)<br />Bancor Network (29,515)<br />Uniswap (18,039)<br />HitBTC (4,159)<br />GoPax (366)<br />Livecoin (283)<br />Ethfinex (224)<br />Idex (38)<br />CredoEx (0)<br />| 108,049 | 74.85 | 45.91 | 
 | 73. | GNO | Gnosis | 21,378 | Kraken (101,857)<br />Upbit (21,376)<br />Uniswap (9,020)<br />Bancor Network (4,010)<br />Mercatox (3,056)<br />Kyber Network (2,722)<br />HitBTC (1,120)<br />BX Thailand (541)<br />Livecoin (206)<br />Idex (107)<br />Ethfinex (104)<br />CredoEx (0)<br />CoinExchange.io (0)<br />| 144,119 | 63.30 | 44.67 | 
