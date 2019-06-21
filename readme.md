@@ -77,7 +77,7 @@
 | 75. | BURST | BURSTCoin | 29,592 | QBTC (98,819)<br />Upbit (29,592)<br />Livecoin (2,761)<br />| 131,172 | 79.10 | 44.08 | 
 | 76. | BKX | Bankex | 15,497 | OKEx (60,890)<br />Hotbit (47,967)<br />Dcoin (26,937)<br />Upbit (15,495)<br />HitBTC (472)<br />ExMarkets (0)<br />| 151,761 | 72.95 | 33.07 | 
 | 77. | SBD | SteemDollars | 16,227 | Upbit (157,266)<br />GoPax (383)<br />HitBTC (12)<br />OpenLedger DEX (3)<br />| 157,664 | 80.00 | 47.46 | 
-| 78. | ANT | Aragon | 62,073 | Upbit (63,841)<br />HitBTC (26,054)<br />Bancor Network (19,734)<br />Uniswap (12,468)<br />Ethfinex (492)<br />GoPax (366)<br />Livecoin (341)<br />CredoEx (0)<br />| 123,296 | 74.85 | 42.63 | 
+| 78. | ANT | Aragon | 62,073 | Upbit (63,841)<br />HitBTC (26,054)<br />Bancor Network (20,161)<br />Uniswap (12,468)<br />Ethfinex (492)<br />GoPax (366)<br />Livecoin (341)<br />CredoEx (0)<br />| 123,722 | 74.85 | 42.63 | 
 | 79. | SIB | Sibcoin | 93,449 | Upbit (93,434)<br />Livecoin (675)<br />BTC Trade UA (0)<br />| 94,109 | 54.50 | 32.64 | 
 | 80. | AID | AidCoin | 91,681 | Upbit (91,686)<br />Ethfinex (9,651)<br />Bancor Network (1,310)<br />| 102,647 | 56.70 | 24.85 | 
 | 81. | TUBE | BitTube | 22,547 | QBTC (99,002)<br />Bitalong (59,475)<br />Upbit (22,538)<br />TradeOgre (4,894)<br />Livecoin (1,015)<br />CREX24 (130)<br />BitStorage (0)<br />| 187,054 | 67.40 | 23.57 | 
