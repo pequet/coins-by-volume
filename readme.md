@@ -79,7 +79,7 @@
 | 77. | ADT | adToken | 36,881 | Upbit (154,148)<br />Huobi Korea (0)<br />| 154,148 | 63.25 | 36.30 | 
 | 78. | SIB | Sibcoin | 95,371 | Upbit (95,348)<br />Livecoin (1,729)<br />BTC Trade UA (1)<br />| 97,078 | 54.50 | 34.02 | 
 | 79. | BURST | BURSTCoin | 51,434 | QBTC (98,747)<br />Upbit (51,633)<br />Livecoin (1,253)<br />| 151,633 | 79.10 | 46.81 | 
-| 80. | ANT | Aragon | 68,926 | Upbit (69,453)<br />HitBTC (28,860)<br />Bancor Network (27,961)<br />Uniswap (16,509)<br />Ethfinex (520)<br />GoPax (366)<br />Livecoin (333)<br />Idex (38)<br />CredoEx (0)<br />| 144,041 | 74.85 | 45.91 | 
+| 80. | ANT | Aragon | 68,926 | Upbit (69,453)<br />HitBTC (28,860)<br />Bancor Network (28,112)<br />Uniswap (16,509)<br />Ethfinex (520)<br />GoPax (366)<br />Livecoin (333)<br />Idex (38)<br />CredoEx (0)<br />| 144,192 | 74.85 | 45.91 | 
 | 81. | QRL | Quantum Resistant Ledger | 108,485 | Upbit (108,418)<br />| 108,418 | 70.30 | 46.70 | 
 | 82. | IOP | Internet Of People | 27,498 | FatBTC (157,704)<br />Upbit (27,498)<br />Instant Bitex (4,858)<br />FinexBox (185)<br />bleutrade (123)<br />CREX24 (34)<br />Trade Satoshi (8)<br />CoinBene (0)<br />| 190,409 | 46.85 | 27.17 | 
 | 83. | DMT | DMarket | 26,892 | Upbit (179,216)<br />Bitsdaq (26,837)<br />ForkDelta (1,887)<br />YoBit (1)<br />| 207,941 | 75.65 | 40.01 | 
