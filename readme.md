@@ -81,7 +81,7 @@
 | 79. | SPC | SpaceChain | 37,023 | CoinEgg (262,993)<br />EXX (205,641)<br />Upbit (37,023)<br />| 505,657 |  | 35.33 | 
 | 80. | BSD | BitSend | 357,636 | Upbit (353,833)<br />Livecoin (1,890)<br />LiteBit (1,011)<br />CoinExchange.io (238)<br />CREX24 (226)<br />SouthXchange (158)<br />Nova Exchange (14)<br />Trade Satoshi (7)<br />| 357,376 | 59.50 | 34.34 | 
 | 81. | VIA | ViaCoin  | 86,185 | Binance (566,170)<br />Upbit (86,185)<br />FEX (16,846)<br />Poloniex (15,107)<br />LiteBit (671)<br />Nova Exchange (1)<br />Bitibu (0)<br />| 684,979 | 66.55 | 43.13 | 
-| 82. | RLC | iEx.ec | 97,893 | Binance (626,256)<br />Upbit (98,288)<br />Bancor Network (5,482)<br />Kyber Network (4,700)<br />Uniswap (3,333)<br />Gate.io (3,098)<br />Idex (1,564)<br />Livecoin (584)<br />Ethfinex (523)<br />HitBTC (218)<br />CoinExchange.io (0)<br />| 744,045 | 76.75 | 48.74 | 
+| 82. | RLC | iEx.ec | 97,893 | Binance (626,256)<br />Upbit (98,288)<br />Bancor Network (5,483)<br />Kyber Network (4,700)<br />Uniswap (3,333)<br />Gate.io (3,098)<br />Idex (1,564)<br />Livecoin (584)<br />Ethfinex (523)<br />HitBTC (218)<br />CoinExchange.io (0)<br />| 744,046 | 76.75 | 48.74 | 
 | 83. | DCT | DECENT | 18,083 | Lbank (915,825)<br />Upbit (18,085)<br />Bit-Z (7,214)<br />CoinBene (5,620)<br />HitBTC (128)<br />BCEX (0)<br />| 946,872 | 70.95 | 22.64 | 
 | 84. | XWC | WhiteCoin | 2,889 | Lbank (606,528)<br />XT (308,308)<br />ZB (48,339)<br />BW.com (0)<br />EXX (0)<br />| 963,175 | 56.35 | 26.66 | 
 | 85. | ARK | Ark | 106,686 | Binance (529,172)<br />Upbit (303,059)<br />OKEx (132,649)<br />Exrates (16,415)<br />Livecoin (3,356)<br />Bit-Z (3,240)<br />BuyUcoin (3,160)<br />LiteBit (908)<br />Altilly (19)<br />COSS (4)<br />| 991,981 | 71.90 | 56.67 | 
