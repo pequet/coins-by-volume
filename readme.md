@@ -67,7 +67,7 @@
 | 65. | BKX | Bankex | 26,964 | OKEx (65,359)<br />Hotbit (49,730)<br />Dcoin (29,817)<br />Upbit (26,948)<br />HitBTC (2)<br />| 171,856 | 72.95 | 37.61 | 
 | 66. | IOP | Internet Of People | 25,567 | FatBTC (177,734)<br />Upbit (25,513)<br />Instant Bitex (4,858)<br />bleutrade (519)<br />FinexBox (205)<br />CREX24 (6)<br />Trade Satoshi (6)<br />CoinBene (0)<br />| 208,840 | 46.85 | 27.17 | 
 | 67. | GAME | GameCredits | 26,376 | Poloniex (67,462)<br />BitBay (66,372)<br />CoinEgg (51,687)<br />Upbit (25,455)<br />Livecoin (911)<br />CREX24 (407)<br />Trade Satoshi (20)<br />Nova Exchange (0)<br />Graviex (0)<br />| 212,313 | 66.35 | 31.78 | 
-| 68. | EDG | Edgeless | 124,325 | Upbit (121,885)<br />HitBTC (4,820)<br />Bancor Network (945)<br />Livecoin (289)<br />Tidex (19)<br />| 127,958 | 72.30 | 35.48 | 
+| 68. | EDG | Edgeless | 124,325 | Upbit (121,885)<br />HitBTC (4,820)<br />Bancor Network (943)<br />Livecoin (289)<br />Tidex (19)<br />| 127,956 | 72.30 | 35.48 | 
 | 69. | BURST | BURSTCoin | 77,128 | QBTC (99,013)<br />Upbit (77,128)<br />Livecoin (857)<br />| 176,998 | 79.10 | 46.81 | 
 | 70. | PMA | PumaPay | 90,011 | Upbit (87,293)<br />Bitsdaq (75,415)<br />HitBTC (19,789)<br />Liquid (556)<br />CoinAll (1)<br />CoinBene (0)<br />Idex (0)<br />CoinExchange.io (0)<br />| 183,054 | 65.90 | 36.02 | 
 | 71. | DMT | DMarket | 28,235 | Upbit (264,699)<br />Bitsdaq (28,761)<br />ForkDelta (1,887)<br />YoBit (0)<br />| 295,347 | 75.65 | 40.01 | 
@@ -86,7 +86,7 @@
 | 84. | XWC | WhiteCoin | 8,172 | Lbank (494,546)<br />XT (318,232)<br />ZB (94,735)<br />BW.com (47)<br />| 907,560 | 56.35 | 27.12 | 
 | 85. | VIA | ViaCoin  | 92,521 | Binance (681,177)<br />Upbit (93,823)<br />FEX (44,065)<br />Poloniex (18,555)<br />LiteBit (1,643)<br />Nova Exchange (0)<br />Bitibu (0)<br />| 839,263 | 66.55 | 44.04 | 
 | 86. | ARK | Ark | 118,873 | Binance (492,383)<br />Upbit (287,277)<br />OKEx (59,183)<br />Exrates (12,609)<br />Bit-Z (4,354)<br />BuyUcoin (3,160)<br />Livecoin (2,039)<br />LiteBit (540)<br />Altilly (393)<br />COSS (4)<br />| 861,943 | 71.90 | 58.02 | 
-| 87. | SRN | Sirin Token | 79,121 | Upbit (594,421)<br />Dcoin (158,667)<br />Bitsdaq (80,214)<br />Huobi Global (75,917)<br />Bancor Network (7,653)<br />HitBTC (1,675)<br />KuCoin (1,209)<br />Idex (243)<br />CoinExchange.io (202)<br />Huobi Korea (37)<br />LiteBit (14)<br />Tidex (0)<br />LATOKEN (0)<br />| 920,251 | 72.30 | 41.45 | 
+| 87. | SRN | Sirin Token | 79,121 | Upbit (594,421)<br />Dcoin (158,667)<br />Bitsdaq (80,214)<br />Huobi Global (75,917)<br />Bancor Network (7,651)<br />HitBTC (1,675)<br />KuCoin (1,209)<br />Idex (243)<br />CoinExchange.io (202)<br />Huobi Korea (37)<br />LiteBit (14)<br />Tidex (0)<br />LATOKEN (0)<br />| 920,250 | 72.30 | 41.45 | 
 | 88. | VTC | Vertcoin | 142,563 | Upbit (307,457)<br />CoinEgg (256,947)<br />QBTC (146,188)<br />FinexBox (116,411)<br />Poloniex (49,661)<br />SouthXchange (4,585)<br />Altilly (3,057)<br />CryptoBridge (52)<br />bleutrade (23)<br />Coingi (3)<br />Nova Exchange (2)<br />| 884,386 | 70.55 | 52.58 | 
 | 89. | ADX | AdEx | 103,032 | Binance (413,211)<br />Upbit (393,201)<br />Bitsdaq (102,224)<br />Huobi Global (45,031)<br />HitBTC (1,388)<br />Kyber Network (1,165)<br />ForkDelta (1,006)<br />Idex (87)<br />Huobi Korea (51)<br />| 957,363 | 73.55 | 45.26 | 
 | 90. | UPP | Sentinel Protocol | 27,753 | Upbit (1,093,117)<br />Hotbit (56,411)<br />Bibox (10,990)<br />GDAC (0)<br />Idex (0)<br />Bilaxy (0)<br />| 1,160,518 | 56.25 | 32.04 | 
