@@ -58,7 +58,7 @@
 | 56. | ANT | Aragon | 45,998 | Upbit (45,868)<br />Uniswap (16,924)<br />Bancor Network (9,636)<br />HitBTC (6,705)<br />Ethfinex (4,049)<br />Livecoin (735)<br />GoPax (366)<br />Idex (247)<br />CredoEx (0)<br />| 84,529 | 74.85 | 45.03 | 
 | 57. | BFT | BnkToTheFuture | 21,551 | Huobi Global (57,828)<br />Huobi Korea (22,523)<br />Upbit (21,549)<br />Coinbit (16,679)<br />Ethfinex (4,729)<br />Gate.io (488)<br />DragonEx (197)<br />| 123,993 | 71.30 | 31.09 | 
 | 58. | FTC | Feathercoin | 15,203 | FinexBox (91,027)<br />QBTC (28,177)<br />Upbit (15,205)<br />LiteBit (2,119)<br />BX Thailand (248)<br />CoinExchange.io (3)<br />OKEx (0)<br />Altilly (0)<br />NLexch (0)<br />| 136,779 | 49.80 | 43.40 | 
-| 59. | BLK | BlackCoin | 12,439 | CoinEgg (140,199)<br />Upbit (12,432)<br />Livecoin (1,997)<br />LiteBit (1,990)<br />Nova Exchange (108)<br />CoinExchange.io (3)<br />Tux Exchange (0)<br />| 156,729 | 55.25 | 40.60 | 
+| 59. | BLK | BlackCoin | 15,455 | CoinEgg (138,613)<br />Upbit (15,703)<br />Livecoin (2,155)<br />LiteBit (2,030)<br />Nova Exchange (120)<br />CoinExchange.io (6)<br />Tux Exchange (0)<br />| 158,626 | 55.25 | 40.60 | 
 | 60. | BKX | Bankex | 12,986 | Hotbit (61,283)<br />OKEx (58,217)<br />Dcoin (29,538)<br />Upbit (12,984)<br />HitBTC (259)<br />| 162,281 | 72.95 | 37.31 | 
 | 61. | EXCL | ExclusiveCoin | 89,669 | Upbit (89,669)<br />CoinExchange.io (16)<br />CryptoBridge (0)<br />| 89,685 | 51.95 | 32.87 | 
 | 62. | TUBE | BitTube | 23,175 | QBTC (85,469)<br />Bitalong (57,488)<br />Upbit (23,175)<br />TradeOgre (5,204)<br />Livecoin (1,434)<br />CREX24 (79)<br />| 172,849 | 67.40 | 23.12 | 
