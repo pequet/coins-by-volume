@@ -36,7 +36,7 @@
 | 34. | GBYTE | Bytes | 12,217 | Upbit (12,214)<br />Bit-Z (0)<br />| 12,214 | 67.25 | 46.70 | 
 | 35. | AEON | Aeon | 14,186 | TradeOgre (11,205)<br />HitBTC (308)<br />| 11,514 | 46.25 | 29.72 | 
 | 36. | BITB | BitBean | 13,387 | Upbit (13,403)<br />BitOnBay (8)<br />StakeCube (4)<br />bleutrade (0)<br />| 13,416 | 53.70 | 24.30 | 
-| 37. | VEE | BLOCKv | 7,375 | Ethfinex (9,410)<br />Upbit (7,367)<br />Bancor Network (2,754)<br />Idex (0)<br />| 19,531 | 65.70 | 35.53 | 
+| 37. | VEE | BLOCKv | 7,375 | Ethfinex (9,410)<br />Upbit (7,367)<br />Bancor Network (2,748)<br />Idex (0)<br />| 19,525 | 65.70 | 35.53 | 
 | 38. | WINGS | Wings DAO | 7,107 | CoinEx (15,755)<br />Upbit (3,806)<br />HitBTC (936)<br />Bancor Network (580)<br />Livecoin (377)<br />Gate.io (49)<br />ForkDelta (0)<br />| 21,503 | 53.70 | 26.96 | 
 | 39. | MEME | Memetic | 14,634 | Upbit (14,629)<br />CoinExchange.io (2)<br />| 14,632 | 47.40 | 35.40 | 
 | 40. | FLO | FLO | 11,155 | TOKOK (19,420)<br />Freiexchange (794)<br />Nova Exchange (0)<br />CoinExchange.io (0)<br />| 20,213 | 62.50 | 35.24 | 
