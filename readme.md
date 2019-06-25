@@ -74,7 +74,7 @@
 | 72. | PART | Particl | 140,172 | Upbit (143,016)<br />LiteBit (12,437)<br />ChainEX (6,075)<br />Bit-Z (0)<br />| 161,528 | 74.35 | 47.55 | 
 | 73. | DMT | DMarket | 48,504 | Upbit (264,922)<br />Bitsdaq (46,641)<br />Idex (0)<br />YoBit (0)<br />ForkDelta (0)<br />| 311,564 | 75.65 | 39.09 | 
 | 74. | SYS | SysCoin | 58,817 | Binance (236,481)<br />Upbit (58,807)<br />Sistemkoin (10,118)<br />Livecoin (5,210)<br />LiteBit (22)<br />CryTrEx (20)<br />Nova Exchange (1)<br />Tux Exchange (3)<br />| 310,659 | 78.55 | 53.25 | 
-| 75. | VIB | Viberate | 28,228 | Binance (299,669)<br />OKEx (49,322)<br />Bitsdaq (30,060)<br />Upbit (28,209)<br />Bancor Network (1,085)<br />Livecoin (973)<br />HitBTC (38)<br />Idex (0)<br />| 409,355 | 63.30 | 35.89 | 
+| 75. | VIB | Viberate | 28,228 | Binance (299,669)<br />OKEx (49,322)<br />Bitsdaq (30,060)<br />Upbit (28,209)<br />Bancor Network (1,792)<br />Livecoin (973)<br />HitBTC (38)<br />Idex (0)<br />| 410,063 | 63.30 | 35.89 | 
 | 76. | DCT | DECENT | 18,885 | Lbank (391,002)<br />Upbit (18,882)<br />CoinBene (7,410)<br />Bit-Z (7,405)<br />HitBTC (452)<br />CHAOEX (81)<br />BCEX (0)<br />| 425,231 | 70.95 | 22.64 | 
 | 77. | BFT | BnkToTheFuture | 20,600 | Huobi Global (387,759)<br />Coinbit (28,590)<br />Upbit (20,600)<br />Huobi Korea (8,317)<br />Ethfinex (3,280)<br />Gate.io (1,117)<br />DragonEx (376)<br />| 450,039 | 71.30 | 31.09 | 
 | 78. | SPC | SpaceChain | 6,083 | EXX (242,405)<br />CoinEgg (226,208)<br />Upbit (6,084)<br />| 474,697 |  | 35.33 | 
