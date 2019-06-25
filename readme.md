@@ -47,7 +47,7 @@
 | 45. | BITB | BitBean | 36,389 | Upbit (36,358)<br />BitOnBay (8)<br />StakeCube (4)<br />bleutrade (0)<br />| 36,370 | 53.70 | 24.30 | 
 | 46. | UP | UpToken | 40,559 | Upbit (40,630)<br />Bancor Network (1,384)<br />| 42,014 | 59.70 | 24.56 | 
 | 47. | EXP | Expanse | 27,781 | FinexBox (36,991)<br />Upbit (27,833)<br />Graviex (91)<br />BOA Exchange (0)<br />| 64,915 | 56.20 | 41.56 | 
-| 48. | EDG | Edgeless | 45,509 | Upbit (45,771)<br />Bancor Network (1,677)<br />HitBTC (1,666)<br />Livecoin (222)<br />Tidex (0)<br />| 49,335 | 72.30 | 34.85 | 
+| 48. | EDG | Edgeless | 45,509 | Upbit (45,771)<br />Bancor Network (1,683)<br />HitBTC (1,666)<br />Livecoin (222)<br />Tidex (0)<br />| 49,341 | 72.30 | 34.85 | 
 | 49. | HMQ | Humaniq | 9,682 | Hotbit (51,550)<br />Mercatox (24,306)<br />Upbit (9,682)<br />HitBTC (2)<br />YoBit (0)<br />| 85,539 | 60.40 | 36.87 | 
 | 50. | FLO | FLO | 73,833 | TOKOK (21,482)<br />CoinExchange.io (34)<br />Nova Exchange (1)<br />Freiexchange (0)<br />| 21,517 | 62.50 | 35.24 | 
 | 51. | GUP | Guppy | 49,851 | Upbit (49,922)<br />Livecoin (334)<br />HitBTC (137)<br />| 50,393 |  | 32.73 | 
@@ -56,8 +56,8 @@
 | 54. | ANT | Aragon | 42,614 | Upbit (41,337)<br />Uniswap (18,024)<br />Bancor Network (4,695)<br />HitBTC (3,321)<br />Ethfinex (698)<br />Livecoin (283)<br />Idex (256)<br />GoPax (1)<br />CredoEx (0)<br />| 68,616 | 74.85 | 45.03 | 
 | 55. | AID | AidCoin | 15,353 | Ethfinex (80,816)<br />Upbit (15,689)<br />Bancor Network (1,085)<br />| 97,590 | 56.70 | 28.59 | 
 | 56. | PPC | Peercoin | 18,604 | FinexBox (46,408)<br />SouthXchange (22,928)<br />CoinEgg (8,277)<br />BTCSquare (7,659)<br />Livecoin (5,719)<br />TheRockTrading (5,578)<br />HitBTC (5,256)<br />LiteBit (269)<br />Coingi (140)<br />YoBit (125)<br />Trade Satoshi (1)<br />Altilly (0)<br />BX Thailand (0)<br />Tux Exchange (0)<br />Freiexchange (0)<br />CryTrEx (0)<br />| 102,360 | 74.35 | 47.01 | 
-| 57. | GNO | Gnosis | 30,522 | Kraken (39,072)<br />Upbit (30,522)<br />Uniswap (5,829)<br />Mercatox (4,435)<br />HitBTC (4,405)<br />Bancor Network (4,017)<br />Kyber Network (2,498)<br />BX Thailand (415)<br />Livecoin (282)<br />Ethfinex (116)<br />CredoEx (0)<br />Idex (0)<br />CoinExchange.io (0)<br />| 91,591 | 63.30 | 44.05 | 
-| 58. | VEE | BLOCKv | 52,698 | Upbit (52,811)<br />Ethfinex (21,495)<br />Bancor Network (1,782)<br />Idex (0)<br />| 76,088 | 65.70 | 35.53 | 
+| 57. | GNO | Gnosis | 30,522 | Kraken (39,072)<br />Upbit (30,522)<br />Uniswap (5,829)<br />Mercatox (4,435)<br />HitBTC (4,405)<br />Bancor Network (3,654)<br />Kyber Network (2,498)<br />BX Thailand (415)<br />Livecoin (282)<br />Ethfinex (116)<br />CredoEx (0)<br />Idex (0)<br />CoinExchange.io (0)<br />| 91,228 | 63.30 | 44.05 | 
+| 58. | VEE | BLOCKv | 52,698 | Upbit (52,811)<br />Ethfinex (21,495)<br />Bancor Network (1,852)<br />Idex (0)<br />| 76,158 | 65.70 | 35.53 | 
 | 59. | FTC | Feathercoin | 7,367 | FinexBox (100,073)<br />QBTC (28,118)<br />Upbit (7,383)<br />BX Thailand (321)<br />LiteBit (178)<br />OKEx (0)<br />CoinExchange.io (0)<br />Altilly (0)<br />| 136,073 | 49.80 | 43.40 | 
 | 60. | CLOAK | CloakCoin | 25,175 | BuyUcoin (78,211)<br />Upbit (25,224)<br />Livecoin (8,573)<br />Mercatox (4,367)<br />LiteBit (1,913)<br />STEX (1,891)<br />CryptoBridge (0)<br />BitRabbit (0)<br />YoBit (0)<br />| 120,179 | 65.95 | 37.29 | 
 | 61. | LBC | LBRY Credits | 62,883 | Upbit (62,893)<br />Poloniex (22,634)<br />Coindeal (0)<br />Instant Bitex (0)<br />Nova Exchange (0)<br />| 85,527 | 64.60 | 49.64 | 
