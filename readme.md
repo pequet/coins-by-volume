@@ -80,7 +80,7 @@
 | 78. | SRN | Sirin Token | 56,198 | Upbit (476,655)<br />Dcoin (152,048)<br />Huobi Global (83,831)<br />Bitsdaq (58,607)<br />Bancor Network (3,830)<br />KuCoin (2,046)<br />Idex (414)<br />LATOKEN (207)<br />HitBTC (147)<br />CoinExchange.io (101)<br />Huobi Korea (74)<br />LiteBit (65)<br />Tidex (0)<br />| 778,023 | 72.30 | 40.86 | 
 | 79. | DCT | DECENT | 22,371 | Lbank (807,041)<br />Upbit (22,725)<br />Bit-Z (7,052)<br />CoinBene (3,752)<br />HitBTC (939)<br />CHAOEX (0)<br />BCEX (0)<br />| 841,508 | 70.95 | 22.64 | 
 | 80. | XWC | WhiteCoin | 2,455 | Lbank (573,951)<br />XT (302,523)<br />ZB (59,970)<br />BW.com (0)<br />EXX (0)<br />Freiexchange (0)<br />| 936,444 | 56.35 | 26.66 | 
-| 81. | VIB | Viberate | 64,882 | Binance (668,601)<br />OKEx (101,806)<br />Bitsdaq (64,849)<br />Upbit (64,570)<br />Bancor Network (10,373)<br />HitBTC (1,738)<br />Livecoin (428)<br />Idex (0)<br />| 912,366 | 63.30 | 35.89 | 
+| 81. | VIB | Viberate | 64,882 | Binance (668,601)<br />OKEx (101,806)<br />Bitsdaq (64,849)<br />Upbit (64,570)<br />Bancor Network (12,493)<br />HitBTC (1,738)<br />Livecoin (428)<br />Idex (0)<br />| 914,485 | 63.30 | 35.89 | 
 | 82. | BURST | BURSTCoin | 430,068 | Upbit (430,261)<br />QBTC (204,888)<br />Livecoin (2,367)<br />| 637,516 | 79.10 | 46.50 | 
 | 83. | MER | Mercury | 24,946 | Upbit (1,074,179)<br />Waves Platform (493)<br />Tidex (25)<br />| 1,074,696 | 52.15 | 29.32 | 
 | 84. | VTC | Vertcoin | 197,330 | Upbit (434,294)<br />CoinEgg (179,296)<br />QBTC (134,422)<br />FinexBox (125,168)<br />Poloniex (59,854)<br />Altilly (7,246)<br />SouthXchange (4,414)<br />Coingi (1,797)<br />CryptoBridge (3)<br />bleutrade (1)<br />Nova Exchange (0)<br />| 946,495 | 70.55 | 51.68 | 
