@@ -1,7 +1,7 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | MUSIC | Musicoin |  | | 0 | 60.50 | 35.95 | 
-| 2. | QWARK | Qwark |  | | 0 | 31.00 | 5.04 | 
+| 1. | QWARK | Qwark |  | | 0 | 31.00 | 5.04 | 
+| 2. | MUSIC | Musicoin |  | | 0 | 60.50 | 35.95 | 
 | 3. | SEQ | Sequence | 309 | STEX (10)<br />CryptoBridge (0)<br />| 10 | 49.30 | 30.39 | 
 | 4. | IOC | I/OCoin | 427 | | 0 | 68.00 | 29.78 | 
 | 5. | SLR | SolarCoin |  | Livecoin (402)<br />Lykke (190)<br />Graviex (28)<br />CoinExchange.io (0)<br />| 621 | 58.00 | 32.26 | 
