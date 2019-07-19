@@ -54,7 +54,7 @@
 | 52. | VIA | ViaCoin  | 26,915 | Binance (103,318)<br />BitOnBay (42,276)<br />Upbit (26,865)<br />FEX (18,178)<br />Poloniex (7,682)<br />YoBit (0)<br />Nova Exchange (0)<br />| 198,319 | 66.55 | 41.69 | 
 | 53. | XHV | Haven Protocol | 14,433 | TOKOK (211,291)<br />Upbit (14,435)<br />Bitalong (5,312)<br />TradeOgre (2,873)<br />SouthXchange (7)<br />| 233,918 |  | 36.41 | 
 | 54. | RDD | ReddCoin | 128,463 | Upbit (128,496)<br />BitOnBay (11,672)<br />YoBit (851)<br />bleutrade (760)<br />Trade Satoshi (46)<br />CoinExchange.io (22)<br />[bitebtc] (18)<br />Nova Exchange (5)<br />StakeCube (3)<br />C-Patex (0)<br />Altilly (0)<br />Freiexchange (0)<br />| 141,874 | 66.95 | 50.21 | 
-| 55. | SBD | SteemDollars | 79,596 | Upbit (192,183)<br />GoPax (2,568)<br />HitBTC (16)<br />OpenLedger DEX (0)<br />CryTrEx (0)<br />| 194,768 | 80.00 | 52.05 | 
+| 55. | SBD | SteemDollars | 79,596 | Upbit (192,183)<br />GoPax (2,568)<br />HitBTC (16)<br />CryTrEx (0)<br />OpenLedger DEX (0)<br />| 194,768 | 80.00 | 52.05 | 
 | 56. | SYS | SysCoin | 79,251 | Binance (184,348)<br />CoinEx (128,304)<br />Upbit (79,317)<br />Sistemkoin (6,787)<br />Livecoin (2,919)<br />YoBit (4)<br />Nova Exchange (1)<br />CryTrEx (0)<br />| 401,681 | 78.55 | 47.13 | 
 | 57. | ARK | Ark | 75,173 | Binance (267,187)<br />Upbit (192,439)<br />OKEx (164,836)<br />Exrates (7,367)<br />Bit-Z (2,488)<br />BuyUcoin (2,414)<br />Livecoin (750)<br />Altilly (334)<br />Dobitrade (0)<br />COSS (0)<br />| 637,815 | 71.90 | 55.33 | 
 | 58. | XWC | WhiteCoin |  | Lbank (523,810)<br />XT (205,482)<br />ZB (17,888)<br />EXX (688)<br />| 747,868 | 56.35 | 27.43 | 
