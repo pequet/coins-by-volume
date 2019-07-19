@@ -1,7 +1,7 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | QWARK | Qwark |  | | 0 | 31.00 | 5.04 | 
-| 2. | MUSIC | Musicoin |  | | 0 | 60.50 | 36.19 | 
+| 1. | MUSIC | Musicoin |  | | 0 | 60.50 | 36.19 | 
+| 2. | QWARK | Qwark |  | | 0 | 31.00 | 5.04 | 
 | 3. | MORE | More | 61 | | 0 |  | 5.00 | 
 | 4. | XDN | DigitalNote | 11 | HitBTC (262)<br />Upbit (11)<br />| 273 | 55.15 | 33.79 | 
 | 5. | IOC | I/OCoin | 466 | | 0 | 68.00 | 30.03 | 
