@@ -1,7 +1,7 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | QWARK | Qwark |  | | 0 | 31.00 | 5.04 | 
-| 2. | MUSIC | Musicoin |  | | 0 | 60.50 | 36.19 | 
+| 1. | MUSIC | Musicoin |  | | 0 | 60.50 | 36.19 | 
+| 2. | QWARK | Qwark |  | | 0 | 31.00 | 5.04 | 
 | 3. | MORE | More | 250 | | 0 |  | 5.00 | 
 | 4. | GEO | GeoCoin | 327 | | 0 | 36.55 | 11.23 | 
 | 5. | IOC | I/OCoin | 484 | | 0 | 68.00 | 30.03 | 
