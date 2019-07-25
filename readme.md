@@ -36,7 +36,7 @@
 | 34. | VIA | ViaCoin  | 13,005 | Binance (102,164)<br />FEX (17,278)<br />Upbit (13,005)<br />Poloniex (3,580)<br />Nova Exchange (10)<br />YoBit (6)<br />| 136,042 | 66.55 | 41.65 | 
 | 35. | PPC | Peercoin | 21,747 | HitBTC (32,081)<br />Livecoin (29,501)<br />FinexBox (24,874)<br />CoinEgg (15,002)<br />SouthXchange (13,655)<br />BTCSquare (7,625)<br />TheRockTrading (4,392)<br />BX Thailand (3,844)<br />Altilly (667)<br />YoBit (76)<br />Coingi (7)<br />Trade Satoshi (0)<br />CryTrEx (0)<br />BTC Trade UA (0)<br />| 131,725 | 74.35 | 45.04 | 
 | 36. | RDD | ReddCoin | 82,560 | Upbit (82,329)<br />YoBit (429)<br />Trade Satoshi (421)<br />StakeCube (67)<br />Nova Exchange (37)<br />CoinExchange.io (24)<br />Altilly (6)<br />Freiexchange (0)<br />| 83,313 | 66.95 | 50.03 | 
-| 37. | SBD | SteemDollars | 47,202 | Upbit (141,275)<br />HitBTC (1,345)<br />GoPax (19)<br />OpenLedger DEX (0)<br />CryTrEx (0)<br />| 142,639 | 80.00 | 50.93 | 
+| 37. | SBD | SteemDollars | 47,202 | Upbit (141,275)<br />HitBTC (1,345)<br />GoPax (19)<br />CryTrEx (0)<br />OpenLedger DEX (0)<br />| 142,639 | 80.00 | 50.93 | 
 | 38. | UKG | UnikoinGold | 102,366 | Upbit (101,547)<br />Idex (0)<br />YoBit (0)<br />| 101,547 | 62.65 | 34.87 | 
 | 39. | SYS | SysCoin | 8,593 | CoinEx (131,210)<br />Binance (57,558)<br />Upbit (8,591)<br />Sistemkoin (620)<br />Livecoin (369)<br />CryTrEx (0)<br />Nova Exchange (0)<br />YoBit (0)<br />| 198,349 | 78.55 | 47.01 | 
 | 40. | XHV | Haven Protocol | 36,955 | TOKOK (208,583)<br />Upbit (36,964)<br />TradeOgre (7,378)<br />Bitalong (5,365)<br />SouthXchange (59)<br />| 258,349 |  | 36.52 | 
