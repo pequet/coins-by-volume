@@ -27,7 +27,7 @@
 | 25. | GAME | GameCredits | 4,649 | Upbit (4,651)<br />Poloniex (4,645)<br />BitBay (2,666)<br />Livecoin (689)<br />CREX24 (609)<br />CoinEgg (197)<br />CryTrEx (10)<br />Trade Satoshi (1)<br />Graviex (0)<br />Nova Exchange (0)<br />| 13,468 | 66.35 | 28.48 | 
 | 26. | FLO | FLO | 10,086 | TOKOK (17,228)<br />Nova Exchange (2)<br />CoinExchange.io (0)<br />| 17,230 | 62.50 | 33.60 | 
 | 27. | BURST | BURSTCoin | 6,112 | QBTC (38,120)<br />Upbit (6,113)<br />Livecoin (305)<br />STEX (2)<br />| 44,539 | 79.10 | 46.59 | 
-| 28. | SBD | SteemDollars | 15,861 | Upbit (42,127)<br />GoPax (82)<br />CryTrEx (20)<br />HitBTC (0)<br />OpenLedger DEX (0)<br />| 42,230 | 80.00 | 50.93 | 
+| 28. | SBD | SteemDollars | 15,861 | Upbit (42,127)<br />GoPax (82)<br />CryTrEx (20)<br />OpenLedger DEX (0)<br />HitBTC (0)<br />| 42,230 | 80.00 | 50.93 | 
 | 29. | FTC | Feathercoin | 3,383 | FinexBox (32,069)<br />QBTC (19,014)<br />Upbit (3,403)<br />BX Thailand (449)<br />CoinExchange.io (0)<br />OKEx (0)<br />| 54,936 | 49.80 | 42.95 | 
 | 30. | EXP | Expanse | 24,652 | Upbit (24,726)<br />FinexBox (12,407)<br />HitBTC (262)<br />CryTrEx (44)<br />Graviex (1)<br />| 37,440 | 56.20 | 39.78 | 
 | 31. | NAV | NAVCoin | 2,436 | Binance (55,703)<br />Upbit (2,436)<br />Poloniex (1,829)<br />CryTrEx (77)<br />StakeCube (2)<br />CREX24 (0)<br />Nova Exchange (0)<br />| 60,047 | 79.30 | 48.90 | 
