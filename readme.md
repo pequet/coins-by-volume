@@ -35,9 +35,9 @@
 | 33. | TUBE | BitTube | 17,632 | QBTC (63,316)<br />Upbit (17,698)<br />TradeOgre (10,183)<br />Bitalong (2,006)<br />Livecoin (420)<br />CREX24 (107)<br />CryptoBridge (0)<br />| 93,730 | 67.40 | 22.85 | 
 | 34. | RDD | ReddCoin | 58,165 | Upbit (58,154)<br />YoBit (119)<br />CoinExchange.io (109)<br />Trade Satoshi (22)<br />Nova Exchange (0)<br />StakeCube (0)<br />Altilly (0)<br />Freiexchange (0)<br />| 58,404 | 66.95 | 50.03 | 
 | 35. | NXS | Nexus | 12,420 | Binance (128,174)<br />Upbit (12,417)<br />| 140,592 | 66.35 | 46.78 | 
-| 36. | VIA | ViaCoin  | 12,020 | Binance (159,958)<br />FEX (42,343)<br />Upbit (12,025)<br />Poloniex (1,436)<br />Nova Exchange (0)<br />YoBit (0)<br />| 215,761 | 66.55 | 41.65 | 
-| 37. | XHV | Haven Protocol | 34,457 | TOKOK (187,062)<br />Upbit (34,457)<br />TradeOgre (8,610)<br />Bitalong (2,879)<br />| 233,008 |  | 36.52 | 
-| 38. | NAV | NAVCoin | 31,158 | Binance (325,407)<br />Upbit (31,154)<br />Poloniex (5,992)<br />CryTrEx (363)<br />CREX24 (7)<br />StakeCube (0)<br />Nova Exchange (0)<br />| 362,922 | 79.30 | 48.90 | 
+| 36. | NAV | NAVCoin | 8,813 | Binance (159,128)<br />Upbit (8,813)<br />Poloniex (3,016)<br />CryTrEx (173)<br />CREX24 (6)<br />StakeCube (0)<br />Nova Exchange (0)<br />| 171,137 | 79.30 | 48.90 | 
+| 37. | VIA | ViaCoin  | 12,020 | Binance (159,958)<br />FEX (42,343)<br />Upbit (12,025)<br />Poloniex (1,436)<br />Nova Exchange (0)<br />YoBit (0)<br />| 215,761 | 66.55 | 41.65 | 
+| 38. | XHV | Haven Protocol | 34,457 | TOKOK (187,062)<br />Upbit (34,457)<br />TradeOgre (8,610)<br />Bitalong (2,879)<br />| 233,008 |  | 36.52 | 
 | 39. | UKG | UnikoinGold | 205,915 | Upbit (205,779)<br />YoBit (18)<br />Idex (0)<br />| 205,797 | 62.65 | 34.87 | 
 | 40. | PPC | Peercoin | 78,067 | FinexBox (147,521)<br />HitBTC (142,101)<br />Livecoin (65,139)<br />CoinEgg (21,547)<br />SouthXchange (20,793)<br />TheRockTrading (7,569)<br />BTCSquare (6,547)<br />BX Thailand (1,148)<br />Altilly (1,067)<br />YoBit (371)<br />CryTrEx (208)<br />Coingi (48)<br />Trade Satoshi (22)<br />BTC Trade UA (0)<br />| 414,081 | 74.35 | 45.04 | 
 | 41. | STRAT | Stratis | 30,693 | HitBTC (204,026)<br />Binance (174,233)<br />Upbit (85,871)<br />Bithumb (41,050)<br />SouthXchange (14,759)<br />Livecoin (10,776)<br />Poloniex (2,235)<br />BuyUcoin (560)<br />CryTrEx (394)<br />Trade Satoshi (5)<br />CREX24 (2)<br />| 533,911 | 74.35 | 54.53 | 
