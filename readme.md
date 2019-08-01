@@ -34,7 +34,7 @@
 | 32. | SBD | SteemDollars | 31,347 | Upbit (71,481)<br />HitBTC (55)<br />CryTrEx (52)<br />GoPax (19)<br />OpenLedger DEX (0)<br />| 71,607 | 80.00 | 50.93 | 
 | 33. | TUBE | BitTube | 28,576 | QBTC (65,547)<br />Upbit (28,565)<br />TradeOgre (9,314)<br />Bitalong (2,472)<br />Livecoin (362)<br />CREX24 (45)<br />CryptoBridge (0)<br />| 106,305 | 67.40 | 22.85 | 
 | 34. | NXS | Nexus | 13,429 | Binance (119,780)<br />Upbit (13,423)<br />| 133,203 | 66.35 | 46.78 | 
-| 35. | RDD | ReddCoin | 101,659 | Upbit (101,409)<br />YoBit (307)<br />Trade Satoshi (268)<br />Nova Exchange (30)<br />CoinExchange.io (23)<br />StakeCube (3)<br />C-Patex (0)<br />Altilly (0)<br />Freiexchange (0)<br />| 102,040 | 66.95 | 50.03 | 
+| 35. | RDD | ReddCoin | 101,659 | Upbit (101,409)<br />YoBit (308)<br />Trade Satoshi (268)<br />Nova Exchange (30)<br />CoinExchange.io (23)<br />StakeCube (3)<br />C-Patex (0)<br />Altilly (0)<br />Freiexchange (0)<br />| 102,040 | 66.95 | 50.03 | 
 | 36. | NAV | NAVCoin | 20,983 | Binance (160,422)<br />Upbit (20,932)<br />Poloniex (3,971)<br />CREX24 (390)<br />CryTrEx (169)<br />StakeCube (0)<br />Nova Exchange (0)<br />| 185,884 | 79.30 | 48.90 | 
 | 37. | UKG | UnikoinGold | 103,982 | Upbit (103,981)<br />YoBit (42)<br />Idex (0)<br />| 104,022 | 62.65 | 34.87 | 
 | 38. | VIA | ViaCoin  | 9,585 | FEX (143,769)<br />Binance (127,692)<br />Upbit (9,586)<br />Poloniex (1,501)<br />YoBit (0)<br />Nova Exchange (0)<br />| 282,548 | 66.55 | 41.65 | 
