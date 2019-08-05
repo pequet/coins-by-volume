@@ -39,8 +39,8 @@
 | 37. | BURST | BURSTCoin | 32,109 | QBTC (110,188)<br />Upbit (32,115)<br />Livecoin (296)<br />STEX (201)<br />| 142,800 | 79.10 | 42.46 | 
 | 38. | NXS | Nexus | 19,419 | Binance (144,872)<br />Upbit (19,418)<br />| 164,290 | 66.35 | 46.76 | 
 | 39. | NAV | NAVCoin | 30,299 | Binance (241,082)<br />Upbit (30,129)<br />Poloniex (12,560)<br />CryTrEx (192)<br />CREX24 (54)<br />Nova Exchange (0)<br />StakeCube (0)<br />Altilly (0)<br />| 284,017 | 79.30 | 49.97 | 
-| 40. | SYS | SysCoin | 22,078 | CoinEx (148,779)<br />Binance (96,534)<br />Sistemkoin (24,345)<br />Upbit (22,076)<br />Livecoin (3,245)<br />CryTrEx (131)<br />YoBit (0)<br />NLexch (0)<br />| 295,110 | 78.55 | 47.99 | 
-| 41. | XHV | Haven Protocol | 53,448 | TOKOK (209,811)<br />Upbit (53,636)<br />TradeOgre (6,851)<br />Bitalong (4,328)<br />SouthXchange (0)<br />| 274,626 |  | 36.93 | 
+| 40. | XHV | Haven Protocol | 53,448 | TOKOK (209,811)<br />Upbit (53,636)<br />TradeOgre (6,851)<br />Bitalong (4,328)<br />SouthXchange (0)<br />| 274,626 |  | 36.93 | 
+| 41. | SYS | SysCoin | 24,894 | CoinEx (150,350)<br />Binance (139,005)<br />Upbit (24,866)<br />Livecoin (3,487)<br />Sistemkoin (3,122)<br />CryTrEx (150)<br />YoBit (4)<br />NLexch (0)<br />| 320,984 | 78.55 | 47.99 | 
 | 42. | PPC | Peercoin | 9,215 | FinexBox (186,713)<br />Livecoin (50,546)<br />HitBTC (50,502)<br />CoinEgg (36,676)<br />TheRockTrading (9,244)<br />BTCSquare (7,731)<br />SouthXchange (677)<br />BX Thailand (67)<br />CryTrEx (49)<br />Coingi (39)<br />YoBit (7)<br />Trade Satoshi (0)<br />Altilly (0)<br />| 342,251 | 74.35 | 51.47 | 
 | 43. | VIA | ViaCoin  | 10,596 | FEX (190,968)<br />Binance (106,788)<br />BitOnBay (42,927)<br />Upbit (10,595)<br />Poloniex (10,450)<br />YoBit (11)<br />Nova Exchange (0)<br />| 361,739 | 66.55 | 41.01 | 
 | 44. | EMC2 | Einsteinium | 29,397 | Upbit (368,956)<br />BCEX (12,627)<br />Trade Satoshi (9)<br />| 381,592 | 66.20 | 40.03 | 
