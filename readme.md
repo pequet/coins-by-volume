@@ -24,7 +24,7 @@
 | 22. | BAY | BitBay | 14,141 | Upbit (14,140)<br />Nova Exchange (0)<br />| 14,140 | 57.00 | 37.78 | 
 | 23. | FLO | FLO | 7,989 | TOKOK (21,257)<br />CoinExchange.io (2)<br />Nova Exchange (0)<br />Freiexchange (0)<br />| 21,259 | 62.50 | 33.32 | 
 | 24. | BLK | BlackCoin | 8,045 | CoinEgg (14,381)<br />Upbit (8,041)<br />Livecoin (1,257)<br />CoinExchange.io (15)<br />AEX (0)<br />Nova Exchange (0)<br />| 23,695 | 55.25 | 38.29 | 
-| 25. | SHIFT | Shift | 14,653 | Upbit (14,686)<br />Livecoin (5,407)<br />| 20,093 | 60.55 | 36.02 | 
+| 25. | SHIFT | Shift | 15,072 | Upbit (15,072)<br />Livecoin (6,046)<br />| 21,118 | 60.55 | 36.02 | 
 | 26. | OK | OkCash | 18,784 | Upbit (18,789)<br />Trade Satoshi (23)<br />Nova Exchange (12)<br />Txbit (0)<br />| 18,824 | 60.65 | 35.00 | 
 | 27. | GAME | GameCredits | 9,135 | Poloniex (14,462)<br />Upbit (9,135)<br />BitBay (7,170)<br />Dove Wallet (2,683)<br />Livecoin (970)<br />CREX24 (937)<br />CoinEgg (708)<br />CryTrEx (34)<br />Trade Satoshi (13)<br />Graviex (7)<br />Altilly (2)<br />Nova Exchange (0)<br />| 36,120 | 66.35 | 33.80 | 
 | 28. | GBYTE | Bytes | 26,758 | Upbit (26,754)<br />Bit-Z (0)<br />| 26,754 | 67.25 | 44.13 | 
