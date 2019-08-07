@@ -5,12 +5,12 @@
 | 3. | RADS | Radium | 546 | Upbit (590)<br />SouthXchange (168)<br />Livecoin (3)<br />CREX24 (0)<br />CoinExchange.io (0)<br />| 761 | 51.55 | 29.43 | 
 | 4. | MUE | MonetaryUnit | 720 | Upbit (711)<br />CryTrEx (1)<br />CoinExchange.io (0)<br />CryptoBridge (0)<br />YoBit (0)<br />| 712 | 56.95 | 20.68 | 
 | 5. | MORE | More | 1,557 | | 0 |  | 4.25 | 
-| 6. | VRC | VeriCoin | 320 | Livecoin (2,542)<br />Upbit (284)<br />CryptoBridge (0)<br />| 2,826 | 61.25 | 38.63 | 
-| 7. | SPHR | Sphere | 1,697 | Upbit (1,697)<br />| 1,697 | 41.80 | 22.33 | 
-| 8. | GLC | GoldCoin | 1,204 | Trade Satoshi (1,429)<br />Altilly (904)<br />| 2,333 | 54.70 | 23.37 | 
-| 9. | SLS | SaluS | 4,027 | YoBit (3)<br />Vinex (0)<br />| 3 | 29.20 | 15.77 | 
-| 10. | IOC | I/OCoin | 4,229 | | 0 | 68.00 | 29.81 | 
-| 11. | XST | Stealth | 4,665 | SouthXchange (2)<br />| 2 | 58.25 | 32.26 | 
+| 6. | SPHR | Sphere | 1,697 | Upbit (1,697)<br />| 1,697 | 41.80 | 22.33 | 
+| 7. | GLC | GoldCoin | 1,204 | Trade Satoshi (1,429)<br />Altilly (904)<br />| 2,333 | 54.70 | 23.37 | 
+| 8. | SLS | SaluS | 4,027 | YoBit (3)<br />Vinex (0)<br />| 3 | 29.20 | 15.77 | 
+| 9. | IOC | I/OCoin | 4,229 | | 0 | 68.00 | 29.81 | 
+| 10. | XST | Stealth | 4,665 | SouthXchange (2)<br />| 2 | 58.25 | 32.26 | 
+| 11. | MEME | Memetic | 2,704 | Upbit (2,700)<br />CoinExchange.io (0)<br />| 2,700 | 47.40 | 32.65 | 
 | 12. | CURE | CureCoin | 1,989 | Livecoin (4,285)<br />Trade Satoshi (124)<br />| 4,409 | 50.65 | 37.65 | 
 | 13. | EXCL | ExclusiveCoin | 3,577 | Upbit (3,584)<br />CryptoBridge (20)<br />CoinExchange.io (0)<br />| 3,603 | 51.95 | 26.55 | 
 | 14. | XMY | Myriad | 628 | FinexBox (6,401)<br />Dove Wallet (1,789)<br />Trade Satoshi (43)<br />NLexch (0)<br />| 8,234 | 61.85 | 39.50 | 
