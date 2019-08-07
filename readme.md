@@ -34,14 +34,14 @@
 | 32. | OK | OkCash | 47,453 | Upbit (47,396)<br />Trade Satoshi (10)<br />Nova Exchange (1)<br />Txbit (0)<br />| 47,407 | 60.65 | 36.02 | 
 | 33. | EXP | Expanse | 42,057 | Upbit (41,495)<br />FinexBox (13,434)<br />Dove Wallet (2,326)<br />HitBTC (124)<br />CryTrEx (91)<br />Graviex (28)<br />| 57,499 | 56.20 | 39.33 | 
 | 34. | UKG | UnikoinGold | 59,647 | Upbit (59,103)<br />YoBit (3)<br />Liquid (0)<br />| 59,105 | 62.65 | 31.79 | 
-| 35. | NXS | Nexus | 15,211 | Binance (98,962)<br />Upbit (15,215)<br />| 114,177 | 66.35 | 46.50 | 
+| 35. | NXS | Nexus | 14,618 | Binance (98,926)<br />Upbit (14,627)<br />| 113,553 | 66.35 | 46.50 | 
 | 36. | TUBE | BitTube | 45,649 | QBTC (50,958)<br />Upbit (47,534)<br />TradeOgre (2,924)<br />Bitalong (1,541)<br />Livecoin (473)<br />CREX24 (144)<br />CryptoBridge (0)<br />| 103,574 | 67.40 | 21.52 | 
 | 37. | NAV | NAVCoin | 5,970 | Binance (150,084)<br />Poloniex (8,016)<br />Upbit (5,970)<br />CryTrEx (161)<br />CREX24 (0)<br />StakeCube (0)<br />Altilly (0)<br />Nova Exchange (0)<br />| 164,232 | 79.30 | 49.89 | 
 | 38. | EMC2 | Einsteinium | 10,622 | Upbit (233,170)<br />Trade Satoshi (36)<br />BCEX (0)<br />| 233,206 | 66.20 | 39.26 | 
 | 39. | RDD | ReddCoin | 132,664 | Upbit (132,491)<br />CoinExchange.io (273)<br />YoBit (167)<br />StakeCube (55)<br />Trade Satoshi (19)<br />Nova Exchange (3)<br />BitOnBay (0)<br />Altilly (0)<br />C-Patex (0)<br />Atomars (0)<br />Freiexchange (0)<br />| 133,007 | 66.95 | 48.90 | 
 | 40. | XHV | Haven Protocol | 23,238 | TOKOK (220,823)<br />Upbit (22,667)<br />TradeOgre (4,749)<br />Bitalong (3,172)<br />SouthXchange (69)<br />| 251,480 |  | 37.08 | 
 | 41. | VTC | Vertcoin | 43,205 | QBTC (99,965)<br />CoinEgg (88,564)<br />Upbit (65,317)<br />FinexBox (62,611)<br />Poloniex (15,581)<br />SouthXchange (1,865)<br />Altilly (1,215)<br />Coingi (844)<br />CryptoBridge (0)<br />Nova Exchange (0)<br />| 335,962 | 70.55 | 50.29 | 
-| 42. | ARK | Ark | 31,900 | Binance (185,534)<br />Exrates (103,062)<br />Upbit (88,399)<br />OKEx (5,341)<br />Livecoin (1,690)<br />BuyUcoin (1,580)<br />Atomars (137)<br />Altilly (6)<br />COSS (0)<br />Bit-Z (0)<br />| 385,748 | 71.90 | 54.56 | 
+| 42. | ARK | Ark | 36,903 | Binance (184,844)<br />Exrates (102,518)<br />Upbit (92,502)<br />OKEx (6,845)<br />Livecoin (1,702)<br />BuyUcoin (1,571)<br />Atomars (138)<br />COSS (7)<br />Altilly (0)<br />Bit-Z (0)<br />| 390,127 | 71.90 | 54.56 | 
 | 43. | PPC | Peercoin | 84,788 | FinexBox (200,784)<br />HitBTC (80,460)<br />Hotbit (45,210)<br />Livecoin (30,101)<br />CoinEgg (7,806)<br />BTCSquare (7,558)<br />Altilly (2,304)<br />TheRockTrading (1,432)<br />SouthXchange (1,006)<br />Coingi (293)<br />CryTrEx (152)<br />YoBit (58)<br />BX Thailand (0)<br />Trade Satoshi (0)<br />| 377,164 | 74.35 | 50.89 | 
 | 44. | SYS | SysCoin | 25,107 | Binance (221,348)<br />CoinEx (193,235)<br />Upbit (25,125)<br />Sistemkoin (20,507)<br />Livecoin (3,956)<br />CryTrEx (249)<br />AEX (3)<br />YoBit (2)<br />Nova Exchange (0)<br />| 464,425 | 78.55 | 47.28 | 
 | 45. | BURST | BURSTCoin | 240,331 | Upbit (239,998)<br />QBTC (122,790)<br />Livecoin (1,240)<br />STEX (12)<br />| 364,040 | 79.10 | 43.10 | 
