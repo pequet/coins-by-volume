@@ -17,7 +17,7 @@
 | 15. | XMY | Myriad | 403 | FinexBox (6,933)<br />Dove Wallet (1,040)<br />Trade Satoshi (20)<br />NLexch (0)<br />| 7,992 | 61.85 | 39.50 | 
 | 16. | EXCL | ExclusiveCoin | 4,098 | Upbit (4,452)<br />CoinExchange.io (0)<br />CryptoBridge (0)<br />| 4,452 | 51.95 | 26.55 | 
 | 17. | CURE | CureCoin | 1,861 | Livecoin (6,956)<br />Trade Satoshi (593)<br />| 7,550 | 50.65 | 37.65 | 
-| 18. | SPHR | Sphere | 5,670 | Upbit (5,673)<br />| 5,673 | 41.80 | 22.33 | 
+| 18. | SPHR | Sphere | 6,233 | Upbit (6,233)<br />| 6,233 | 41.80 | 22.33 | 
 | 19. | GBYTE | Bytes | 8,117 | Upbit (8,114)<br />Bit-Z (0)<br />| 8,114 | 67.25 | 44.52 | 
 | 20. | BLK | BlackCoin | 1,247 | CoinEgg (14,601)<br />Upbit (1,248)<br />Livecoin (534)<br />CoinExchange.io (7)<br />AEX (1)<br />Nova Exchange (0)<br />| 16,390 | 55.25 | 38.31 | 
 | 21. | MER | Mercury | 5,683 | Upbit (11,837)<br />Waves Platform (95)<br />Tidex (86)<br />| 12,018 | 52.15 | 26.17 | 
@@ -31,7 +31,7 @@
 | 29. | FTC | Feathercoin | 13,632 | FinexBox (26,818)<br />QBTC (17,664)<br />Upbit (13,634)<br />Dove Wallet (3,091)<br />BX Thailand (393)<br />OKEx (0)<br />Altilly (0)<br />CoinExchange.io (0)<br />| 61,599 | 49.80 | 42.45 | 
 | 30. | TUBE | BitTube | 11,315 | QBTC (43,721)<br />Upbit (11,315)<br />TradeOgre (9,521)<br />Bitalong (1,661)<br />Livecoin (397)<br />CREX24 (83)<br />CryptoBridge (0)<br />| 66,700 | 67.40 | 21.52 | 
 | 31. | LBC | LBRY Credits | 44,020 | Upbit (44,021)<br />Poloniex (3,398)<br />Instant Bitex (0)<br />Nova Exchange (0)<br />Coindeal (0)<br />| 47,419 | 64.60 | 46.41 | 
-| 32. | NAV | NAVCoin | 13,599 | Binance (65,030)<br />Upbit (13,565)<br />Poloniex (2,719)<br />CryTrEx (79)<br />CREX24 (0)<br />StakeCube (0)<br />Altilly (0)<br />Nova Exchange (0)<br />| 81,393 | 79.30 | 49.89 | 
+| 32. | NAV | NAVCoin | 15,966 | Binance (60,030)<br />Upbit (16,165)<br />Poloniex (2,677)<br />CryTrEx (88)<br />CREX24 (6)<br />StakeCube (0)<br />Altilly (0)<br />Nova Exchange (0)<br />| 78,964 | 79.30 | 49.89 | 
 | 33. | SBD | SteemDollars | 30,562 | Upbit (64,255)<br />GoPax (1,178)<br />HitBTC (231)<br />CryTrEx (81)<br />OpenLedger DEX (0)<br />| 65,746 | 80.00 | 50.38 | 
 | 34. | EXP | Expanse | 49,219 | Upbit (49,220)<br />FinexBox (8,522)<br />Dove Wallet (2,213)<br />CryTrEx (119)<br />HitBTC (49)<br />Graviex (5)<br />| 60,128 | 56.20 | 39.33 | 
 | 35. | UKG | UnikoinGold | 64,977 | Upbit (64,929)<br />YoBit (0)<br />Liquid (0)<br />| 64,929 | 62.65 | 31.79 | 
