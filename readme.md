@@ -32,9 +32,9 @@
 | 30. | EXP | Expanse | 27,986 | Upbit (29,432)<br />FinexBox (15,377)<br />Dove Wallet (365)<br />Graviex (5)<br />HitBTC (4)<br />CryTrEx (0)<br />| 45,182 | 56.20 | 39.33 | 
 | 31. | UKG | UnikoinGold | 37,845 | Upbit (37,677)<br />Liquid (0)<br />YoBit (0)<br />| 37,677 | 62.65 | 31.79 | 
 | 32. | FTC | Feathercoin | 16,614 | FinexBox (25,419)<br />QBTC (18,154)<br />Upbit (16,066)<br />BX Thailand (401)<br />Dove Wallet (308)<br />OKEx (0)<br />Altilly (0)<br />CoinExchange.io (0)<br />| 60,348 | 49.80 | 42.45 | 
-| 33. | TUBE | BitTube | 21,056 | QBTC (50,274)<br />Upbit (21,040)<br />TradeOgre (6,884)<br />Bitalong (1,049)<br />Livecoin (471)<br />CREX24 (49)<br />CryptoBridge (0)<br />| 79,767 | 67.40 | 21.52 | 
-| 34. | SBD | SteemDollars | 41,092 | Upbit (70,323)<br />HitBTC (222)<br />GoPax (2)<br />CryTrEx (0)<br />OpenLedger DEX (0)<br />| 70,547 | 80.00 | 50.38 | 
-| 35. | NAV | NAVCoin | 20,041 | Binance (69,902)<br />Upbit (20,059)<br />Poloniex (4,145)<br />CREX24 (40)<br />CryTrEx (0)<br />StakeCube (0)<br />Altilly (0)<br />Nova Exchange (0)<br />| 94,146 | 79.30 | 49.89 | 
+| 33. | NAV | NAVCoin | 8,021 | Binance (63,203)<br />Upbit (8,015)<br />Poloniex (2,698)<br />CryTrEx (73)<br />CREX24 (40)<br />StakeCube (0)<br />Altilly (0)<br />Nova Exchange (0)<br />| 74,029 | 79.30 | 49.89 | 
+| 34. | TUBE | BitTube | 21,056 | QBTC (50,274)<br />Upbit (21,040)<br />TradeOgre (6,884)<br />Bitalong (1,049)<br />Livecoin (471)<br />CREX24 (49)<br />CryptoBridge (0)<br />| 79,767 | 67.40 | 21.52 | 
+| 35. | SBD | SteemDollars | 41,092 | Upbit (70,323)<br />HitBTC (222)<br />GoPax (2)<br />CryTrEx (0)<br />OpenLedger DEX (0)<br />| 70,547 | 80.00 | 50.38 | 
 | 36. | BURST | BURSTCoin | 29,486 | QBTC (121,504)<br />Upbit (29,400)<br />Livecoin (386)<br />STEX (0)<br />| 151,290 | 79.10 | 43.10 | 
 | 37. | RDD | ReddCoin | 106,673 | Upbit (95,953)<br />YoBit (1,342)<br />Trade Satoshi (413)<br />CoinExchange.io (351)<br />Altilly (3)<br />StakeCube (0)<br />BitOnBay (0)<br />Nova Exchange (0)<br />Atomars (0)<br />Freiexchange (0)<br />| 98,062 | 66.95 | 48.90 | 
 | 38. | EMC2 | Einsteinium | 12,952 | Upbit (204,735)<br />Trade Satoshi (0)<br />BCEX (0)<br />| 204,735 | 66.20 | 39.26 | 
