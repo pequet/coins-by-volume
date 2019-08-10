@@ -30,14 +30,14 @@
 | 28. | GAME | GameCredits | 18,120 | BitBay (18,925)<br />Upbit (17,900)<br />Poloniex (14,184)<br />Dove Wallet (2,067)<br />Livecoin (1,037)<br />CoinEgg (780)<br />CREX24 (652)<br />Graviex (53)<br />Trade Satoshi (1)<br />CryTrEx (0)<br />Altilly (0)<br />Nova Exchange (0)<br />| 55,598 | 66.35 | 33.76 | 
 | 29. | NAV | NAVCoin | 18,816 | Binance (39,406)<br />Upbit (18,443)<br />Poloniex (2,031)<br />CryTrEx (71)<br />CREX24 (6)<br />StakeCube (0)<br />Altilly (0)<br />Nova Exchange (0)<br />| 59,957 | 79.30 | 49.89 | 
 | 30. | LBC | LBRY Credits | 44,750 | Upbit (44,750)<br />Poloniex (4,285)<br />Nova Exchange (0)<br />Instant Bitex (0)<br />Coindeal (0)<br />| 49,035 | 64.60 | 46.41 | 
-| 31. | TUBE | BitTube | 20,555 | QBTC (43,669)<br />Upbit (20,555)<br />TradeOgre (10,305)<br />Bitalong (2,222)<br />Livecoin (500)<br />CREX24 (137)<br />CryptoBridge (0)<br />| 77,388 | 67.40 | 21.52 | 
+| 31. | TUBE | BitTube | 22,759 | QBTC (45,836)<br />Upbit (21,926)<br />TradeOgre (3,500)<br />Bitalong (2,380)<br />Livecoin (426)<br />CREX24 (104)<br />CryptoBridge (0)<br />| 74,172 | 67.40 | 21.52 | 
 | 32. | EXP | Expanse | 46,434 | Upbit (46,408)<br />FinexBox (7,909)<br />Dove Wallet (3,135)<br />HitBTC (44)<br />CryTrEx (0)<br />Graviex (0)<br />| 57,495 | 56.20 | 39.33 | 
 | 33. | UKG | UnikoinGold | 59,093 | Upbit (60,480)<br />YoBit (0)<br />Liquid (0)<br />| 60,480 | 62.65 | 31.79 | 
 | 34. | SBD | SteemDollars | 43,537 | Upbit (86,592)<br />GoPax (1,143)<br />HitBTC (48)<br />OpenLedger DEX (0)<br />CryTrEx (0)<br />| 87,783 | 80.00 | 50.38 | 
 | 35. | FTC | Feathercoin | 12,165 | Dove Wallet (124,149)<br />FinexBox (26,928)<br />QBTC (17,769)<br />Upbit (12,800)<br />BX Thailand (56)<br />Altilly (0)<br />CoinExchange.io (0)<br />OKEx (0)<br />| 181,703 | 49.80 | 42.45 | 
 | 36. | BAY | BitBay | 114,185 | Upbit (113,970)<br />Nova Exchange (0)<br />| 113,970 | 57.00 | 37.67 | 
 | 37. | RDD | ReddCoin | 121,379 | Upbit (110,667)<br />Trade Satoshi (215)<br />YoBit (150)<br />CoinExchange.io (135)<br />StakeCube (9)<br />Altilly (4)<br />Freiexchange (4)<br />Nova Exchange (2)<br />C-Patex (0)<br />Atomars (0)<br />BitOnBay (0)<br />| 111,186 | 66.95 | 48.90 | 
-| 38. | EMC2 | Einsteinium | 43,986 | Upbit (213,789)<br />Trade Satoshi (1)<br />BCEX (0)<br />| 213,790 | 66.20 | 39.26 | 
+| 38. | EMC2 | Einsteinium | 55,232 | Upbit (206,070)<br />Trade Satoshi (4)<br />BCEX (0)<br />| 206,074 | 66.20 | 39.26 | 
 | 39. | XHV | Haven Protocol | 6,417 | TOKOK (242,065)<br />Upbit (6,349)<br />Bitalong (6,194)<br />TradeOgre (1,247)<br />SouthXchange (0)<br />| 255,855 |  | 37.08 | 
 | 40. | VIA | ViaCoin  | 31,662 | FEX (111,129)<br />Binance (84,816)<br />BitOnBay (48,585)<br />Upbit (31,680)<br />Poloniex (2,185)<br />YoBit (17)<br />Nova Exchange (0)<br />Bitsonic (0)<br />| 278,412 | 66.55 | 41.80 | 
 | 41. | BURST | BURSTCoin | 113,789 | Upbit (113,543)<br />QBTC (104,930)<br />Livecoin (841)<br />STEX (53)<br />| 219,367 | 79.10 | 43.10 | 
