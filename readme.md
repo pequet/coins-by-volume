@@ -33,7 +33,7 @@
 | 31. | TUBE | BitTube | 20,555 | QBTC (43,669)<br />Upbit (20,555)<br />TradeOgre (10,305)<br />Bitalong (2,222)<br />Livecoin (500)<br />CREX24 (137)<br />CryptoBridge (0)<br />| 77,388 | 67.40 | 21.52 | 
 | 32. | EXP | Expanse | 46,434 | Upbit (46,408)<br />FinexBox (7,909)<br />Dove Wallet (3,135)<br />HitBTC (44)<br />CryTrEx (0)<br />Graviex (0)<br />| 57,495 | 56.20 | 39.33 | 
 | 33. | UKG | UnikoinGold | 59,093 | Upbit (60,480)<br />YoBit (0)<br />Liquid (0)<br />| 60,480 | 62.65 | 31.79 | 
-| 34. | SBD | SteemDollars | 43,537 | Upbit (86,592)<br />GoPax (1,143)<br />HitBTC (48)<br />OpenLedger DEX (0)<br />CryTrEx (0)<br />| 87,783 | 80.00 | 50.38 | 
+| 34. | SBD | SteemDollars | 43,537 | Upbit (86,592)<br />GoPax (1,143)<br />HitBTC (48)<br />CryTrEx (0)<br />OpenLedger DEX (0)<br />| 87,783 | 80.00 | 50.38 | 
 | 35. | FTC | Feathercoin | 12,165 | Dove Wallet (122,643)<br />FinexBox (26,928)<br />QBTC (17,769)<br />Upbit (12,800)<br />BX Thailand (56)<br />Altilly (0)<br />CoinExchange.io (0)<br />OKEx (0)<br />| 180,197 | 49.80 | 42.45 | 
 | 36. | BAY | BitBay | 102,462 | Upbit (102,248)<br />Nova Exchange (0)<br />| 102,248 | 57.00 | 37.67 | 
 | 37. | RDD | ReddCoin | 108,479 | Upbit (108,875)<br />YoBit (1,174)<br />Trade Satoshi (203)<br />CoinExchange.io (121)<br />Freiexchange (33)<br />StakeCube (9)<br />Altilly (4)<br />Nova Exchange (1)<br />C-Patex (0)<br />Atomars (0)<br />BitOnBay (0)<br />| 110,421 | 66.95 | 48.90 | 
