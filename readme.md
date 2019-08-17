@@ -12,8 +12,8 @@
 | 10. | XDN | DigitalNote | 962 | Upbit (962)<br />HitBTC (895)<br />| 1,858 | 55.15 | 32.86 | 
 | 11. | MER | Mercury | 1,431 | Upbit (1,429)<br />Waves Platform (74)<br />Tidex (19)<br />| 1,522 | 52.15 | 20.55 | 
 | 12. | VRC | VeriCoin | 1,365 | Upbit (1,369)<br />Livecoin (326)<br />| 1,694 | 61.25 | 38.73 | 
-| 13. | UBQ | Ubiq | 2,108 | Upbit (2,098)<br />CryTrEx (5)<br />| 2,103 | 64.10 | 28.34 | 
-| 14. | PINK | PinkCoin | 5,011 | SouthXchange (454)<br />Nova Exchange (0)<br />CryTrEx (0)<br />| 454 | 51.75 | 34.81 | 
+| 13. | PINK | PinkCoin | 3,663 | SouthXchange (454)<br />Nova Exchange (0)<br />CryTrEx (0)<br />| 454 | 51.75 | 34.81 | 
+| 14. | UBQ | Ubiq | 2,108 | Upbit (2,098)<br />CryTrEx (5)<br />| 2,103 | 64.10 | 28.34 | 
 | 15. | SLS | SaluS | 5,972 | YoBit (6)<br />| 6 | 29.20 | 15.67 | 
 | 16. | EXCL | ExclusiveCoin | 3,037 | Upbit (3,040)<br />CoinExchange.io (57)<br />CryptoBridge (0)<br />| 3,097 | 51.95 | 28.85 | 
 | 17. | SHIFT | Shift | 613 | Livecoin (5,737)<br />Upbit (613)<br />Idax (0)<br />| 6,350 | 60.55 | 35.57 | 
