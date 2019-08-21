@@ -25,7 +25,7 @@
 | 23. | SLS | SaluS | 12,525 | YoBit (6)<br />| 6 | 29.20 | 15.78 | 
 | 24. | GAME | GameCredits | 2,148 | BitBay (3,722)<br />Upbit (2,148)<br />Dove Wallet (1,896)<br />Poloniex (1,643)<br />CREX24 (737)<br />Livecoin (637)<br />CoinEgg (569)<br />CryTrEx (4)<br />Graviex (0)<br />Nova Exchange (0)<br />Trade Satoshi (0)<br />| 11,357 | 66.35 | 32.67 | 
 | 25. | GBYTE | Bytes | 7,437 | Upbit (7,436)<br />Bit-Z (1)<br />| 7,437 | 67.25 | 43.67 | 
-| 26. | FLO | FLO | 8,945 | TOKOK (8,514)<br />CoinExchange.io (0)<br />Nova Exchange (0)<br />| 8,514 | 62.50 | 32.71 | 
+| 26. | FLO | FLO | 9,035 | TOKOK (8,925)<br />CoinExchange.io (0)<br />Nova Exchange (0)<br />| 8,925 | 62.50 | 32.71 | 
 | 27. | EXP | Expanse | 4,927 | FinexBox (6,969)<br />Upbit (4,926)<br />Dove Wallet (3,301)<br />CryTrEx (11)<br />HitBTC (0)<br />Graviex (0)<br />| 15,207 | 56.20 | 40.94 | 
 | 28. | SIB | Sibcoin | 10,068 | Upbit (10,197)<br />Livecoin (339)<br />BTC Trade UA (26)<br />YoBit (0)<br />| 10,561 | 54.50 | 31.53 | 
 | 29. | LBC | LBRY Credits | 10,736 | Upbit (10,643)<br />Poloniex (1,612)<br />Coindeal (0)<br />Nova Exchange (0)<br />| 12,254 | 64.60 | 47.68 | 
