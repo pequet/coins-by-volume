@@ -1,7 +1,7 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | PINK | PinkCoin | 49 | SouthXchange (86)<br />CryptoBridge (32)<br />Nova Exchange (0)<br />CryTrEx (0)<br />| 118 | 51.75 | 35.14 | 
-| 2. | GEO | GeoCoin | 193 | | 0 | 36.55 | 11.29 | 
+| 2. | GEO | GeoCoin | 172 | | 0 | 36.55 | 11.19 | 
 | 3. | MEME | Memetic | 489 | Upbit (489)<br />CoinExchange.io (0)<br />| 489 | 47.40 | 33.56 | 
 | 4. | IOC | I/OCoin | 1,447 | | 0 | 68.00 | 29.85 | 
 | 5. | MORE | More | 1,825 | | 0 |  | 4.36 | 
@@ -12,11 +12,11 @@
 | 10. | MER | Mercury | 2,013 | Upbit (2,013)<br />Waves Platform (50)<br />Tidex (1)<br />| 2,064 | 52.15 | 20.49 | 
 | 11. | UBQ | Ubiq | 2,169 | Upbit (2,162)<br />CryTrEx (4)<br />| 2,166 | 64.10 | 28.34 | 
 | 12. | VRC | VeriCoin | 1,251 | Livecoin (2,028)<br />Upbit (1,251)<br />| 3,279 | 61.25 | 39.70 | 
-| 13. | GBYTE | Bytes | 2,914 | Upbit (2,914)<br />Bit-Z (40)<br />| 2,954 | 67.25 | 43.75 | 
-| 14. | SLS | SaluS | 6,268 | YoBit (6)<br />| 6 | 29.20 | 15.67 | 
-| 15. | MUE | MonetaryUnit | 3,172 | Upbit (3,172)<br />CryTrEx (3)<br />CryptoBridge (0)<br />Nova Exchange (0)<br />YoBit (0)<br />| 3,176 | 56.95 | 20.52 | 
-| 16. | EXCL | ExclusiveCoin | 3,237 | Upbit (3,237)<br />CryptoBridge (2)<br />CoinExchange.io (0)<br />| 3,238 | 51.95 | 27.52 | 
-| 17. | SHIFT | Shift | 1,826 | Livecoin (3,215)<br />Upbit (1,827)<br />| 5,042 | 60.55 | 35.84 | 
+| 13. | SHIFT | Shift | 1,016 | Livecoin (3,238)<br />Upbit (1,017)<br />| 4,254 | 60.55 | 35.67 | 
+| 14. | MUE | MonetaryUnit | 2,921 | Upbit (2,921)<br />CryTrEx (3)<br />CryptoBridge (0)<br />Nova Exchange (0)<br />YoBit (0)<br />| 2,925 | 56.95 | 20.56 | 
+| 15. | GBYTE | Bytes | 2,914 | Upbit (2,914)<br />Bit-Z (40)<br />| 2,954 | 67.25 | 43.75 | 
+| 16. | SLS | SaluS | 6,268 | YoBit (6)<br />| 6 | 29.20 | 15.67 | 
+| 17. | EXCL | ExclusiveCoin | 3,237 | Upbit (3,237)<br />CryptoBridge (2)<br />CoinExchange.io (0)<br />| 3,238 | 51.95 | 27.52 | 
 | 18. | OK | OkCash | 3,084 | Upbit (3,085)<br />FinexBox (761)<br />YoBit (1)<br />Birake (0)<br />Nova Exchange (0)<br />Trade Satoshi (0)<br />| 3,847 | 60.65 | 35.79 | 
 | 19. | GLC | GoldCoin | 5,876 | Trade Satoshi (1,069)<br />Altilly (568)<br />| 1,636 | 54.70 | 23.71 | 
 | 20. | CRW | Crown | 3,882 | Upbit (3,882)<br />CREX24 (29)<br />YoBit (2)<br />CoinExchange.io (0)<br />CryptoBridge (0)<br />| 3,913 | 71.20 | 38.14 | 
