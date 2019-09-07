@@ -36,9 +36,9 @@
 | 34. | AEON | Aeon | 21,277 | TradeOgre (19,275)<br />HitBTC (1,028)<br />| 20,303 | 46.25 | 31.02 | 
 | 35. | RDD | ReddCoin | 32,091 | Upbit (32,087)<br />CoinExchange.io (594)<br />YoBit (89)<br />BitOnBay (40)<br />Trade Satoshi (4)<br />StakeCube (0)<br />Nova Exchange (0)<br />Altilly (0)<br />Dex-Trade (0)<br />Atomars (0)<br />Freiexchange (0)<br />| 32,815 | 66.95 | 47.57 | 
 | 36. | EMC2 | Einsteinium | 6,485 | Upbit (85,574)<br />BCEX (0)<br />Trade Satoshi (0)<br />| 85,574 | 66.20 | 39.12 | 
-| 37. | NAV | NAVCoin | 42,436 | Upbit (42,951)<br />Binance (33,538)<br />Poloniex (96)<br />StakeCube (0)<br />CREX24 (0)<br />CryTrEx (0)<br />| 76,585 | 79.30 | 45.58 | 
-| 38. | BURST | BURSTCoin | 42,990 | QBTC (81,434)<br />Upbit (42,971)<br />Livecoin (205)<br />STEX (1)<br />| 124,611 | 79.10 | 42.84 | 
-| 39. | NXS | Nexus | 28,627 | Binance (125,353)<br />Upbit (28,539)<br />| 153,892 | 66.35 | 45.78 | 
+| 37. | NXS | Nexus | 22,522 | Binance (69,438)<br />Upbit (22,537)<br />| 91,975 | 66.35 | 45.78 | 
+| 38. | NAV | NAVCoin | 42,436 | Upbit (42,951)<br />Binance (33,538)<br />Poloniex (96)<br />StakeCube (0)<br />CREX24 (0)<br />CryTrEx (0)<br />| 76,585 | 79.30 | 45.58 | 
+| 39. | BURST | BURSTCoin | 42,990 | QBTC (81,434)<br />Upbit (42,971)<br />Livecoin (205)<br />STEX (1)<br />| 124,611 | 79.10 | 42.84 | 
 | 40. | PPC | Peercoin | 2,813 | FinexBox (121,733)<br />Livecoin (29,239)<br />CoinEgg (26,048)<br />HitBTC (24,084)<br />Hotbit (14,780)<br />BTCSquare (3,040)<br />TheRockTrading (884)<br />SouthXchange (372)<br />BTC Trade UA (202)<br />YoBit (163)<br />BX Thailand (55)<br />CryTrEx (23)<br />Trade Satoshi (3)<br />CryptoBridge (0)<br />| 220,626 | 74.35 | 44.70 | 
 | 41. | SPND | Spendcoin | 75,532 | Upbit (76,556)<br />Bitsdaq (74,408)<br />KuCoin (663)<br />Bitsonic (207)<br />ZG.TOP (5)<br />| 151,839 | 66.65 | 28.68 | 
 | 42. | VIA | ViaCoin  | 8,938 | Binance (135,144)<br />FEX (68,904)<br />Upbit (8,933)<br />Poloniex (5,998)<br />BitOnBay (185)<br />Nova Exchange (0)<br />YoBit (0)<br />| 219,164 | 66.55 | 40.12 | 
