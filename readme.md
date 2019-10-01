@@ -1,7 +1,7 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | MORE | More | 49 | | 0 |  | 3.07 | 
-| 2. | IOC | I/OCoin | 75 | FEX (0)<br />| 0 | 68.00 | 28.52 | 
+| 2. | IOC | I/OCoin | 69 | FEX (0)<br />| 0 | 68.00 | 28.52 | 
 | 3. | PINK | PinkCoin | 162 | CryptoBridge (11)<br />SouthXchange (7)<br />Nova Exchange (1)<br />CryTrEx (0)<br />| 18 | 51.75 | 32.84 | 
 | 4. | GEO | GeoCoin | 391 | CryptoBridge (0)<br />| 0 | 36.55 | 9.56 | 
 | 5. | SPHR | Sphere | 524 | | 0 | 41.80 | 20.78 | 
