@@ -11,7 +11,7 @@
 | 9. | EXCL | ExclusiveCoin | 700 | Upbit (700)<br />CoinExchange.io (34)<br />CryptoBridge (3)<br />OpenLedger DEX (0)<br />| 737 | 51.95 | 27.16 | 
 | 10. | MEME | Memetic | 842 | Upbit (843)<br />CoinExchange.io (0)<br />| 843 | 47.40 | 34.43 | 
 | 11. | GLC | GoldCoin | 1,443 | Altilly (258)<br />Trade Satoshi (74)<br />YoBit (0)<br />| 333 | 54.70 | 21.42 | 
-| 12. | XST | Stealth | 3,076 | Vinex (31)<br />Altilly (0)<br />SouthXchange (0)<br />| 31 | 58.25 | 31.97 | 
+| 12. | XST | Stealth | 2,116 | Vinex (0)<br />Altilly (0)<br />SouthXchange (0)<br />| 0 | 58.25 | 31.97 | 
 | 13. | CURE | CureCoin | 780 | Livecoin (3,072)<br />Trade Satoshi (1)<br />| 3,073 | 50.65 | 35.41 | 
 | 14. | NLG | Gulden | 4,139 | CoinExchange.io (61)<br />YoBit (0)<br />NLexch (0)<br />CryptoBridge (0)<br />| 61 | 68.35 | 38.62 | 
 | 15. | SLS | SaluS | 4,687 | YoBit (0)<br />Vinex (0)<br />CryptoBridge (0)<br />| 0 | 29.20 | 15.67 | 
