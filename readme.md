@@ -2,8 +2,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | SPHR | Sphere | 4 | | 0 | 41.80 | 20.78 | 
 | 2. | GEO | GeoCoin | 65 | CryptoBridge (0)<br />| 0 | 36.55 | 9.56 | 
-| 3. | PINK | PinkCoin | 24 | SouthXchange (391)<br />Nova Exchange (25)<br />CryptoBridge (3)<br />CryTrEx (0)<br />| 420 | 51.75 | 32.84 | 
-| 4. | MORE | More | 564 | | 0 |  | 3.07 | 
+| 3. | MORE | More | 406 | | 0 |  | 3.04 | 
+| 4. | PINK | PinkCoin | 24 | SouthXchange (391)<br />Nova Exchange (25)<br />CryptoBridge (3)<br />CryTrEx (0)<br />| 420 | 51.75 | 32.84 | 
 | 5. | MER | Mercury | 499 | Tidex (113)<br />Waves Platform (30)<br />| 143 | 52.15 | 19.07 | 
 | 6. | IOC | I/OCoin | 1,712 | FEX (0)<br />| 0 | 68.00 | 28.52 | 
 | 7. | VRC | VeriCoin | 272 | Livecoin (1,194)<br />Upbit (272)<br />CryptoBridge (0)<br />| 1,467 | 61.25 | 37.99 | 
