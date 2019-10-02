@@ -1,13 +1,13 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | SPHR | Sphere | 4 | | 0 | 41.80 | 20.78 | 
+| 1. | SPHR | Sphere | 4 | | 0 | 41.80 | 20.77 | 
 | 2. | GEO | GeoCoin | 21 | CryptoBridge (0)<br />| 0 | 36.55 | 8.69 | 
-| 3. | MORE | More | 406 | | 0 |  | 3.04 | 
-| 4. | PINK | PinkCoin | 24 | SouthXchange (391)<br />Nova Exchange (25)<br />CryptoBridge (3)<br />CryTrEx (0)<br />| 420 | 51.75 | 32.84 | 
+| 3. | PINK | PinkCoin | 16 | SouthXchange (142)<br />Nova Exchange (25)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 167 | 51.75 | 32.86 | 
+| 4. | MORE | More | 406 | | 0 |  | 3.04 | 
 | 5. | MUE | MonetaryUnit | 501 | Upbit (622)<br />CoinExchange.io (4)<br />YoBit (3)<br />NLexch (2)<br />CryTrEx (1)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />BitOnBay (0)<br />| 632 | 56.95 | 20.24 | 
 | 6. | MER | Mercury | 1,062 | Tidex (113)<br />Waves Platform (30)<br />| 143 | 52.15 | 18.87 | 
 | 7. | CURE | CureCoin | 100 | Livecoin (1,163)<br />Trade Satoshi (6)<br />| 1,170 | 50.65 | 35.61 | 
-| 8. | IOC | I/OCoin | 1,712 | FEX (0)<br />| 0 | 68.00 | 28.52 | 
+| 8. | IOC | I/OCoin | 1,641 | FEX (0)<br />| 0 | 68.00 | 30.47 | 
 | 9. | VRC | VeriCoin | 287 | Livecoin (1,203)<br />Upbit (287)<br />CryptoBridge (0)<br />| 1,490 | 61.25 | 37.79 | 
 | 10. | RADS | Radium | 907 | Upbit (888)<br />FinexBox (297)<br />CoinExchange.io (9)<br />Freiexchange (0)<br />CREX24 (0)<br />Livecoin (0)<br />SouthXchange (0)<br />Bisq (0)<br />| 1,195 | 51.55 | 28.27 | 
 | 11. | EXCL | ExclusiveCoin | 1,095 | Upbit (1,044)<br />CoinExchange.io (46)<br />CryptoBridge (8)<br />OpenLedger DEX (0)<br />| 1,099 | 51.95 | 26.84 | 
