@@ -2,10 +2,10 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | SPHR | Sphere | 4 | | 0 | 41.80 | 20.78 | 
 | 2. | GEO | GeoCoin | 65 | CryptoBridge (0)<br />| 0 | 36.55 | 9.56 | 
-| 3. | PINK | PinkCoin | 63 | SouthXchange (391)<br />Nova Exchange (25)<br />CryptoBridge (3)<br />CryTrEx (0)<br />| 420 | 51.75 | 32.84 | 
+| 3. | PINK | PinkCoin | 24 | SouthXchange (391)<br />Nova Exchange (25)<br />CryptoBridge (3)<br />CryTrEx (0)<br />| 420 | 51.75 | 32.84 | 
 | 4. | MORE | More | 564 | | 0 |  | 3.07 | 
 | 5. | MER | Mercury | 499 | Tidex (113)<br />Waves Platform (30)<br />| 143 | 52.15 | 19.07 | 
-| 6. | IOC | I/OCoin | 759 | FEX (0)<br />| 0 | 68.00 | 28.52 | 
+| 6. | IOC | I/OCoin | 1,712 | FEX (0)<br />| 0 | 68.00 | 28.52 | 
 | 7. | VRC | VeriCoin | 272 | Livecoin (1,194)<br />Upbit (272)<br />CryptoBridge (0)<br />| 1,467 | 61.25 | 37.99 | 
 | 8. | EXCL | ExclusiveCoin | 952 | Upbit (952)<br />CoinExchange.io (45)<br />CryptoBridge (11)<br />OpenLedger DEX (0)<br />| 1,009 | 51.95 | 27.16 | 
 | 9. | CURE | CureCoin | 114 | Livecoin (1,870)<br />Trade Satoshi (5)<br />| 1,875 | 50.65 | 35.41 | 
