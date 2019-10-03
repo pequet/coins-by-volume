@@ -1,6 +1,6 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | PINK | PinkCoin | 452 | SouthXchange (0)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 0 | 51.75 | 32.86 | 
+| 1. | PINK | PinkCoin | 461 | SouthXchange (0)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 0 | 51.75 | 32.60 | 
 | 2. | IOC | I/OCoin | 683 | FEX (0)<br />| 0 | 68.00 | 30.03 | 
 | 3. | SLS | SaluS | 1,467 | Vinex (21)<br />YoBit (0)<br />CryptoBridge (0)<br />| 21 | 29.20 | 15.65 | 
 | 4. | NLG | Gulden | 2,451 | CoinExchange.io (9)<br />YoBit (0)<br />CryptoBridge (0)<br />NLexch (0)<br />| 9 | 68.35 | 41.19 | 
@@ -26,8 +26,8 @@
 | 24. | RDD | ReddCoin | 14,860 | Upbit (14,863)<br />YoBit (321)<br />CoinExchange.io (224)<br />Trade Satoshi (71)<br />BitOnBay (34)<br />Nova Exchange (9)<br />Atomars (1)<br />Dex-Trade (0)<br />Altilly (0)<br />C-Patex (0)<br />Freiexchange (0)<br />| 15,522 | 66.95 | 48.02 | 
 | 25. | LBC | LBRY Credits | 16,237 | Upbit (16,237)<br />Poloniex (3,525)<br />Instant Bitex (0)<br />Coindeal (0)<br />Nova Exchange (0)<br />| 19,762 | 64.60 | 44.48 | 
 | 26. | FTC | Feathercoin | 3,125 | FinexBox (18,275)<br />QBTC (15,363)<br />Upbit (3,126)<br />Dove Wallet (1,950)<br />CoinExchange.io (8)<br />NLexch (8)<br />OKEx (0)<br />BX Thailand (0)<br />Altilly (0)<br />| 38,721 | 49.80 | 40.73 | 
-| 27. | MORE | More | 57,725 | | 0 |  | 3.04 | 
-| 28. | TUBE | BitTube | 11,149 | QBTC (35,239)<br />Upbit (11,164)<br />TradeOgre (826)<br />Bitalong (285)<br />Livecoin (177)<br />CREX24 (29)<br />CryptoBridge (0)<br />| 47,719 | 67.40 | 20.57 | 
+| 27. | TUBE | BitTube | 11,149 | QBTC (35,239)<br />Upbit (11,164)<br />TradeOgre (826)<br />Bitalong (285)<br />Livecoin (177)<br />CREX24 (29)<br />CryptoBridge (0)<br />| 47,719 | 67.40 | 20.57 | 
+| 28. | MORE | More | 67,690 | | 0 |  | 4.26 | 
 | 29. | EMC2 | Einsteinium | 1,154 | Upbit (77,208)<br />Trade Satoshi (99)<br />DigitalPrice (0)<br />BCEX (0)<br />| 77,306 | 66.20 | 36.16 | 
 | 30. | SIB | Sibcoin | 43,838 | Upbit (43,745)<br />Livecoin (262)<br />YoBit (0)<br />BTC Trade UA (0)<br />| 44,007 | 54.50 | 33.18 | 
 | 31. | BURST | BURSTCoin | 9,336 | QBTC (87,002)<br />Upbit (9,336)<br />Livecoin (73)<br />STEX (0)<br />| 96,411 | 79.10 | 39.71 | 
