@@ -1,8 +1,8 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | PINK | PinkCoin | 452 | SouthXchange (0)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 0 | 51.75 | 32.86 | 
-| 2. | SLS | SaluS | 1,467 | Vinex (21)<br />YoBit (0)<br />CryptoBridge (0)<br />| 21 | 29.20 | 15.65 | 
-| 3. | IOC | I/OCoin | 1,507 | FEX (0)<br />| 0 | 68.00 | 30.47 | 
+| 2. | IOC | I/OCoin | 683 | FEX (0)<br />| 0 | 68.00 | 30.03 | 
+| 3. | SLS | SaluS | 1,467 | Vinex (21)<br />YoBit (0)<br />CryptoBridge (0)<br />| 21 | 29.20 | 15.65 | 
 | 4. | NLG | Gulden | 2,451 | CoinExchange.io (9)<br />YoBit (0)<br />CryptoBridge (0)<br />NLexch (0)<br />| 9 | 68.35 | 41.19 | 
 | 5. | MUE | MonetaryUnit | 1,544 | Upbit (1,496)<br />CoinExchange.io (6)<br />YoBit (2)<br />NLexch (1)<br />CryptoBridge (1)<br />Nova Exchange (0)<br />CryTrEx (0)<br />BitOnBay (0)<br />| 1,506 | 56.95 | 20.11 | 
 | 6. | EXCL | ExclusiveCoin | 1,639 | Upbit (1,639)<br />CoinExchange.io (32)<br />CryptoBridge (6)<br />OpenLedger DEX (0)<br />| 1,677 | 51.95 | 26.59 | 
@@ -44,8 +44,8 @@
 | 42. | SOLVE | Solve.Care | 45,057 | Upbit (290,984)<br />Bitsdaq (45,051)<br />KuCoin (901)<br />Bitoffer (778)<br />Trade.io (650)<br />CoinExchange.io (0)<br />TokenJar (0)<br />| 338,364 |  | 24.54 | 
 | 43. | VTC | Vertcoin | 20,475 | CoinEgg (176,218)<br />QBTC (148,894)<br />Upbit (38,675)<br />FinexBox (37,906)<br />Poloniex (2,878)<br />Dove Wallet (1,906)<br />SouthXchange (4)<br />Altilly (0)<br />Nova Exchange (0)<br />NLexch (0)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 406,481 | 70.55 | 47.46 | 
 | 44. | GEO | GeoCoin | 430,782 | CryptoBridge (73)<br />| 73 | 36.55 | 12.35 | 
-| 45. | STEEM | STEEM | 32,866 | Upbit (331,547)<br />Binance (112,991)<br />HitBTC (90,237)<br />Huobi Global (52,270)<br />Probit (16,315)<br />Poloniex (2,116)<br />BuyUcoin (936)<br />Huobi US (HBUS) (746)<br />Huobi Korea (710)<br />GoPax (373)<br />Daybit (19)<br />OpenLedger DEX (0)<br />Altilly (0)<br />CryTrEx (0)<br />| 608,259 | 71.65 | 51.77 | 
-| 46. | SPHR | Sphere | 652,269 | | 0 | 41.80 | 20.77 | 
+| 45. | SPHR | Sphere | 633,866 | | 0 | 41.80 | 25.95 | 
+| 46. | STEEM | STEEM | 32,866 | Upbit (331,547)<br />Binance (112,991)<br />HitBTC (90,237)<br />Huobi Global (52,270)<br />Probit (16,315)<br />Poloniex (2,116)<br />BuyUcoin (936)<br />Huobi US (HBUS) (746)<br />Huobi Korea (710)<br />GoPax (373)<br />Daybit (19)<br />OpenLedger DEX (0)<br />Altilly (0)<br />CryTrEx (0)<br />| 608,259 | 71.65 | 51.77 | 
 | 47. | NAV | NAVCoin | 35,503 | Binance (610,305)<br />Upbit (35,511)<br />Poloniex (4,981)<br />CREX24 (72)<br />Altilly (0)<br />Nova Exchange (0)<br />Bisq (0)<br />YoBit (0)<br />CryTrEx (0)<br />| 650,870 | 79.30 | 44.78 | 
 | 48. | USDS | Stable USD | 50 | Vindax (818,873)<br />Binance (63,199)<br />CREX24 (34,761)<br />CODEX (3,935)<br />Idex (0)<br />| 920,768 | 51.65 | 22.70 | 
 | 49. | NXS | Nexus | 49,055 | Binance (993,099)<br />Upbit (49,055)<br />| 1,042,154 | 66.35 | 46.33 | 
