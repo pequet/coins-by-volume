@@ -1,7 +1,7 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | SLS | SaluS | 262 | Vinex (21)<br />YoBit (0)<br />CryptoBridge (0)<br />| 21 | 29.20 | 15.78 | 
-| 2. | PINK | PinkCoin | 384 | SouthXchange (0)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 0 | 51.75 | 32.86 | 
+| 2. | PINK | PinkCoin | 452 | SouthXchange (0)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 0 | 51.75 | 32.86 | 
 | 3. | IOC | I/OCoin | 1,507 | FEX (0)<br />| 0 | 68.00 | 30.47 | 
 | 4. | MUE | MonetaryUnit | 989 | Upbit (989)<br />CoinExchange.io (6)<br />NLexch (3)<br />YoBit (2)<br />CryptoBridge (1)<br />Nova Exchange (0)<br />BitOnBay (0)<br />CryTrEx (0)<br />| 1,000 | 56.95 | 20.24 | 
 | 5. | NLG | Gulden | 2,348 | CoinExchange.io (9)<br />YoBit (0)<br />NLexch (0)<br />CryptoBridge (0)<br />| 9 | 68.35 | 37.61 | 
@@ -26,7 +26,7 @@
 | 24. | RDD | ReddCoin | 15,573 | Upbit (15,573)<br />YoBit (624)<br />CoinExchange.io (224)<br />Trade Satoshi (71)<br />BitOnBay (34)<br />Atomars (1)<br />Nova Exchange (1)<br />Dex-Trade (0)<br />Altilly (0)<br />C-Patex (0)<br />Freiexchange (0)<br />| 16,527 | 66.95 | 48.82 | 
 | 25. | LBC | LBRY Credits | 14,999 | Upbit (15,001)<br />Poloniex (3,220)<br />Instant Bitex (1)<br />Coindeal (0)<br />Nova Exchange (0)<br />| 18,222 | 64.60 | 44.19 | 
 | 26. | FTC | Feathercoin | 1,044 | FinexBox (17,004)<br />QBTC (15,475)<br />Dove Wallet (2,062)<br />Upbit (1,044)<br />CoinExchange.io (13)<br />NLexch (8)<br />OKEx (0)<br />BX Thailand (0)<br />Altilly (0)<br />| 35,599 | 49.80 | 41.45 | 
-| 27. | MORE | More | 56,602 | | 0 |  | 3.04 | 
+| 27. | MORE | More | 57,725 | | 0 |  | 3.04 | 
 | 28. | TUBE | BitTube | 11,004 | QBTC (35,478)<br />Upbit (10,997)<br />TradeOgre (1,088)<br />Bitalong (320)<br />Livecoin (157)<br />CREX24 (34)<br />CryptoBridge (0)<br />| 48,074 | 67.40 | 20.92 | 
 | 29. | EMC2 | Einsteinium | 1,571 | Upbit (77,279)<br />Trade Satoshi (17)<br />DigitalPrice (0)<br />BCEX (0)<br />| 77,296 | 66.20 | 36.71 | 
 | 30. | SIB | Sibcoin | 39,299 | Upbit (39,334)<br />Livecoin (240)<br />YoBit (0)<br />BTC Trade UA (0)<br />| 39,574 | 54.50 | 32.87 | 
