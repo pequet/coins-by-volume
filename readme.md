@@ -1,9 +1,9 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | IOC | I/OCoin | 114 | FEX (0)<br />| 0 | 68.00 | 30.03 | 
-| 2. | PINK | PinkCoin | 490 | SouthXchange (76)<br />Nova Exchange (0)<br />CryTrEx (0)<br />CryptoBridge (0)<br />| 76 | 51.75 | 32.60 | 
-| 3. | RADS | Radium | 1,093 | Upbit (1,093)<br />FinexBox (286)<br />CoinExchange.io (68)<br />CREX24 (23)<br />Livecoin (0)<br />SouthXchange (0)<br />Freiexchange (0)<br />Bisq (0)<br />| 1,470 | 51.55 | 28.22 | 
-| 4. | MORE | More | 2,591 | | 0 |  | 4.26 | 
+| 1. | IOC | I/OCoin | 209 | FEX (0)<br />| 0 | 68.00 | 30.03 | 
+| 2. | PINK | PinkCoin | 452 | SouthXchange (351)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 351 | 51.75 | 32.60 | 
+| 3. | MORE | More | 1,809 | | 0 |  | 4.26 | 
+| 4. | RADS | Radium | 1,093 | Upbit (1,093)<br />FinexBox (286)<br />CoinExchange.io (68)<br />CREX24 (23)<br />Livecoin (0)<br />SouthXchange (0)<br />Freiexchange (0)<br />Bisq (0)<br />| 1,470 | 51.55 | 28.22 | 
 | 5. | NLG | Gulden | 2,798 | CoinExchange.io (26)<br />YoBit (0)<br />CryptoBridge (0)<br />NLexch (0)<br />| 26 | 68.35 | 41.19 | 
 | 6. | CRW | Crown | 1,565 | Upbit (1,565)<br />CoinExchange.io (19)<br />CREX24 (2)<br />YoBit (0)<br />CryptoBridge (0)<br />Braziliex (0)<br />| 1,585 | 71.20 | 36.34 | 
 | 7. | VRC | VeriCoin | 719 | Livecoin (1,732)<br />Upbit (719)<br />CryptoBridge (0)<br />| 2,451 | 61.25 | 37.62 | 
