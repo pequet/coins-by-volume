@@ -1,6 +1,6 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | PINK | PinkCoin | 219 | SouthXchange (15)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 15 | 51.75 | 32.86 | 
+| 1. | PINK | PinkCoin | 384 | SouthXchange (0)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 0 | 51.75 | 32.86 | 
 | 2. | EXCL | ExclusiveCoin | 556 | Upbit (557)<br />CoinExchange.io (47)<br />CryptoBridge (8)<br />OpenLedger DEX (0)<br />| 612 | 51.95 | 26.84 | 
 | 3. | SLS | SaluS | 1,376 | Vinex (21)<br />YoBit (0)<br />CryptoBridge (0)<br />| 21 | 29.20 | 15.78 | 
 | 4. | IOC | I/OCoin | 1,493 | FEX (0)<br />| 0 | 68.00 | 30.47 | 
@@ -28,7 +28,7 @@
 | 26. | RDD | ReddCoin | 14,187 | Upbit (14,178)<br />YoBit (554)<br />CoinExchange.io (226)<br />Trade Satoshi (74)<br />BitOnBay (34)<br />Atomars (1)<br />Nova Exchange (1)<br />Dex-Trade (0)<br />Altilly (0)<br />C-Patex (0)<br />Freiexchange (0)<br />| 15,066 | 66.95 | 48.82 | 
 | 27. | FTC | Feathercoin | 1,004 | FinexBox (16,904)<br />QBTC (15,678)<br />Dove Wallet (2,068)<br />Upbit (1,005)<br />CoinExchange.io (13)<br />NLexch (8)<br />BX Thailand (0)<br />OKEx (0)<br />Altilly (0)<br />| 35,669 | 49.80 | 41.45 | 
 | 28. | TUBE | BitTube | 2,238 | QBTC (36,487)<br />Upbit (2,247)<br />TradeOgre (885)<br />Bitalong (353)<br />Livecoin (168)<br />CREX24 (36)<br />CryptoBridge (0)<br />| 40,176 | 67.40 | 20.92 | 
-| 29. | MORE | More | 55,613 | | 0 |  | 3.04 | 
+| 29. | MORE | More | 56,602 | | 0 |  | 3.04 | 
 | 30. | SIB | Sibcoin | 35,541 | Upbit (34,470)<br />Livecoin (234)<br />YoBit (0)<br />BTC Trade UA (0)<br />| 34,704 | 54.50 | 32.87 | 
 | 31. | EMC2 | Einsteinium | 1,343 | Upbit (68,889)<br />Trade Satoshi (22)<br />DigitalPrice (0)<br />BCEX (0)<br />| 68,911 | 66.20 | 36.71 | 
 | 32. | WAXP | WAXP | 28,731 | Upbit (64,835)<br />HitBTC (74)<br />| 64,909 | 69.80 | 28.02 | 
