@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | SLS | SaluS | 262 | Vinex (21)<br />YoBit (0)<br />CryptoBridge (0)<br />| 21 | 29.20 | 15.78 | 
 | 2. | PINK | PinkCoin | 384 | SouthXchange (0)<br />Nova Exchange (0)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 0 | 51.75 | 32.86 | 
-| 3. | IOC | I/OCoin | 1,493 | FEX (0)<br />| 0 | 68.00 | 30.47 | 
+| 3. | IOC | I/OCoin | 1,507 | FEX (0)<br />| 0 | 68.00 | 30.47 | 
 | 4. | MUE | MonetaryUnit | 989 | Upbit (989)<br />CoinExchange.io (6)<br />NLexch (3)<br />YoBit (2)<br />CryptoBridge (1)<br />Nova Exchange (0)<br />BitOnBay (0)<br />CryTrEx (0)<br />| 1,000 | 56.95 | 20.24 | 
 | 5. | NLG | Gulden | 2,348 | CoinExchange.io (9)<br />YoBit (0)<br />NLexch (0)<br />CryptoBridge (0)<br />| 9 | 68.35 | 37.61 | 
 | 6. | EXCL | ExclusiveCoin | 1,256 | Upbit (1,256)<br />CoinExchange.io (49)<br />CryptoBridge (9)<br />OpenLedger DEX (0)<br />| 1,314 | 51.95 | 26.84 | 
@@ -45,8 +45,8 @@
 | 43. | VTC | Vertcoin | 13,490 | CoinEgg (174,396)<br />QBTC (151,387)<br />FinexBox (33,302)<br />Upbit (20,828)<br />Dove Wallet (1,936)<br />Poloniex (716)<br />SouthXchange (4)<br />Altilly (0)<br />Nova Exchange (0)<br />NLexch (0)<br />CryTrEx (0)<br />CryptoBridge (0)<br />| 382,569 | 70.55 | 47.95 | 
 | 44. | GEO | GeoCoin | 424,387 | CryptoBridge (73)<br />| 73 | 36.55 | 8.69 | 
 | 45. | NAV | NAVCoin | 30,624 | Binance (548,486)<br />Upbit (31,139)<br />Poloniex (5,093)<br />CREX24 (42)<br />Altilly (0)<br />Nova Exchange (0)<br />YoBit (0)<br />Bisq (0)<br />CryTrEx (0)<br />| 584,760 | 79.30 | 43.74 | 
-| 46. | STEEM | STEEM | 37,045 | Upbit (351,182)<br />Binance (110,818)<br />HitBTC (98,401)<br />Huobi Global (46,553)<br />Probit (14,423)<br />Poloniex (2,556)<br />BuyUcoin (936)<br />Huobi US (HBUS) (748)<br />Huobi Korea (607)<br />GoPax (352)<br />Daybit (19)<br />OpenLedger DEX (0)<br />Altilly (0)<br />CryTrEx (0)<br />| 626,593 | 71.65 | 51.77 | 
-| 47. | SPHR | Sphere | 678,853 | | 0 | 41.80 | 20.77 | 
+| 46. | SPHR | Sphere | 652,269 | | 0 | 41.80 | 20.77 | 
+| 47. | STEEM | STEEM | 37,045 | Upbit (351,182)<br />Binance (110,818)<br />HitBTC (98,401)<br />Huobi Global (46,553)<br />Probit (14,423)<br />Poloniex (2,556)<br />BuyUcoin (936)<br />Huobi US (HBUS) (748)<br />Huobi Korea (607)<br />GoPax (352)<br />Daybit (19)<br />OpenLedger DEX (0)<br />Altilly (0)<br />CryTrEx (0)<br />| 626,593 | 71.65 | 51.77 | 
 | 48. | USDS | Stable USD | 50 | Vindax (826,587)<br />Binance (71,597)<br />CREX24 (33,596)<br />CODEX (4,742)<br />Idex (0)<br />| 936,522 | 51.65 | 22.63 | 
 | 49. | NXS | Nexus | 53,496 | Binance (986,388)<br />Upbit (53,496)<br />| 1,039,884 | 66.35 | 44.82 | 
 | 50. | EDR | Endor | 12,916 | Hotbit (1,127,531)<br />Upbit (309,385)<br />Bitsonic (98,095)<br />CoinTiger (35,379)<br />Bitforex (1,198)<br />Digifinex (550)<br />DDEX (237)<br />Trade.io (127)<br />Idex (98)<br />Bilaxy (22)<br />CoinAll (0)<br />BitMart (0)<br />LATOKEN (0)<br />CoinBene (0)<br />ABCC (0)<br />Coinbit (0)<br />TokenJar (0)<br />| 1,572,622 |  | 31.53 | 
