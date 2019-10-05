@@ -2,8 +2,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | IOC | I/OCoin | 435 | FEX (0)<br />| 0 | 68.00 | 29.98 | 
 | 2. | RADS | Radium | 73 | FinexBox (291)<br />Upbit (73)<br />SouthXchange (0)<br />CREX24 (0)<br />Livecoin (0)<br />CoinExchange.io (0)<br />Freiexchange (0)<br />Bisq (0)<br />| 364 | 51.55 | 28.31 | 
-| 3. | PINK | PinkCoin | 634 | CryptoBridge (30)<br />Nova Exchange (8)<br />SouthXchange (5)<br />CryTrEx (0)<br />| 42 | 51.75 | 32.62 | 
-| 4. | MORE | More | 768 | | 0 |  | 3.83 | 
+| 3. | MORE | More | 614 | | 0 |  | 3.83 | 
+| 4. | PINK | PinkCoin | 698 | CryptoBridge (30)<br />Nova Exchange (8)<br />SouthXchange (0)<br />CryTrEx (0)<br />| 37 | 51.75 | 32.62 | 
 | 5. | NLG | Gulden | 1,178 | CoinExchange.io (48)<br />YoBit (1)<br />NLexch (0)<br />CryptoBridge (0)<br />| 49 | 68.35 | 41.18 | 
 | 6. | XST | Stealth | 1,919 | Altilly (0)<br />SouthXchange (0)<br />Vinex (0)<br />| 0 | 58.25 | 31.91 | 
 | 7. | GEO | GeoCoin | 1,977 | CryptoBridge (0)<br />| 0 | 36.55 | 11.99 | 
