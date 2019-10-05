@@ -1,8 +1,8 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | IOC | I/OCoin | 164 | FEX (0)<br />| 0 | 68.00 | 29.98 | 
-| 2. | PINK | PinkCoin | 663 | CryptoBridge (30)<br />SouthXchange (5)<br />Nova Exchange (0)<br />CryTrEx (0)<br />| 35 | 51.75 | 32.62 | 
-| 3. | MORE | More | 819 | | 0 |  | 3.83 | 
+| 1. | IOC | I/OCoin | 57 | FEX (0)<br />| 0 | 68.00 | 29.98 | 
+| 2. | PINK | PinkCoin | 634 | CryptoBridge (30)<br />Nova Exchange (8)<br />SouthXchange (5)<br />CryTrEx (0)<br />| 42 | 51.75 | 32.62 | 
+| 3. | MORE | More | 768 | | 0 |  | 3.83 | 
 | 4. | NLG | Gulden | 1,136 | CoinExchange.io (48)<br />YoBit (1)<br />NLexch (0)<br />CryptoBridge (0)<br />| 49 | 68.35 | 41.18 | 
 | 5. | SLS | SaluS | 1,272 | Vinex (0)<br />YoBit (0)<br />CryptoBridge (0)<br />| 0 | 29.20 | 15.65 | 
 | 6. | GEO | GeoCoin | 2,438 | CryptoBridge (0)<br />| 0 | 36.55 | 11.99 | 
