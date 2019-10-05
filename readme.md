@@ -1,6 +1,6 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | IOC | I/OCoin | 57 | FEX (0)<br />| 0 | 68.00 | 29.98 | 
+| 1. | IOC | I/OCoin | 435 | FEX (0)<br />| 0 | 68.00 | 29.98 | 
 | 2. | RADS | Radium | 73 | FinexBox (291)<br />Upbit (73)<br />SouthXchange (0)<br />CREX24 (0)<br />Livecoin (0)<br />CoinExchange.io (0)<br />Freiexchange (0)<br />Bisq (0)<br />| 364 | 51.55 | 28.31 | 
 | 3. | PINK | PinkCoin | 634 | CryptoBridge (30)<br />Nova Exchange (8)<br />SouthXchange (5)<br />CryTrEx (0)<br />| 42 | 51.75 | 32.62 | 
 | 4. | MORE | More | 768 | | 0 |  | 3.83 | 
