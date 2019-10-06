@@ -42,7 +42,7 @@
 | 40. | VIA | ViaCoin  | 2,708 | FEX (112,389)<br />Binance (77,648)<br />Upbit (2,708)<br />Poloniex (952)<br />YoBit (0)<br />Nova Exchange (10)<br />BitOnBay (0)<br />| 193,696 | 66.55 | 40.44 | 
 | 41. | XHV | Haven Protocol | 8,460 | TOKOK (195,267)<br />Upbit (8,460)<br />TradeOgre (1,462)<br />Bitalong (701)<br />Idax (0)<br />SouthXchange (0)<br />| 205,890 |  | 36.30 | 
 | 42. | EMC2 | Einsteinium | 11,860 | Upbit (214,158)<br />Trade Satoshi (37)<br />DigitalPrice (0)<br />BCEX (0)<br />| 214,196 | 66.20 | 35.81 | 
-| 43. | BURST | BURSTCoin | 80,973 | QBTC (84,519)<br />Upbit (80,922)<br />Eterbase (1,461)<br />Livecoin (223)<br />STEX (0)<br />| 167,125 | 79.10 | 39.91 | 
+| 43. | BURST | BURSTCoin | 68,836 | QBTC (84,592)<br />Upbit (68,874)<br />Eterbase (15,857)<br />Livecoin (213)<br />STEX (0)<br />| 169,536 | 79.10 | 39.91 | 
 | 44. | WAXP | WAXP | 45,957 | Upbit (233,100)<br />HitBTC (1,685)<br />| 234,785 | 69.80 | 28.44 | 
 | 45. | VTC | Vertcoin | 22,539 | CoinEgg (169,293)<br />QBTC (165,855)<br />Upbit (62,651)<br />FinexBox (30,638)<br />Poloniex (4,679)<br />Dove Wallet (1,604)<br />SouthXchange (320)<br />CryptoBridge (8)<br />Nova Exchange (0)<br />Altilly (0)<br />NLexch (0)<br />CryTrEx (0)<br />| 435,049 | 70.55 | 47.62 | 
 | 46. | STRAT | Stratis | 36,273 | Binance (174,901)<br />Upbit (163,328)<br />HitBTC (81,329)<br />Bithumb (13,112)<br />Poloniex (12,238)<br />Livecoin (5,376)<br />BuyUcoin (3,123)<br />SouthXchange (137)<br />CREX24 (8)<br />Trade Satoshi (0)<br />TokenJar (0)<br />CryTrEx (0)<br />| 453,551 | 74.35 | 51.47 | 
