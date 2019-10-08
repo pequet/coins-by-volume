@@ -28,10 +28,10 @@
 | 26. | TUBE | BitTube | 1,585 | QBTC (34,361)<br />Upbit (1,597)<br />TradeOgre (901)<br />Bitalong (406)<br />Livecoin (244)<br />CREX24 (24)<br />| 37,532 | 67.40 | 20.34 | 
 | 27. | FTC | Feathercoin | 7,349 | QBTC (15,699)<br />FinexBox (15,275)<br />Upbit (7,187)<br />Dove Wallet (1,521)<br />CoinExchange.io (5)<br />NLexch (4)<br />OKEx (0)<br />| 39,691 | 49.80 | 40.31 | 
 | 28. | RDD | ReddCoin | 25,096 | Upbit (25,092)<br />CoinExchange.io (598)<br />YoBit (78)<br />Nova Exchange (18)<br />Trade Satoshi (10)<br />Altilly (0)<br />Atomars (0)<br />Dex-Trade (0)<br />| 25,796 | 66.95 | 46.67 | 
-| 29. | GEO | GeoCoin | 60,690 | CryptoBridge (131)<br />| 131 | 36.55 | 11.88 | 
-| 30. | SBD | SteemDollars | 28,424 | Upbit (47,890)<br />GoPax (7)<br />HitBTC (6)<br />CryTrEx (0)<br />| 47,903 | 80.00 | 48.19 | 
-| 31. | CURE | CureCoin | 76,770 | Livecoin (2,338)<br />Trade Satoshi (22)<br />| 2,361 | 50.65 | 38.18 | 
-| 32. | SPHR | Sphere | 82,786 | | 0 | 41.80 | 25.88 | 
+| 29. | SPHR | Sphere | 57,329 | | 0 | 41.80 | 25.88 | 
+| 30. | GEO | GeoCoin | 60,690 | CryptoBridge (131)<br />| 131 | 36.55 | 11.88 | 
+| 31. | SBD | SteemDollars | 28,424 | Upbit (47,890)<br />GoPax (7)<br />HitBTC (6)<br />CryTrEx (0)<br />| 47,903 | 80.00 | 48.19 | 
+| 32. | CURE | CureCoin | 76,770 | Livecoin (2,338)<br />Trade Satoshi (22)<br />| 2,361 | 50.65 | 38.18 | 
 | 33. | EXP | Expanse | 45,232 | Upbit (45,593)<br />Dove Wallet (1,954)<br />HitBTC (421)<br />CryTrEx (87)<br />Graviex (18)<br />| 48,073 | 56.20 | 40.00 | 
 | 34. | SPND | Spendcoin | 33,689 | Upbit (33,697)<br />Bitsdaq (33,687)<br />Bitsonic (3,486)<br />KuCoin (943)<br />| 71,813 | 66.65 | 28.12 | 
 | 35. | BURST | BURSTCoin | 10,109 | QBTC (84,397)<br />Upbit (10,107)<br />Eterbase (3,187)<br />Livecoin (249)<br />STEX (0)<br />| 97,940 | 79.10 | 39.87 | 
