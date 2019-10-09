@@ -30,7 +30,7 @@
 | 28. | XDN | DigitalNote | 19,933 | Upbit (19,932)<br />FinexBox (214)<br />HitBTC (114)<br />| 20,260 | 55.15 | 31.27 | 
 | 29. | FTC | Feathercoin | 1,029 | FinexBox (16,050)<br />QBTC (15,283)<br />Dove Wallet (14,034)<br />Upbit (1,028)<br />CoinExchange.io (35)<br />OKEx (0)<br />NLexch (0)<br />| 46,429 | 49.80 | 40.31 | 
 | 30. | AEON | Aeon | 5,753 | HitBTC (47,905)<br />TradeOgre (2,516)<br />Letsdocoinz (0)<br />| 50,421 | 46.25 | 30.29 | 
-| 31. | RDD | ReddCoin | 47,041 | Upbit (47,065)<br />CoinExchange.io (54)<br />YoBit (46)<br />Trade Satoshi (33)<br />Nova Exchange (18)<br />Altilly (0)<br />Atomars (0)<br />Dex-Trade (0)<br />| 47,216 | 66.95 | 46.67 | 
+| 31. | RDD | ReddCoin | 47,041 | Upbit (47,065)<br />CoinExchange.io (54)<br />YoBit (53)<br />Trade Satoshi (33)<br />Nova Exchange (18)<br />Altilly (0)<br />Atomars (0)<br />Dex-Trade (0)<br />| 47,223 | 66.95 | 46.67 | 
 | 32. | EXP | Expanse | 71,756 | Upbit (71,866)<br />Dove Wallet (2,045)<br />CryTrEx (129)<br />HitBTC (48)<br />Graviex (8)<br />| 74,097 | 56.20 | 40.00 | 
 | 33. | PPC | Peercoin | 4,183 | FinexBox (108,763)<br />Livecoin (22,216)<br />CoinEgg (18,479)<br />HitBTC (18,284)<br />Hotbit (15,384)<br />TheRockTrading (916)<br />SouthXchange (280)<br />BTCSquare (82)<br />Trade Satoshi (73)<br />YoBit (41)<br />CryTrEx (24)<br />Altilly (0)<br />CryptoBridge (0)<br />| 184,542 | 74.35 | 46.13 | 
 | 34. | LBC | LBRY Credits | 49,651 | Poloniex (107,108)<br />Upbit (49,676)<br />Coindeal (0)<br />Nova Exchange (0)<br />Instant Bitex (0)<br />| 156,784 | 64.60 | 44.00 | 
