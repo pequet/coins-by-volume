@@ -3,14 +3,14 @@
 | 1. | SLS | SaluS | 315 | Vinex (0)<br />YoBit (0)<br />CryptoBridge (0)<br />| 0 | 29.20 | 15.54 | 
 | 2. | PINK | PinkCoin | 546 | SouthXchange (0)<br />Nova Exchange (4)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 0 | 51.75 | 32.51 | 
 | 3. | MORE | More | 568 | | 0 |  | 3.83 | 
-| 4. | CRW | Crown | 1,061 | Upbit (1,066)<br />CREX24 (0)<br />YoBit (0)<br />CoinExchange.io (0)<br />CryptoBridge (0)<br />| 1,066 | 71.20 | 35.72 | 
-| 5. | EXCL | ExclusiveCoin | 1,325 | Upbit (1,325)<br />CoinExchange.io (56)<br />CryptoBridge (0)<br />| 1,381 | 51.95 | 26.57 | 
-| 6. | VRC | VeriCoin | 625 | Livecoin (1,591)<br />Upbit (625)<br />CryptoBridge (0)<br />| 2,216 | 61.25 | 37.45 | 
-| 7. | MER | Mercury | 3,010 | Waves Platform (20)<br />Tidex (7)<br />| 26 | 52.15 | 21.40 | 
-| 8. | OK | OkCash | 1,269 | Upbit (1,269)<br />FinexBox (535)<br />Unnamed (9)<br />Birake (3)<br />Trade Satoshi (2)<br />STEX (0)<br />YoBit (0)<br />Nova Exchange (0)<br />| 1,818 | 60.65 | 33.21 | 
-| 9. | SHIFT | Shift | 1,226 | Upbit (1,224)<br />Livecoin (744)<br />Altilly (4)<br />Idax (0)<br />| 1,972 | 60.55 | 34.35 | 
-| 10. | UBQ | Ubiq | 1,615 | Upbit (1,616)<br />CryTrEx (2)<br />| 1,618 | 64.10 | 28.10 | 
-| 11. | MEME | Memetic | 1,775 | Upbit (1,774)<br />CoinExchange.io (0)<br />| 1,774 | 47.40 | 32.40 | 
+| 4. | IOC | I/OCoin | 907 | | 0 | 68.00 | 29.90 | 
+| 5. | CRW | Crown | 1,061 | Upbit (1,066)<br />CREX24 (0)<br />YoBit (0)<br />CoinExchange.io (0)<br />CryptoBridge (0)<br />| 1,066 | 71.20 | 35.72 | 
+| 6. | EXCL | ExclusiveCoin | 1,325 | Upbit (1,325)<br />CoinExchange.io (56)<br />CryptoBridge (0)<br />| 1,381 | 51.95 | 26.57 | 
+| 7. | VRC | VeriCoin | 625 | Livecoin (1,591)<br />Upbit (625)<br />CryptoBridge (0)<br />| 2,216 | 61.25 | 37.45 | 
+| 8. | MER | Mercury | 3,010 | Waves Platform (20)<br />Tidex (7)<br />| 26 | 52.15 | 21.40 | 
+| 9. | OK | OkCash | 1,269 | Upbit (1,269)<br />FinexBox (535)<br />Unnamed (9)<br />Birake (3)<br />Trade Satoshi (2)<br />STEX (0)<br />YoBit (0)<br />Nova Exchange (0)<br />| 1,818 | 60.65 | 33.21 | 
+| 10. | SHIFT | Shift | 1,226 | Upbit (1,224)<br />Livecoin (744)<br />Altilly (4)<br />Idax (0)<br />| 1,972 | 60.55 | 34.35 | 
+| 11. | UBQ | Ubiq | 1,615 | Upbit (1,616)<br />CryTrEx (2)<br />| 1,618 | 64.10 | 28.10 | 
 | 12. | NLG | Gulden | 3,718 | CoinExchange.io (12)<br />YoBit (0)<br />| 12 | 68.35 | 40.97 | 
 | 13. | MUE | MonetaryUnit | 2,046 | Upbit (2,046)<br />CryTrEx (2)<br />YoBit (0)<br />CryptoBridge (3)<br />CoinExchange.io (0)<br />Nova Exchange (0)<br />NLexch (0)<br />| 2,048 | 56.95 | 20.03 | 
 | 14. | XST | Stealth | 5,372 | | 0 | 58.25 | 31.82 | 
