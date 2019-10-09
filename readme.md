@@ -30,7 +30,7 @@
 | 28. | XDN | DigitalNote | 22,427 | Upbit (22,427)<br />FinexBox (206)<br />HitBTC (106)<br />| 22,739 | 55.15 | 31.27 | 
 | 29. | AEON | Aeon | 5,895 | HitBTC (39,324)<br />TradeOgre (1,248)<br />Letsdocoinz (0)<br />| 40,572 | 46.25 | 30.29 | 
 | 30. | SPND | Spendcoin | 24,684 | Bitsdaq (24,685)<br />Upbit (24,651)<br />Bitsonic (1,525)<br />KuCoin (365)<br />| 51,226 | 66.65 | 28.12 | 
-| 31. | RDD | ReddCoin | 42,248 | Upbit (39,023)<br />YoBit (70)<br />CoinExchange.io (49)<br />Trade Satoshi (19)<br />Nova Exchange (18)<br />Altilly (0)<br />Dex-Trade (0)<br />Atomars (0)<br />| 39,179 | 66.95 | 46.67 | 
+| 31. | RDD | ReddCoin | 42,248 | Upbit (39,023)<br />YoBit (68)<br />CoinExchange.io (49)<br />Trade Satoshi (19)<br />Nova Exchange (18)<br />Altilly (0)<br />Dex-Trade (0)<br />Atomars (0)<br />| 39,177 | 66.95 | 46.67 | 
 | 32. | CURE | CureCoin | 91,157 | Livecoin (5,956)<br />Trade Satoshi (53)<br />| 6,009 | 50.65 | 38.18 | 
 | 33. | BURST | BURSTCoin | 26,236 | QBTC (84,726)<br />Upbit (26,224)<br />Eterbase (3,528)<br />Livecoin (325)<br />STEX (0)<br />| 114,803 | 79.10 | 39.87 | 
 | 34. | LBC | LBRY Credits | 30,502 | Poloniex (80,283)<br />Upbit (30,488)<br />Coindeal (0)<br />Nova Exchange (0)<br />Instant Bitex (0)<br />| 110,771 | 64.60 | 44.00 | 
