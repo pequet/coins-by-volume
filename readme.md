@@ -17,7 +17,7 @@
 | 15. | SPHR | Sphere | 9,336 | | 0 | 41.80 | 25.88 | 
 | 16. | UBQ | Ubiq | 4,825 | Upbit (4,846)<br />CryTrEx (10)<br />| 4,856 | 64.10 | 28.10 | 
 | 17. | XMY | Myriad | 6,315 | Dove Wallet (2,580)<br />FinexBox (1,717)<br />NLexch (0)<br />Trade Satoshi (0)<br />| 4,297 | 61.85 | 38.45 | 
-| 18. | MUE | MonetaryUnit | 5,400 | Upbit (5,400)<br />CryTrEx (10)<br />CoinExchange.io (1)<br />NLexch (0)<br />CryptoBridge (0)<br />YoBit (0)<br />| 5,411 | 56.95 | 20.03 | 
+| 18. | MUE | MonetaryUnit | 5,400 | Upbit (5,400)<br />CryTrEx (10)<br />CoinExchange.io (1)<br />NLexch (0)<br />YoBit (0)<br />CryptoBridge (0)<br />| 5,411 | 56.95 | 20.03 | 
 | 19. | CURE | CureCoin | 5,605 | Livecoin (5,219)<br />Trade Satoshi (22)<br />| 5,241 | 50.65 | 38.18 | 
 | 20. | UKG | UnikoinGold | 5,352 | Upbit (7,203)<br />YoBit (45)<br />| 7,248 | 62.65 | 27.71 | 
 | 21. | SBD | SteemDollars | 5,757 | Upbit (14,581)<br />HitBTC (139)<br />GoPax (18)<br />CryTrEx (12)<br />| 14,750 | 80.00 | 48.19 | 
