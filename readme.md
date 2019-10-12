@@ -14,7 +14,7 @@
 | 12. | XST | Stealth | 8,071 | SouthXchange (0)<br />| 0 | 58.25 | 31.82 | 
 | 13. | AEON | Aeon | 8,104 | HitBTC (1,528)<br />TradeOgre (1,363)<br />| 2,891 | 46.25 | 30.29 | 
 | 14. | FLO | FLO | 4,236 | TOKOK (16,300)<br />Freiexchange (0)<br />CoinExchange.io (0)<br />Nova Exchange (0)<br />| 16,300 | 62.50 | 32.45 | 
-| 15. | MUE | MonetaryUnit | 1,119 | Upbit Indonesia  (28,579)<br />Upbit (1,119)<br />CryTrEx (4)<br />YoBit (1)<br />CryptoBridge (0)<br />CoinExchange.io (0)<br />NLexch (0)<br />| 29,702 | 56.95 | 20.03 | 
+| 15. | MUE | MonetaryUnit | 1,119 | Upbit Indonesia  (28,579)<br />Upbit (1,119)<br />CryTrEx (4)<br />YoBit (1)<br />CoinExchange.io (0)<br />NLexch (0)<br />CryptoBridge (0)<br />| 29,702 | 56.95 | 20.03 | 
 | 16. | OK | OkCash | 2,729 | Upbit Indonesia  (34,994)<br />Upbit (2,745)<br />FinexBox (500)<br />Unnamed (88)<br />YoBit (2)<br />Birake (1)<br />Trade Satoshi (0)<br />STEX (0)<br />Nova Exchange (0)<br />| 38,331 | 60.65 | 33.21 | 
 | 17. | SHIFT | Shift | 1,432 | Upbit Indonesia  (37,512)<br />Upbit (1,432)<br />Livecoin (1,123)<br />Altilly (1)<br />| 40,067 | 60.55 | 34.35 | 
 | 18. | UBQ | Ubiq | 2,270 | Upbit Indonesia  (37,482)<br />Upbit (2,272)<br />CryTrEx (2)<br />| 39,756 | 64.10 | 28.10 | 
@@ -38,7 +38,7 @@
 | 36. | XHV | Haven Protocol | 2,583 | TOKOK (195,607)<br />Bitalong (2,938)<br />Upbit (2,582)<br />TradeOgre (860)<br />SouthXchange (0)<br />Idax (0)<br />| 201,987 |  | 36.14 | 
 | 37. | XDN | DigitalNote | 39,794 | Upbit Indonesia  (129,124)<br />Upbit (39,751)<br />HitBTC (842)<br />FinexBox (233)<br />Catex (16)<br />| 169,966 | 55.15 | 31.27 | 
 | 38. | VIA | ViaCoin  | 1,845 | Binance (99,022)<br />Upbit Indonesia  (56,522)<br />FEX (51,143)<br />Upbit (1,845)<br />Poloniex (480)<br />YoBit (13)<br />Nova Exchange (0)<br />| 209,025 | 66.55 | 40.72 | 
-| 39. | RDD | ReddCoin | 66,880 | Upbit Indonesia  (143,541)<br />Upbit (66,885)<br />YoBit (315)<br />CoinExchange.io (33)<br />Nova Exchange (18)<br />Trade Satoshi (8)<br />Altilly (0)<br />| 210,801 | 66.95 | 46.67 | 
+| 39. | RDD | ReddCoin | 66,880 | Upbit Indonesia  (143,541)<br />Upbit (66,885)<br />YoBit (312)<br />CoinExchange.io (33)<br />Nova Exchange (18)<br />Trade Satoshi (8)<br />Altilly (0)<br />| 210,797 | 66.95 | 46.67 | 
 | 40. | WAXP | WAXP | 51,533 | Upbit (158,613)<br />Upbit Indonesia  (80,263)<br />HitBTC (87)<br />| 238,963 | 69.80 | 28.40 | 
 | 41. | SOLVE | Solve.Care | 18,947 | Upbit (210,125)<br />Upbit Indonesia  (64,397)<br />Bitsdaq (18,045)<br />KuCoin (1,045)<br />Bitoffer (781)<br />Trade.io (779)<br />| 295,172 |  | 26.34 | 
 | 42. | RADS | Radium | 65,539 | Upbit Indonesia  (190,471)<br />Upbit (65,547)<br />FinexBox (1,370)<br />CoinExchange.io (86)<br />SouthXchange (82)<br />CREX24 (81)<br />Livecoin (9)<br />| 257,646 | 51.55 | 27.71 | 
