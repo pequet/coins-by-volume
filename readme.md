@@ -14,7 +14,7 @@
 | 12. | XMY | Myriad | 783 | FinexBox (4,325)<br />Dove Wallet (2,492)<br />Trade Satoshi (0)<br />NLexch (0)<br />| 6,817 | 61.85 | 38.45 | 
 | 13. | AEON | Aeon | 9,991 | TradeOgre (1,551)<br />HitBTC (752)<br />| 2,303 | 46.25 | 30.29 | 
 | 14. | FLO | FLO | 6,611 | TOKOK (14,785)<br />CoinExchange.io (0)<br />Nova Exchange (0)<br />Freiexchange (0)<br />| 14,785 | 62.50 | 32.45 | 
-| 15. | MUE | MonetaryUnit | 1,995 | Upbit Indonesia  (30,103)<br />Upbit (1,993)<br />CoinExchange.io (5)<br />CryptoBridge (0)<br />YoBit (0)<br />NLexch (0)<br />CryTrEx (0)<br />| 32,100 | 56.95 | 20.03 | 
+| 15. | MUE | MonetaryUnit | 1,995 | Upbit Indonesia  (30,103)<br />Upbit (1,993)<br />CoinExchange.io (5)<br />YoBit (0)<br />NLexch (0)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 32,100 | 56.95 | 20.03 | 
 | 16. | EXCL | ExclusiveCoin | 763 | Upbit Indonesia  (37,545)<br />Upbit (763)<br />CoinExchange.io (0)<br />CryptoBridge (0)<br />| 38,308 | 51.95 | 26.57 | 
 | 17. | TUBE | BitTube | 4,689 | QBTC (28,857)<br />Upbit (4,689)<br />TradeOgre (891)<br />Bitalong (549)<br />Livecoin (257)<br />CREX24 (41)<br />| 35,284 | 67.40 | 20.34 | 
 | 18. | SHIFT | Shift |  | Upbit Indonesia  (37,512)<br />Upbit (1,780)<br />Livecoin (938)<br />Altilly (0)<br />| 40,230 | 60.55 | 34.35 | 
