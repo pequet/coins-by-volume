@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | MORE | More | 251 | | 0 |  | 3.83 | 
 | 2. | SLS | SaluS | 1,127 | YoBit (0)<br />| 0 | 29.20 | 15.54 | 
-| 3. | PINK | PinkCoin | 1,283 | SouthXchange (15)<br />CryTrEx (0)<br />| 15 | 51.75 | 32.51 | 
+| 3. | PINK | PinkCoin | 1,140 | SouthXchange (15)<br />CryTrEx (0)<br />| 15 | 51.75 | 32.51 | 
 | 4. | IOC | I/OCoin | 1,368 | | 0 | 68.00 | 29.90 | 
 | 5. | SPHR | Sphere | 1,534 | | 0 | 41.80 | 25.88 | 
 | 6. | MER | Mercury | 1,488 | Waves Platform (49)<br />Tidex (0)<br />| 49 | 52.15 | 21.40 | 
@@ -19,9 +19,9 @@
 | 17. | TUBE | BitTube | 3,202 | QBTC (31,224)<br />Upbit (3,202)<br />TradeOgre (332)<br />Livecoin (285)<br />Bitalong (248)<br />CREX24 (35)<br />| 35,326 | 67.40 | 20.34 | 
 | 18. | SHIFT | Shift |  | Upbit Indonesia  (37,512)<br />Upbit (1,780)<br />Livecoin (1,480)<br />Altilly (0)<br />| 40,772 | 60.55 | 34.35 | 
 | 19. | UBQ | Ubiq | 3,407 | Upbit Indonesia  (40,802)<br />Upbit (3,419)<br />CryTrEx (0)<br />| 44,221 | 64.10 | 28.10 | 
-| 20. | OK | OkCash | 12,700 | Upbit Indonesia  (41,456)<br />Upbit (12,799)<br />FinexBox (637)<br />Unnamed (88)<br />STEX (52)<br />Trade Satoshi (2)<br />YoBit (0)<br />Birake (0)<br />| 55,033 | 60.65 | 33.21 | 
-| 21. | SBD | SteemDollars | 121 | Upbit Indonesia  (65,040)<br />Upbit (3,278)<br />GoPax (18)<br />HitBTC (14)<br />CryTrEx (0)<br />| 68,350 | 80.00 | 48.19 | 
-| 22. | VRC | VeriCoin | 9,460 | Upbit Indonesia  (49,066)<br />Upbit (9,343)<br />Livecoin (946)<br />| 59,356 | 61.25 | 37.45 | 
+| 20. | SBD | SteemDollars | 121 | Upbit Indonesia  (65,040)<br />Upbit (3,278)<br />GoPax (18)<br />HitBTC (14)<br />CryTrEx (0)<br />| 68,350 | 80.00 | 48.19 | 
+| 21. | VRC | VeriCoin | 9,460 | Upbit Indonesia  (49,066)<br />Upbit (9,343)<br />Livecoin (946)<br />| 59,356 | 61.25 | 37.45 | 
+| 22. | OK | OkCash | 15,172 | Upbit Indonesia  (42,027)<br />Upbit (15,172)<br />FinexBox (620)<br />Unnamed (88)<br />STEX (47)<br />Trade Satoshi (2)<br />YoBit (0)<br />Birake (0)<br />| 57,956 | 60.65 | 33.21 | 
 | 23. | FTC | Feathercoin | 1,232 | Upbit Indonesia  (57,667)<br />QBTC (17,546)<br />FinexBox (16,045)<br />Dove Wallet (1,956)<br />Upbit (1,231)<br />CoinExchange.io (20)<br />OKEx (0)<br />NLexch (0)<br />| 94,465 | 49.80 | 40.31 | 
 | 24. | RDD | ReddCoin | 11,188 | Upbit Indonesia  (73,183)<br />Upbit (11,190)<br />YoBit (74)<br />CoinExchange.io (68)<br />Trade Satoshi (12)<br />Freiexchange (0)<br />Altilly (0)<br />| 84,526 | 66.95 | 46.67 | 
 | 25. | CRW | Crown | 22,946 | Upbit Indonesia  (51,080)<br />Upbit (22,441)<br />CREX24 (13)<br />YoBit (0)<br />CoinExchange.io (0)<br />CryptoBridge (0)<br />| 73,534 | 71.20 | 35.72 | 
