@@ -6,7 +6,7 @@
 | 4. | MER | Mercury | 282 | Waves Platform (55)<br />Tidex (0)<br />| 55 | 52.15 | 19.02 | 
 | 5. | GEO | GeoCoin | 375 | CryptoBridge (0)<br />| 0 | 36.55 | 9.56 | 
 | 6. | SLS | SaluS | 1,106 | YoBit (0)<br />| 0 | 29.20 | 15.65 | 
-| 7. | SPHR | Sphere | 1,501 | | 0 | 41.80 | 21.79 | 
+| 7. | SPHR | Sphere | 1,687 | | 0 | 41.80 | 21.79 | 
 | 8. | NLG | Gulden | 1,697 | YoBit (0)<br />CoinExchange.io (0)<br />NLexch (0)<br />| 0 | 68.35 | 41.22 | 
 | 9. | XST | Stealth | 3,428 | SouthXchange (54)<br />| 54 | 58.25 | 32.19 | 
 | 10. | AEON | Aeon | 3,869 | TradeOgre (574)<br />HitBTC (400)<br />Letsdocoinz (0)<br />| 974 | 46.25 | 29.71 | 
