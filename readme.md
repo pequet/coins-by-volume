@@ -13,7 +13,7 @@
 | 11. | XMY | Myriad | 1,237 | FinexBox (2,967)<br />Dove Wallet (2,417)<br />Trade Satoshi (0)<br />NLexch (0)<br />| 5,384 | 61.85 | 36.88 | 
 | 12. | XST | Stealth | 9,181 | SouthXchange (34)<br />| 34 | 58.25 | 32.77 | 
 | 13. | FLO | FLO | 974 | TOKOK (14,391)<br />Freiexchange (0)<br />[coin_exchange] (0)<br />| 14,391 | 62.50 | 32.36 | 
-| 14. | MUE | MonetaryUnit | 520 | Upbit Indonesia  (24,807)<br />Upbit (520)<br />CryTrEx (1)<br />CryptoBridge (0)<br />YoBit (0)<br />[coin_exchange] (0)<br />| 25,328 | 56.95 | 21.76 | 
+| 14. | MUE | MonetaryUnit | 520 | Upbit Indonesia  (24,807)<br />Upbit (520)<br />CryTrEx (1)<br />YoBit (0)<br />[coin_exchange] (0)<br />CryptoBridge (0)<br />| 25,328 | 56.95 | 21.76 | 
 | 15. | UBQ | Ubiq | 1,772 | Upbit Indonesia  (29,551)<br />Upbit (1,771)<br />CryTrEx (2)<br />| 31,325 | 64.10 | 30.57 | 
 | 16. | EXCL | ExclusiveCoin | 1,103 | Upbit Indonesia  (31,490)<br />Upbit (1,103)<br />[coin_exchange] (0)<br />| 32,593 | 51.95 | 28.83 | 
 | 17. | SHIFT | Shift |  | Upbit Indonesia  (37,512)<br />Upbit (1,780)<br />Livecoin (1,679)<br />Altilly (0)<br />| 40,971 | 60.55 | 33.16 | 
@@ -31,7 +31,7 @@
 | 29. | NAV | NAVCoin | 3,440 | Upbit Indonesia  (40,600)<br />Binance (33,446)<br />Upbit (3,440)<br />Bitexlive (79)<br />CryTrEx (37)<br />CREX24 (4)<br />Poloniex (0)<br />| 77,606 | 79.30 | 48.56 | 
 | 30. | GAME | GameCredits | 9,975 | Upbit Indonesia  (65,158)<br />Upbit (9,978)<br />Dove Wallet (2,017)<br />CoinEgg (363)<br />Livecoin (334)<br />CREX24 (29)<br />CryTrEx (13)<br />Graviex (7)<br />Poloniex (0)<br />Trade Satoshi (0)<br />| 77,899 | 66.35 | 34.15 | 
 | 31. | FTC | Feathercoin | 9,316 | Upbit Indonesia  (52,696)<br />QBTC (17,284)<br />Upbit (9,330)<br />FinexBox (4,343)<br />Dove Wallet (2,215)<br />[coin_exchange] (0)<br />OKEx (0)<br />| 85,868 | 49.80 | 42.41 | 
-| 32. | SBD | SteemDollars | 17,573 | Upbit Indonesia  (57,372)<br />Upbit (38,220)<br />HitBTC (89)<br />CryTrEx (23)<br />GoPax (18)<br />| 95,722 | 80.00 | 49.78 | 
+| 32. | SBD | SteemDollars | 17,629 | Upbit Indonesia  (56,607)<br />Upbit (38,709)<br />HitBTC (34)<br />CryTrEx (23)<br />GoPax (18)<br />| 95,391 | 80.00 | 49.78 | 
 | 33. | RDD | ReddCoin | 21,018 | Upbit Indonesia  (76,736)<br />Upbit (21,017)<br />YoBit (134)<br />Trade Satoshi (81)<br />[coin_exchange] (0)<br />Altilly (0)<br />Freiexchange (0)<br />| 97,968 | 66.95 | 49.36 | 
 | 34. | EMC2 | Einsteinium | 10,661 | Upbit (64,713)<br />Upbit Indonesia  (47,143)<br />Trade Satoshi (26)<br />| 111,882 | 66.20 | 36.48 | 
 | 35. | GBYTE | Bytes | 24,163 | Upbit Indonesia  (105,819)<br />Upbit (24,160)<br />Bit-Z (672)<br />| 130,651 | 67.25 | 44.70 | 
