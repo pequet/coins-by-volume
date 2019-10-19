@@ -3,21 +3,21 @@
 | 1. | MORE | More | 161 | | 0 |  | 3.23 | 
 | 2. | NLG | Gulden | 276 | [coin_exchange] (0)<br />NLexch (0)<br />| 0 | 68.35 | 41.78 | 
 | 3. | AEON | Aeon | 348 | TradeOgre (46)<br />HitBTC (26)<br />Letsdocoinz (0)<br />| 72 | 46.25 | 28.98 | 
-| 4. | SPHR | Sphere | 771 | | 0 | 41.80 | 21.78 | 
-| 5. | MER | Mercury | 748 | Waves Platform (50)<br />Tidex (0)<br />| 50 | 52.15 | 19.03 | 
-| 6. | GEO | GeoCoin | 1,038 | CryptoBridge (0)<br />| 0 | 36.55 | 9.81 | 
-| 7. | SLS | SaluS | 1,073 | YoBit (0)<br />| 0 | 29.20 | 15.89 | 
+| 4. | MER | Mercury | 490 | Waves Platform (45)<br />Tidex (0)<br />| 45 | 52.15 | 19.03 | 
+| 5. | SPHR | Sphere | 771 | | 0 | 41.80 | 21.78 | 
+| 6. | GEO | GeoCoin | 1,030 | CryptoBridge (0)<br />| 0 | 36.55 | 9.81 | 
+| 7. | SLS | SaluS | 1,091 | YoBit (0)<br />| 0 | 29.20 | 15.89 | 
 | 8. | SHIFT | Shift |  | Livecoin (2,179)<br />Upbit (1,780)<br />Altilly (0)<br />| 3,959 | 60.55 | 33.16 | 
-| 9. | GLC | GoldCoin |  | Altilly (3,339)<br />Trade Satoshi (868)<br />YoBit (0)<br />| 4,207 | 54.70 | 21.81 | 
-| 10. | PINK | PinkCoin | 4,355 | SouthXchange (19)<br />CryTrEx (0)<br />CryptoBridge (0)<br />| 19 | 51.75 | 33.06 | 
+| 9. | PINK | PinkCoin | 4,355 | SouthXchange (19)<br />CryTrEx (0)<br />CryptoBridge (0)<br />| 19 | 51.75 | 33.06 | 
+| 10. | GLC | GoldCoin |  | Altilly (4,038)<br />Trade Satoshi (1,067)<br />YoBit (0)<br />| 5,105 | 54.70 | 21.81 | 
 | 11. | CURE | CureCoin | 138 | Livecoin (5,128)<br />Trade Satoshi (0)<br />| 5,128 | 50.65 | 35.96 | 
 | 12. | XMY | Myriad | 1,892 | FinexBox (3,084)<br />Dove Wallet (2,332)<br />Trade Satoshi (2)<br />NLexch (2)<br />| 5,420 | 61.85 | 36.88 | 
 | 13. | XST | Stealth | 9,869 | SouthXchange (0)<br />| 0 | 58.25 | 32.77 | 
 | 14. | FLO | FLO | 575 | TOKOK (14,320)<br />Freiexchange (0)<br />[coin_exchange] (0)<br />| 14,320 | 62.50 | 32.36 | 
 | 15. | MUE | MonetaryUnit | 1,172 | Upbit Indonesia  (24,149)<br />Upbit (1,172)<br />YoBit (1)<br />CryptoBridge (0)<br />[coin_exchange] (0)<br />CryTrEx (0)<br />| 25,323 | 56.95 | 21.76 | 
 | 16. | TUBE | BitTube | 866 | QBTC (30,322)<br />Upbit (866)<br />TradeOgre (526)<br />Bitalong (466)<br />Livecoin (289)<br />CREX24 (170)<br />| 32,640 | 67.40 | 20.09 | 
-| 17. | UBQ | Ubiq | 1,876 | Upbit Indonesia  (30,438)<br />Upbit (1,877)<br />CryTrEx (2)<br />| 32,317 | 64.10 | 30.57 | 
-| 18. | EXCL | ExclusiveCoin | 1,495 | Upbit Indonesia  (32,725)<br />Upbit (1,495)<br />CryptoBridge (0)<br />[coin_exchange] (0)<br />| 34,220 | 51.95 | 28.83 | 
+| 17. | UBQ | Ubiq | 3,174 | Upbit Indonesia  (28,569)<br />Upbit (3,171)<br />CryTrEx (0)<br />| 31,740 | 64.10 | 30.57 | 
+| 18. | EXCL | ExclusiveCoin | 1,165 | Upbit Indonesia  (32,634)<br />Upbit (1,164)<br />CryptoBridge (0)<br />[coin_exchange] (0)<br />| 33,799 | 51.95 | 28.83 | 
 | 19. | IOC | I/OCoin | 45,719 | | 0 | 68.00 | 30.21 | 
 | 20. | OK | OkCash | 1,007 | Upbit Indonesia  (43,859)<br />Upbit (1,008)<br />FinexBox (640)<br />Trade Satoshi (44)<br />Birake (13)<br />STEX (5)<br />Unnamed (1)<br />YoBit (0)<br />| 45,570 | 60.65 | 35.80 | 
 | 21. | RADS | Radium | 1,412 | Upbit Indonesia  (43,861)<br />Upbit (1,412)<br />FinexBox (424)<br />Livecoin (0)<br />CREX24 (0)<br />SouthXchange (0)<br />[coin_exchange] (0)<br />| 45,697 | 51.55 | 31.11 | 
@@ -38,7 +38,7 @@
 | 36. | WAXP | WAXP | 25,165 | Upbit (88,285)<br />Upbit Indonesia  (49,302)<br />HitBTC (6)<br />| 137,593 | 69.80 | 28.73 | 
 | 37. | PPC | Peercoin | 3,561 | FinexBox (92,020)<br />Livecoin (21,088)<br />CoinEgg (18,015)<br />HitBTC (14,590)<br />Hotbit (10,940)<br />TheRockTrading (3,389)<br />SouthXchange (224)<br />BTCSquare (159)<br />YoBit (41)<br />Altilly (9)<br />Trade Satoshi (4)<br />CryTrEx (0)<br />| 160,479 | 74.35 | 45.29 | 
 | 38. | EMC2 | Einsteinium | 19,577 | Upbit (99,811)<br />Upbit Indonesia  (55,118)<br />Trade Satoshi (20)<br />| 154,949 | 66.20 | 36.48 | 
-| 39. | XHV | Haven Protocol | 5,253 | TOKOK (204,664)<br />Upbit (5,249)<br />TradeOgre (577)<br />Bitalong (469)<br />SouthXchange (9)<br />Idax (0)<br />| 210,968 |  | 36.26 | 
+| 39. | XHV | Haven Protocol | 6,010 | TOKOK (196,955)<br />Upbit (6,010)<br />TradeOgre (1,558)<br />Bitalong (626)<br />SouthXchange (9)<br />Idax (0)<br />| 205,159 |  | 36.26 | 
 | 40. | NAV | NAVCoin | 15,659 | Binance (167,743)<br />Upbit Indonesia  (52,728)<br />Upbit (15,658)<br />Bitexlive (205)<br />CREX24 (36)<br />CryTrEx (0)<br />Poloniex (0)<br />| 236,370 | 79.30 | 48.56 | 
 | 41. | PIVX | Pivx | 5,540 | Binance (90,137)<br />Hotbit (70,079)<br />Bitalong (40,677)<br />FEX (23,437)<br />ChainEX (18,008)<br />Upbit (5,543)<br />Bithumb (3,930)<br />CryptoBridge (1,945)<br />KuCoin (1,634)<br />CREX24 (238)<br />Graviex (18)<br />TradeOgre (10)<br />Birake (3)<br />CryTrEx (0)<br />[coin_exchange] (0)<br />Txbit (0)<br />| 255,657 | 86.05 | 53.37 | 
 | 42. | VTC | Vertcoin | 15,548 | QBTC (164,357)<br />CoinEgg (162,427)<br />Upbit (24,874)<br />FinexBox (7,652)<br />Poloniex (5,485)<br />Dove Wallet (2,392)<br />SouthXchange (25)<br />CryptoBridge (5)<br />CryTrEx (0)<br />| 367,217 | 70.55 | 47.46 | 
