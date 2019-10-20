@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | MORE | More | 20 | | 0 |  | 3.23 | 
 | 2. | SLS | SaluS | 90 | YoBit (8)<br />| 8 | 29.20 | 15.65 | 
-| 3. | IOC | I/OCoin | 135 | | 0 | 68.00 | 29.79 | 
+| 3. | SPHR | Sphere | 134 | | 0 | 41.80 | 21.63 | 
 | 4. | NLG | Gulden | 202 | [coin_exchange] (0)<br />NLexch (0)<br />| 0 | 68.35 | 41.23 | 
 | 5. | MER | Mercury | 309 | Tidex (125)<br />Waves Platform (29)<br />| 155 | 52.15 | 19.07 | 
 | 6. | PINK | PinkCoin | 975 | SouthXchange (55)<br />CryTrEx (0)<br />CryptoBridge (0)<br />| 55 | 51.75 | 32.61 | 
