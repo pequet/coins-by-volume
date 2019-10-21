@@ -19,7 +19,7 @@
 | 17. | LBC | LBRY Credits | 3,011 | Upbit Indonesia  (29,455)<br />Upbit (3,012)<br />Poloniex (0)<br />Coindeal (0)<br />| 32,467 | 64.60 | 46.12 | 
 | 18. | EXP | Expanse | 4,036 | Upbit Indonesia  (26,211)<br />Upbit (4,036)<br />Dove Wallet (1,988)<br />HitBTC (193)<br />Graviex (1)<br />CryTrEx (0)<br />| 32,429 | 56.20 | 39.12 | 
 | 19. | VRC | VeriCoin | 1,826 | Upbit Indonesia  (31,704)<br />Livecoin (1,868)<br />Upbit (1,826)<br />| 35,398 | 61.25 | 39.27 | 
-| 20. | TUBE | BitTube | 4,305 | QBTC (29,574)<br />Upbit (4,305)<br />Bitalong (572)<br />TradeOgre (360)<br />Livecoin (208)<br />CREX24 (70)<br />| 35,090 | 67.40 | 20.02 | 
+| 20. | BLK | BlackCoin | 1,923 | CoinEgg (18,003)<br />Upbit Indonesia  (14,672)<br />Upbit (1,907)<br />Livecoin (720)<br />AEX (4)<br />[coin_exchange] (0)<br />| 35,307 | 55.25 | 38.22 | 
 | 21. | RADS | Radium | 1,788 | Upbit Indonesia  (36,646)<br />Upbit (1,788)<br />FinexBox (425)<br />SouthXchange (63)<br />Livecoin (42)<br />CREX24 (0)<br />| 38,963 | 51.55 | 29.80 | 
 | 22. | MEME | Memetic | 2,224 | Upbit Indonesia  (38,509)<br />Upbit (2,224)<br />| 40,733 | 47.40 | 35.30 | 
 | 23. | SBD | SteemDollars | 2,619 | Upbit Indonesia  (37,951)<br />Upbit (6,854)<br />HitBTC (65)<br />GoPax (18)<br />CryTrEx (0)<br />| 44,888 | 80.00 | 48.69 | 
