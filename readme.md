@@ -3,35 +3,35 @@
 | 1. | MORE | More | 13 | | 0 |  | 3.23 | 
 | 2. | GEO | GeoCoin | 106 | CryptoBridge (43)<br />| 43 | 36.55 | 9.56 | 
 | 3. | PINK | PinkCoin | 148 | SouthXchange (32)<br />CryTrEx (0)<br />| 32 | 51.75 | 32.66 | 
-| 4. | IOC | I/OCoin | 387 | | 0 | 68.00 | 29.90 | 
-| 5. | SPHR | Sphere | 596 | | 0 | 41.80 | 21.98 | 
-| 6. | SLS | SaluS | 1,452 | YoBit (1)<br />| 1 | 29.20 | 15.65 | 
-| 7. | MER | Mercury | 1,332 | Tidex (141)<br />Waves Platform (47)<br />| 189 | 52.15 | 19.03 | 
-| 8. | NLG | Gulden | 1,682 | YoBit (3)<br />NLexch (0)<br />| 3 | 68.35 | 41.23 | 
-| 9. | XST | Stealth | 2,911 | SouthXchange (39)<br />| 39 | 58.25 | 32.33 | 
-| 10. | RADS | Radium | 901 | Upbit Indonesia  (1,008)<br />Upbit (901)<br />FinexBox (274)<br />Livecoin (0)<br />SouthXchange (0)<br />CREX24 (0)<br />| 2,184 | 51.55 | 29.61 | 
-| 11. | VRC | VeriCoin | 875 | Livecoin (966)<br />Upbit (876)<br />Upbit Indonesia  (876)<br />| 2,717 | 61.25 | 39.00 | 
-| 12. | MUE | MonetaryUnit | 1,246 | Upbit Indonesia  (1,420)<br />Upbit (1,189)<br />YoBit (0)<br />CryTrEx (0)<br />| 2,609 | 56.95 | 21.83 | 
-| 13. | AEON | Aeon | 3,872 | HitBTC (64)<br />TradeOgre (18)<br />| 82 | 46.25 | 28.45 | 
-| 14. | CURE | CureCoin | 328 | Livecoin (4,597)<br />Trade Satoshi (0)<br />| 4,597 | 50.65 | 35.43 | 
-| 15. | XMY | Myriad | 877 | FinexBox (2,773)<br />Dove Wallet (2,085)<br />Trade Satoshi (0)<br />NLexch (0)<br />| 4,859 | 61.85 | 36.45 | 
-| 16. | CRW | Crown | 1,851 | Upbit Indonesia  (2,098)<br />Upbit (1,855)<br />CREX24 (6)<br />YoBit (2)<br />CryptoBridge (0)<br />| 3,960 | 71.20 | 38.01 | 
-| 17. | XDN | DigitalNote | 4,041 | Upbit (4,039)<br />Upbit Indonesia  (1,253)<br />FinexBox (220)<br />HitBTC (45)<br />| 5,558 | 55.15 | 33.89 | 
-| 18. | MEME | Memetic | 3,604 | Upbit (3,602)<br />Upbit Indonesia  (3,451)<br />| 7,053 | 47.40 | 35.24 | 
-| 19. | EXCL | ExclusiveCoin | 3,504 | Upbit Indonesia  (4,157)<br />Upbit (3,503)<br />CryptoBridge (0)<br />| 7,659 | 51.95 | 28.31 | 
-| 20. | OK | OkCash | 3,656 | Upbit Indonesia  (3,680)<br />Upbit (3,656)<br />FinexBox (514)<br />Unnamed (90)<br />Birake (22)<br />STEX (1)<br />Trade Satoshi (0)<br />YoBit (0)<br />| 7,963 | 60.65 | 35.54 | 
-| 21. | UBQ | Ubiq | 4,930 | Upbit (4,935)<br />Upbit Indonesia  (3,721)<br />CryTrEx (0)<br />| 8,656 | 64.10 | 29.84 | 
-| 22. | EXP | Expanse | 4,085 | Upbit Indonesia  (4,101)<br />Upbit (4,087)<br />Dove Wallet (1,907)<br />HitBTC (65)<br />Graviex (2)<br />CryTrEx (0)<br />| 10,161 | 56.20 | 38.88 | 
-| 23. | FLO | FLO | 4,001 | TOKOK (13,751)<br />Freiexchange (0)<br />| 13,751 | 62.50 | 32.28 | 
-| 24. | BLK | BlackCoin | 1,892 | CoinEgg (14,841)<br />Upbit Indonesia  (1,908)<br />Upbit (1,892)<br />Livecoin (257)<br />AEX (17)<br />| 18,914 | 55.25 | 38.10 | 
-| 25. | GAME | GameCredits | 7,106 | Upbit (7,106)<br />Upbit Indonesia  (7,106)<br />Dove Wallet (1,931)<br />Livecoin (539)<br />CoinEgg (217)<br />CREX24 (66)<br />Trade Satoshi (12)<br />NLexch (0)<br />Graviex (0)<br />CryTrEx (0)<br />| 16,977 | 66.35 | 33.27 | 
-| 26. | SBD | SteemDollars | 7,062 | Upbit (18,363)<br />Upbit Indonesia  (7,256)<br />HitBTC (222)<br />GoPax (17)<br />CryTrEx (0)<br />| 25,858 | 80.00 | 48.81 | 
-| 27. | FTC | Feathercoin | 8,602 | QBTC (14,328)<br />Upbit Indonesia  (8,602)<br />Upbit (8,597)<br />FinexBox (3,011)<br />Dove Wallet (1,951)<br />OKEx (0)<br />| 36,488 | 49.80 | 41.50 | 
-| 28. | TUBE | BitTube | 9,723 | QBTC (30,145)<br />Upbit (9,720)<br />TradeOgre (1,159)<br />Bitalong (371)<br />Livecoin (277)<br />CREX24 (174)<br />CryptoBridge (0)<br />| 41,846 | 67.40 | 20.04 | 
-| 29. | PPC | Peercoin | 4,672 | CoinEgg (16,956)<br />Hotbit (16,560)<br />Livecoin (16,106)<br />HitBTC (10,711)<br />TheRockTrading (3,440)<br />FinexBox (932)<br />BTCSquare (149)<br />SouthXchange (33)<br />YoBit (6)<br />Coingi (3)<br />Trade Satoshi (0)<br />Altilly (0)<br />CryTrEx (0)<br />| 64,896 | 74.35 | 44.39 | 
-| 30. | GBYTE | Bytes | 26,954 | Upbit (26,954)<br />Upbit Indonesia  (26,954)<br />Bit-Z (0)<br />| 53,908 | 67.25 | 43.71 | 
-| 31. | LBC | LBRY Credits | 27,081 | Upbit (27,077)<br />Upbit Indonesia  (27,017)<br />Coindeal (0)<br />| 54,094 | 64.60 | 46.11 | 
-| 32. | UKG | UnikoinGold | 41,292 | Upbit (41,686)<br />Upbit Indonesia  (23,654)<br />YoBit (0)<br />Liquid (0)<br />| 65,340 | 62.65 | 30.90 | 
+| 4. | SPHR | Sphere | 596 | | 0 | 41.80 | 21.98 | 
+| 5. | SLS | SaluS | 1,452 | YoBit (1)<br />| 1 | 29.20 | 15.65 | 
+| 6. | MER | Mercury | 1,332 | Tidex (141)<br />Waves Platform (47)<br />| 189 | 52.15 | 19.03 | 
+| 7. | NLG | Gulden | 1,682 | YoBit (3)<br />NLexch (0)<br />| 3 | 68.35 | 41.23 | 
+| 8. | XST | Stealth | 2,911 | SouthXchange (39)<br />| 39 | 58.25 | 32.33 | 
+| 9. | RADS | Radium | 901 | Upbit Indonesia  (1,008)<br />Upbit (901)<br />FinexBox (274)<br />Livecoin (0)<br />SouthXchange (0)<br />CREX24 (0)<br />| 2,184 | 51.55 | 29.61 | 
+| 10. | VRC | VeriCoin | 875 | Livecoin (966)<br />Upbit (876)<br />Upbit Indonesia  (876)<br />| 2,717 | 61.25 | 39.00 | 
+| 11. | MUE | MonetaryUnit | 1,246 | Upbit Indonesia  (1,420)<br />Upbit (1,189)<br />YoBit (0)<br />CryTrEx (0)<br />| 2,609 | 56.95 | 21.83 | 
+| 12. | AEON | Aeon | 3,872 | HitBTC (64)<br />TradeOgre (18)<br />| 82 | 46.25 | 28.45 | 
+| 13. | CURE | CureCoin | 328 | Livecoin (4,597)<br />Trade Satoshi (0)<br />| 4,597 | 50.65 | 35.43 | 
+| 14. | XMY | Myriad | 877 | FinexBox (2,773)<br />Dove Wallet (2,085)<br />Trade Satoshi (0)<br />NLexch (0)<br />| 4,859 | 61.85 | 36.45 | 
+| 15. | CRW | Crown | 1,851 | Upbit Indonesia  (2,098)<br />Upbit (1,855)<br />CREX24 (6)<br />YoBit (2)<br />CryptoBridge (0)<br />| 3,960 | 71.20 | 38.01 | 
+| 16. | XDN | DigitalNote | 4,041 | Upbit (4,039)<br />Upbit Indonesia  (1,253)<br />FinexBox (220)<br />HitBTC (45)<br />| 5,558 | 55.15 | 33.89 | 
+| 17. | MEME | Memetic | 3,604 | Upbit (3,602)<br />Upbit Indonesia  (3,451)<br />| 7,053 | 47.40 | 35.24 | 
+| 18. | EXCL | ExclusiveCoin | 3,504 | Upbit Indonesia  (4,157)<br />Upbit (3,503)<br />CryptoBridge (0)<br />| 7,659 | 51.95 | 28.31 | 
+| 19. | OK | OkCash | 3,656 | Upbit Indonesia  (3,680)<br />Upbit (3,656)<br />FinexBox (514)<br />Unnamed (90)<br />Birake (22)<br />STEX (1)<br />Trade Satoshi (0)<br />YoBit (0)<br />| 7,963 | 60.65 | 35.54 | 
+| 20. | UBQ | Ubiq | 4,930 | Upbit (4,935)<br />Upbit Indonesia  (3,721)<br />CryTrEx (0)<br />| 8,656 | 64.10 | 29.84 | 
+| 21. | EXP | Expanse | 4,085 | Upbit Indonesia  (4,101)<br />Upbit (4,087)<br />Dove Wallet (1,907)<br />HitBTC (65)<br />Graviex (2)<br />CryTrEx (0)<br />| 10,161 | 56.20 | 38.88 | 
+| 22. | FLO | FLO | 4,001 | TOKOK (13,751)<br />Freiexchange (0)<br />| 13,751 | 62.50 | 32.28 | 
+| 23. | BLK | BlackCoin | 1,892 | CoinEgg (14,841)<br />Upbit Indonesia  (1,908)<br />Upbit (1,892)<br />Livecoin (257)<br />AEX (17)<br />| 18,914 | 55.25 | 38.10 | 
+| 24. | GAME | GameCredits | 7,106 | Upbit (7,106)<br />Upbit Indonesia  (7,106)<br />Dove Wallet (1,931)<br />Livecoin (539)<br />CoinEgg (217)<br />CREX24 (66)<br />Trade Satoshi (12)<br />NLexch (0)<br />Graviex (0)<br />CryTrEx (0)<br />| 16,977 | 66.35 | 33.27 | 
+| 25. | SBD | SteemDollars | 7,062 | Upbit (18,363)<br />Upbit Indonesia  (7,256)<br />HitBTC (222)<br />GoPax (17)<br />CryTrEx (0)<br />| 25,858 | 80.00 | 48.81 | 
+| 26. | FTC | Feathercoin | 8,602 | QBTC (14,328)<br />Upbit Indonesia  (8,602)<br />Upbit (8,597)<br />FinexBox (3,011)<br />Dove Wallet (1,951)<br />OKEx (0)<br />| 36,488 | 49.80 | 41.50 | 
+| 27. | TUBE | BitTube | 9,723 | QBTC (30,145)<br />Upbit (9,720)<br />TradeOgre (1,159)<br />Bitalong (371)<br />Livecoin (277)<br />CREX24 (174)<br />CryptoBridge (0)<br />| 41,846 | 67.40 | 20.04 | 
+| 28. | PPC | Peercoin | 4,672 | CoinEgg (16,956)<br />Hotbit (16,560)<br />Livecoin (16,106)<br />HitBTC (10,711)<br />TheRockTrading (3,440)<br />FinexBox (932)<br />BTCSquare (149)<br />SouthXchange (33)<br />YoBit (6)<br />Coingi (3)<br />Trade Satoshi (0)<br />Altilly (0)<br />CryTrEx (0)<br />| 64,896 | 74.35 | 44.39 | 
+| 29. | GBYTE | Bytes | 26,954 | Upbit (26,954)<br />Upbit Indonesia  (26,954)<br />Bit-Z (0)<br />| 53,908 | 67.25 | 43.71 | 
+| 30. | LBC | LBRY Credits | 27,081 | Upbit (27,077)<br />Upbit Indonesia  (27,017)<br />Coindeal (0)<br />| 54,094 | 64.60 | 46.11 | 
+| 31. | UKG | UnikoinGold | 41,292 | Upbit (41,686)<br />Upbit Indonesia  (23,654)<br />YoBit (0)<br />Liquid (0)<br />| 65,340 | 62.65 | 30.90 | 
+| 32. | NAV | NAVCoin | 2,275 | Binance (105,039)<br />Upbit (2,275)<br />Upbit Indonesia  (2,135)<br />Bitexlive (480)<br />CREX24 (18)<br />CryTrEx (0)<br />| 109,947 | 79.30 | 48.02 | 
 | 33. | EMC2 | Einsteinium | 8,443 | Upbit (134,439)<br />Upbit Indonesia  (8,411)<br />Trade Satoshi (22)<br />| 142,872 | 66.20 | 36.07 | 
 | 34. | BURST | BURSTCoin | 27,899 | QBTC (62,975)<br />Upbit (27,887)<br />Upbit Indonesia  (27,870)<br />Eterbase (4,498)<br />STEX (1,120)<br />Livecoin (372)<br />| 124,722 | 79.10 | 41.36 | 
 | 35. | SIB | Sibcoin | 55,767 | Upbit (55,853)<br />Upbit Indonesia  (55,177)<br />Livecoin (524)<br />BTC Trade UA (24)<br />YoBit (1)<br />| 111,579 | 54.50 | 36.48 | 
