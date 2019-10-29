@@ -11,13 +11,13 @@
 | 9. | NLG | Gulden | 1,706 | YoBit (0)<br />NLexch (0)<br />| 0 | 68.35 | 41.23 | 
 | 10. | MEME | Memetic | 660 | Upbit (694)<br />Upbit Indonesia  (661)<br />| 1,356 | 47.40 | 35.24 | 
 | 11. | RADS | Radium | 356 | Upbit Indonesia  (1,281)<br />FinexBox (501)<br />Upbit (356)<br />SouthXchange (19)<br />CREX24 (7)<br />Livecoin (0)<br />| 2,164 | 51.55 | 29.61 | 
-| 12. | MUE | MonetaryUnit | 1,343 | Upbit Indonesia  (1,412)<br />Upbit (1,312)<br />YoBit (1)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 2,724 | 56.95 | 21.83 | 
-| 13. | UKG | UnikoinGold | 2,901 | Upbit Indonesia  (1,571)<br />Upbit (395)<br />YoBit (0)<br />| 1,965 | 62.65 | 30.90 | 
-| 14. | GBYTE | Bytes | 2,028 | Upbit (2,028)<br />Upbit Indonesia  (2,027)<br />Bit-Z (0)<br />| 4,055 | 67.25 | 43.71 | 
-| 15. | CRW | Crown | 2,256 | Upbit (2,258)<br />Upbit Indonesia  (1,590)<br />YoBit (2)<br />CREX24 (1)<br />CryptoBridge (0)<br />| 3,852 | 71.20 | 38.01 | 
-| 16. | CURE | CureCoin | 530 | Livecoin (5,827)<br />Trade Satoshi (0)<br />| 5,827 | 50.65 | 35.43 | 
-| 17. | XMY | Myriad | 2,106 | Dove Wallet (2,923)<br />FinexBox (2,830)<br />Trade Satoshi (4)<br />NLexch (0)<br />| 5,757 | 61.85 | 36.45 | 
-| 18. | VRC | VeriCoin | 2,496 | Upbit (2,503)<br />Upbit Indonesia  (2,426)<br />Livecoin (1,113)<br />| 6,042 | 61.25 | 39.00 | 
+| 12. | AEON | Aeon | 2,099 | TradeOgre (1,315)<br />HitBTC (44)<br />| 1,359 | 46.25 | 28.45 | 
+| 13. | MUE | MonetaryUnit | 1,343 | Upbit Indonesia  (1,412)<br />Upbit (1,312)<br />YoBit (1)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 2,724 | 56.95 | 21.83 | 
+| 14. | UKG | UnikoinGold | 2,901 | Upbit Indonesia  (1,571)<br />Upbit (395)<br />YoBit (0)<br />| 1,965 | 62.65 | 30.90 | 
+| 15. | GBYTE | Bytes | 2,028 | Upbit (2,028)<br />Upbit Indonesia  (2,027)<br />Bit-Z (0)<br />| 4,055 | 67.25 | 43.71 | 
+| 16. | CRW | Crown | 2,256 | Upbit (2,258)<br />Upbit Indonesia  (1,590)<br />YoBit (2)<br />CREX24 (1)<br />CryptoBridge (0)<br />| 3,852 | 71.20 | 38.01 | 
+| 17. | CURE | CureCoin | 530 | Livecoin (5,827)<br />Trade Satoshi (0)<br />| 5,827 | 50.65 | 35.43 | 
+| 18. | XMY | Myriad | 2,106 | Dove Wallet (2,923)<br />FinexBox (2,830)<br />Trade Satoshi (4)<br />NLexch (0)<br />| 5,757 | 61.85 | 36.45 | 
 | 19. | UBQ | Ubiq | 3,287 | Upbit Indonesia  (3,572)<br />Upbit (3,287)<br />CryTrEx (0)<br />| 6,858 | 64.10 | 29.84 | 
 | 20. | EXCL | ExclusiveCoin | 2,474 | Upbit Indonesia  (7,195)<br />Upbit (2,476)<br />CryptoBridge (0)<br />| 9,671 | 51.95 | 28.31 | 
 | 21. | XDN | DigitalNote | 2,908 | Upbit Indonesia  (4,669)<br />HitBTC (3,333)<br />Upbit (1,134)<br />FinexBox (226)<br />| 9,361 | 55.15 | 33.89 | 
