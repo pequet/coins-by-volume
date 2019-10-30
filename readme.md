@@ -33,7 +33,7 @@
 | 31. | GAME | GameCredits | 33,963 | Upbit (33,518)<br />Upbit Indonesia  (32,342)<br />Dove Wallet (3,370)<br />Livecoin (697)<br />CoinEgg (440)<br />CREX24 (155)<br />Graviex (88)<br />NLexch (30)<br />Trade Satoshi (15)<br />DigitalPrice (0)<br />CryTrEx (0)<br />| 70,656 | 66.35 | 33.27 | 
 | 32. | RDD | ReddCoin | 33,644 | Upbit (37,711)<br />Upbit Indonesia  (37,123)<br />YoBit (300)<br />Trade Satoshi (26)<br />C-Patex (5)<br />Altilly (3)<br />Freiexchange (0)<br />| 75,168 | 66.95 | 48.27 | 
 | 33. | PPC | Peercoin | 72,261 | Hotbit (22,820)<br />CoinEgg (16,804)<br />Livecoin (16,404)<br />HitBTC (11,598)<br />TheRockTrading (3,321)<br />FinexBox (901)<br />SouthXchange (693)<br />BTCSquare (181)<br />Altilly (62)<br />YoBit (3)<br />Coingi (2)<br />Trade Satoshi (0)<br />CryTrEx (0)<br />CryptoBridge (0)<br />| 72,789 | 74.35 | 44.39 | 
-| 34. | MUE | MonetaryUnit | 52,700 | Upbit Indonesia  (53,623)<br />Upbit (53,545)<br />YoBit (0)<br />CryTrEx (0)<br />CryptoBridge (0)<br />| 107,168 | 56.95 | 21.83 | 
+| 34. | MUE | MonetaryUnit | 52,700 | Upbit Indonesia  (53,623)<br />Upbit (53,545)<br />CryptoBridge (0)<br />YoBit (0)<br />CryTrEx (0)<br />| 107,168 | 56.95 | 21.83 | 
 | 35. | EMC2 | Einsteinium | 13,400 | Upbit (146,932)<br />Upbit Indonesia  (12,182)<br />Trade Satoshi (23)<br />BCEX (5)<br />| 159,142 | 66.20 | 36.07 | 
 | 36. | FTC | Feathercoin | 61,225 | Upbit (61,037)<br />Upbit Indonesia  (60,330)<br />QBTC (16,753)<br />FinexBox (4,106)<br />Dove Wallet (2,425)<br />OKEx (1,371)<br />| 146,022 | 49.80 | 41.50 | 
 | 37. | XHV | Haven Protocol | 14,179 | TOKOK (215,096)<br />Upbit (3,100)<br />Bitalong (2,922)<br />TradeOgre (1,705)<br />SouthXchange (15)<br />| 222,838 |  | 36.21 | 
