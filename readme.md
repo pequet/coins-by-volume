@@ -36,8 +36,8 @@
 | 34. | PPC | Peercoin | 941 | Hotbit (21,586)<br />CoinEgg (17,088)<br />Livecoin (9,964)<br />HitBTC (5,971)<br />FinexBox (1,610)<br />TheRockTrading (1,603)<br />SouthXchange (248)<br />BTCSquare (185)<br />YoBit (3)<br />Trade Satoshi (0)<br />Altilly (0)<br />CryTrEx (0)<br />CryptoBridge (0)<br />| 58,258 | 74.35 | 43.17 | 
 | 35. | RDD | ReddCoin | 35,012 | Upbit Indonesia  (20,067)<br />Upbit (14,491)<br />YoBit (97)<br />Trade Satoshi (73)<br />Altilly (0)<br />C-Patex (0)<br />| 34,728 | 66.95 | 47.73 | 
 | 36. | BURST | BURSTCoin | 4,807 | QBTC (63,578)<br />STEX (1,075)<br />Upbit (230)<br />Upbit Indonesia  (229)<br />Livecoin (150)<br />Eterbase (3)<br />| 65,265 | 79.10 | 39.97 | 
-| 37. | NXS | Nexus | 19,534 | Binance (106,696)<br />Upbit Indonesia  (1,409)<br />Upbit (9)<br />| 108,114 | 66.35 | 46.24 | 
-| 38. | VIA | ViaCoin  | 2,228 | FEX (125,952)<br />Binance (48,211)<br />Upbit Indonesia  (2,070)<br />Poloniex (1,424)<br />Upbit (558)<br />YoBit (0)<br />| 178,215 | 66.55 | 41.10 | 
+| 37. | VIA | ViaCoin  | 2,228 | FEX (125,952)<br />Binance (48,211)<br />Upbit Indonesia  (2,070)<br />Poloniex (1,424)<br />Upbit (558)<br />YoBit (0)<br />| 178,215 | 66.55 | 41.10 | 
+| 38. | XHV | Haven Protocol | 2,101 | TOKOK (211,365)<br />TradeOgre (1,657)<br />Bitalong (1,647)<br />SouthXchange (94)<br />| 214,763 |  | 36.18 | 
 | 39. | NMR | Numeraire | 2,915 | Upbit Indonesia  (87,478)<br />Upbit (87,426)<br />Poloniex (42,557)<br />BiHODL  (7,493)<br />Uniswap (5,902)<br />HitBTC (1,120)<br />YoBit (450)<br />Idex (425)<br />| 232,851 | 55.35 | 42.15 | 
 | 40. | WAXP | WAXP | 62,020 | Upbit (170,741)<br />Upbit Indonesia  (43,069)<br />Huobi Global (39,111)<br />HitBTC (0)<br />| 252,921 | 69.80 | 30.86 | 
 | 41. | PIVX | Pivx | 7,285 | FEX (94,041)<br />Hotbit (69,883)<br />Bithumb (68,976)<br />Binance (61,558)<br />Bitalong (36,999)<br />ChainEX (23,953)<br />BuyUcoin (6,121)<br />KuCoin (1,352)<br />Livecoin (1,193)<br />CREX24 (311)<br />Graviex (13)<br />Birake (0)<br />TradeOgre (0)<br />Txbit (0)<br />CryptoBridge (0)<br />CryTrEx (0)<br />| 364,399 | 86.05 | 53.35 | 
