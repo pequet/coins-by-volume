@@ -45,7 +45,7 @@
 | 43. | STRAT | Stratis | 23,361 | HitBTC (166,596)<br />Binance (94,935)<br />Upbit (87,808)<br />Bithumb (54,448)<br />Poloniex (5,137)<br />Livecoin (2,914)<br />Upbit Indonesia  (2,345)<br />CREX24 (9)<br />Trade Satoshi (2)<br />SouthXchange (0)<br />CryTrEx (0)<br />| 414,194 | 74.35 | 48.43 | 
 | 44. | STEEM | STEEM | 9,846 | Huobi Global (140,694)<br />Upbit (132,414)<br />Binance (96,117)<br />HitBTC (74,454)<br />Probit (20,407)<br />Upbit Indonesia  (7,661)<br />Huobi US (HBUS) (2,752)<br />BuyUcoin (943)<br />Huobi Korea (489)<br />GoPax (217)<br />CryTrEx (0)<br />| 476,148 | 71.65 | 52.19 | 
 | 45. | NXS | Nexus | 21,740 | Binance (478,198)<br />Upbit Indonesia  (1,639)<br />Upbit (279)<br />| 480,116 | 66.35 | 46.33 | 
-| 46. | EMC2 | Einsteinium | 95,873 | Upbit (452,485)<br />Upbit Indonesia  (89,658)<br />Trade Satoshi (21)<br />BCEX (0)<br />| 542,164 | 66.20 | 36.90 | 
+| 46. | EMC2 | Einsteinium | 84,444 | Upbit (431,064)<br />Upbit Indonesia  (79,637)<br />Trade Satoshi (17)<br />BCEX (0)<br />| 510,718 | 66.20 | 36.90 | 
 | 47. | USDS | StableUSD | 1,725 | Vindax (816,400)<br />Binance (39,630)<br />CODEX (3,150)<br />Coinsbit (2,902)<br />CREX24 (0)<br />| 862,082 | 51.65 | 21.70 | 
 | 48. | SYS | SysCoin | 1,252 | CoinEx (916,288)<br />Binance (36,956)<br />Sistemkoin (25,767)<br />Upbit Indonesia  (5,372)<br />Livecoin (1,753)<br />Upbit (1,411)<br />AEX (861)<br />YoBit (0)<br />Altmarkets (0)<br />CryTrEx (0)<br />| 988,408 | 78.55 | 46.50 | 
 | 49. | EDR | Endor | 3,165 | Hotbit (1,223,924)<br />Upbit (70,032)<br />CoinTiger (38,773)<br />Bitforex (14,991)<br />Upbit Indonesia  (6,117)<br />Digifinex (1,240)<br />Bilaxy (701)<br />Bitsonic (0)<br />LATOKEN (0)<br />Huobi Korea (0)<br />| 1,355,778 |  | 31.26 | 
