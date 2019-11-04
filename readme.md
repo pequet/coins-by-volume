@@ -3,8 +3,8 @@
 | 1. | MORE | More | 377 | | 0 |  | 3.23 | 
 | 2. | PINK | PinkCoin | 362 | SouthXchange (37)<br />| 37 | 51.75 | 32.65 | 
 | 3. | IOC | I/OCoin | 420 | | 0 | 68.00 | 29.73 | 
-| 4. | XST | Stealth | 479 | Altilly (4)<br />SouthXchange (1)<br />| 5 | 58.25 | 34.18 | 
-| 5. | MER | Mercury | 439 | Waves Platform (50)<br />Tidex (14)<br />| 65 | 52.15 | 18.95 | 
+| 4. | MER | Mercury | 439 | Waves Platform (50)<br />Tidex (14)<br />| 65 | 52.15 | 18.95 | 
+| 5. | XST | Stealth | 522 | Altilly (4)<br />SouthXchange (1)<br />| 5 | 58.25 | 34.18 | 
 | 6. | GEO | GeoCoin | 705 | CryptoBridge (0)<br />| 0 | 36.55 | 10.97 | 
 | 7. | SLS | SaluS | 912 | YoBit (1)<br />CryptoBridge (0)<br />| 1 | 29.20 | 15.65 | 
 | 8. | AEON | Aeon | 583 | TradeOgre (394)<br />HitBTC (120)<br />| 514 | 46.25 | 26.32 | 
