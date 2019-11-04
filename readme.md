@@ -4,10 +4,10 @@
 | 2. | PINK | PinkCoin | 276 | SouthXchange (36)<br />| 36 | 51.75 | 32.65 | 
 | 3. | MER | Mercury | 253 | Waves Platform (50)<br />Tidex (14)<br />| 65 | 52.15 | 18.95 | 
 | 4. | IOC | I/OCoin | 437 | | 0 | 68.00 | 29.73 | 
-| 5. | SLS | SaluS | 921 | YoBit (1)<br />CryptoBridge (0)<br />| 1 | 29.20 | 15.65 | 
-| 6. | AEON | Aeon | 536 | TradeOgre (365)<br />HitBTC (120)<br />| 485 | 46.25 | 26.32 | 
-| 7. | MUE | MonetaryUnit | 77 | Upbit Indonesia  (1,494)<br />Upbit (29)<br />CryptoBridge (0)<br />YoBit (0)<br />| 1,524 | 56.95 | 21.78 | 
-| 8. | XST | Stealth | 1,915 | Altilly (3)<br />SouthXchange (1)<br />| 4 | 58.25 | 34.18 | 
+| 5. | XST | Stealth | 479 | Altilly (4)<br />SouthXchange (1)<br />| 5 | 58.25 | 34.18 | 
+| 6. | SLS | SaluS | 921 | YoBit (1)<br />CryptoBridge (0)<br />| 1 | 29.20 | 15.65 | 
+| 7. | AEON | Aeon | 536 | TradeOgre (365)<br />HitBTC (120)<br />| 485 | 46.25 | 26.32 | 
+| 8. | MUE | MonetaryUnit | 77 | Upbit Indonesia  (1,494)<br />Upbit (29)<br />CryptoBridge (0)<br />YoBit (0)<br />| 1,524 | 56.95 | 21.78 | 
 | 9. | GEO | GeoCoin | 2,048 | CryptoBridge (0)<br />| 0 | 36.55 | 10.97 | 
 | 10. | NLG | Gulden | 2,523 | NLexch (97)<br />YoBit (2)<br />| 99 | 68.35 | 41.16 | 
 | 11. | MEME | Memetic | 655 | Upbit Indonesia  (1,225)<br />Upbit (960)<br />| 2,185 | 47.40 | 32.60 | 
