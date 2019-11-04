@@ -8,12 +8,12 @@
 | 6. | AEON | Aeon | 574 | TradeOgre (364)<br />HitBTC (120)<br />| 484 | 46.25 | 26.32 | 
 | 7. | EXCL | ExclusiveCoin | 566 | Upbit Indonesia  (699)<br />Upbit (206)<br />| 905 | 51.95 | 29.56 | 
 | 8. | MUE | MonetaryUnit | 77 | Upbit Indonesia  (1,494)<br />Upbit (34)<br />CryptoBridge (0)<br />YoBit (0)<br />| 1,528 | 56.95 | 21.78 | 
-| 9. | GEO | GeoCoin | 2,074 | CryptoBridge (0)<br />| 0 | 36.55 | 10.97 | 
-| 10. | MEME | Memetic | 599 | Upbit Indonesia  (1,225)<br />Upbit (973)<br />| 2,198 | 47.40 | 32.60 | 
-| 11. | NLG | Gulden | 2,700 | NLexch (97)<br />YoBit (2)<br />| 99 | 68.35 | 41.16 | 
-| 12. | OK | OkCash | 1,877 | Upbit Indonesia  (558)<br />FinexBox (503)<br />Upbit (92)<br />STEX (14)<br />YoBit (9)<br />Trade Satoshi (2)<br />Unnamed (0)<br />Txbit (0)<br />Birake (0)<br />| 1,177 | 60.65 | 33.28 | 
-| 13. | RADS | Radium | 1,564 | Upbit Indonesia  (1,214)<br />FinexBox (435)<br />Upbit (29)<br />CREX24 (6)<br />Livecoin (0)<br />SouthXchange (0)<br />| 1,685 | 51.55 | 27.66 | 
-| 14. | XST | Stealth | 3,592 | Altilly (3)<br />SouthXchange (1)<br />| 4 | 58.25 | 34.18 | 
+| 9. | XST | Stealth | 1,915 | Altilly (3)<br />SouthXchange (1)<br />| 4 | 58.25 | 34.18 | 
+| 10. | GEO | GeoCoin | 2,074 | CryptoBridge (0)<br />| 0 | 36.55 | 10.97 | 
+| 11. | MEME | Memetic | 599 | Upbit Indonesia  (1,225)<br />Upbit (973)<br />| 2,198 | 47.40 | 32.60 | 
+| 12. | NLG | Gulden | 2,700 | NLexch (97)<br />YoBit (2)<br />| 99 | 68.35 | 41.16 | 
+| 13. | OK | OkCash | 1,877 | Upbit Indonesia  (558)<br />FinexBox (503)<br />Upbit (92)<br />STEX (14)<br />YoBit (9)<br />Trade Satoshi (2)<br />Unnamed (0)<br />Txbit (0)<br />Birake (0)<br />| 1,177 | 60.65 | 33.28 | 
+| 14. | RADS | Radium | 1,564 | Upbit Indonesia  (1,214)<br />FinexBox (435)<br />Upbit (29)<br />CREX24 (6)<br />Livecoin (0)<br />SouthXchange (0)<br />| 1,685 | 51.55 | 27.66 | 
 | 15. | CRW | Crown | 896 | Upbit Indonesia  (1,791)<br />Upbit (1,050)<br />CREX24 (9)<br />YoBit (1)<br />| 2,850 | 71.20 | 35.54 | 
 | 16. | XDN | DigitalNote | 837 | Upbit Indonesia  (1,858)<br />Upbit (1,147)<br />FinexBox (214)<br />HitBTC (35)<br />| 3,253 | 55.15 | 30.98 | 
 | 17. | LBC | LBRY Credits | 4,028 | Upbit Indonesia  (149)<br />Upbit (6)<br />Coindeal (0)<br />| 155 | 64.60 | 43.26 | 
