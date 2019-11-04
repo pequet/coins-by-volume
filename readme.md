@@ -1,10 +1,10 @@
 | Rank | Symbol | Name | Bittrex Volume | Other Exchanges | Other Volumes | CC | CG |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | MORE | More | 303 | | 0 |  | 3.23 | 
-| 2. | MER | Mercury | 377 | Waves Platform (20)<br />Tidex (14)<br />| 34 | 52.15 | 18.95 | 
-| 3. | IOC | I/OCoin | 488 | | 0 | 68.00 | 29.73 | 
-| 4. | PINK | PinkCoin | 460 | SouthXchange (38)<br />| 38 | 51.75 | 32.65 | 
-| 5. | XST | Stealth | 522 | Altilly (4)<br />SouthXchange (1)<br />| 5 | 58.25 | 34.18 | 
+| 2. | XST | Stealth | 358 | Altilly (4)<br />SouthXchange (1)<br />| 5 | 58.25 | 34.18 | 
+| 3. | MER | Mercury | 377 | Waves Platform (20)<br />Tidex (14)<br />| 34 | 52.15 | 18.95 | 
+| 4. | IOC | I/OCoin | 488 | | 0 | 68.00 | 29.73 | 
+| 5. | PINK | PinkCoin | 460 | SouthXchange (38)<br />| 38 | 51.75 | 32.65 | 
 | 6. | AEON | Aeon | 560 | TradeOgre (80)<br />HitBTC (50)<br />| 130 | 46.25 | 26.32 | 
 | 7. | GEO | GeoCoin | 715 | CryptoBridge (0)<br />| 0 | 36.55 | 10.97 | 
 | 8. | SLS | SaluS | 895 | YoBit (2)<br />CryptoBridge (0)<br />| 2 | 29.20 | 15.65 | 
